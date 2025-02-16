@@ -1,0 +1,105 @@
+Classification Report - random_forest:
+                    precision    recall  f1-score   support
+
+       No_Relation       0.91      0.92      0.91       586
+Treatment_Response       0.78      0.77      0.77       230
+
+          accuracy                           0.87       816
+         macro avg       0.85      0.84      0.84       816
+      weighted avg       0.87      0.87      0.87       816
+
+Optimal Threshold - random_forest: 0.4192
+
+AUC-ROC Score - random_forest: 0.9264
+Average Precision Score (AUC-PR) - random_forest: 0.8456
+
+Classification Report - xgboost:
+                    precision    recall  f1-score   support
+
+       No_Relation       0.92      0.94      0.93       586
+Treatment_Response       0.83      0.78      0.81       230
+
+          accuracy                           0.89       816
+         macro avg       0.87      0.86      0.87       816
+      weighted avg       0.89      0.89      0.89       816
+
+Optimal Threshold - xgboost: 0.5004
+
+AUC-ROC Score - xgboost: 0.9380
+Average Precision Score (AUC-PR) - xgboost: 0.8773
+
+Classification Report - lightgbm:
+                    precision    recall  f1-score   support
+
+       No_Relation       0.90      0.94      0.92       586
+Treatment_Response       0.83      0.73      0.78       230
+
+          accuracy                           0.88       816
+         macro avg       0.87      0.84      0.85       816
+      weighted avg       0.88      0.88      0.88       816
+
+Optimal Threshold - lightgbm: 0.3664
+
+AUC-ROC Score - lightgbm: 0.9414
+Average Precision Score (AUC-PR) - lightgbm: 0.8896
+
+Classification Report - adaboost:
+                    precision    recall  f1-score   support
+
+       No_Relation       0.89      0.92      0.90       586
+Treatment_Response       0.77      0.71      0.74       230
+
+          accuracy                           0.86       816
+         macro avg       0.83      0.81      0.82       816
+      weighted avg       0.86      0.86      0.86       816
+
+Optimal Threshold - adaboost: 0.4994
+
+AUC-ROC Score - adaboost: 0.9002
+Average Precision Score (AUC-PR) - adaboost: 0.7893
+
+Classification Report - gradient_boosting:
+                    precision    recall  f1-score   support
+
+       No_Relation       0.90      0.92      0.91       586
+Treatment_Response       0.78      0.73      0.76       230
+
+          accuracy                           0.87       816
+         macro avg       0.84      0.83      0.83       816
+      weighted avg       0.86      0.87      0.87       816
+
+Optimal Threshold - gradient_boosting: 0.3598
+
+AUC-ROC Score - gradient_boosting: 0.9198
+Average Precision Score (AUC-PR) - gradient_boosting: 0.8459
+
+Classification Report - svm:
+                    precision    recall  f1-score   support
+
+       No_Relation       0.91      0.89      0.90       586
+Treatment_Response       0.74      0.79      0.76       230
+
+          accuracy                           0.86       816
+         macro avg       0.83      0.84      0.83       816
+      weighted avg       0.87      0.86      0.86       816
+
+Optimal Threshold - svm: 0.6060
+
+AUC-ROC Score - svm: 0.9213
+Average Precision Score (AUC-PR) - svm: 0.8198
+
+Classification Report - logistic_regression:
+                    precision    recall  f1-score   support
+
+       No_Relation       0.93      0.90      0.92       586
+Treatment_Response       0.77      0.83      0.80       230
+
+          accuracy                           0.88       816
+         macro avg       0.85      0.87      0.86       816
+      weighted avg       0.88      0.88      0.88       816
+
+Optimal Threshold - logistic_regression: 0.6438
+
+AUC-ROC Score - logistic_regression: 0.9381
+Average Precision Score (AUC-PR) - logistic_regression: 0.8618
+

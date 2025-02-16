@@ -1,0 +1,105 @@
+2024-12-05 11:41:53,689 - INFO - Best parameters for LightGBM: {'class_weight': None, 'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 200}
+2024-12-05 11:41:53,689 - INFO - Performing Grid Search for AdaBoost...
+2024-12-05 11:45:04,225 - INFO - Best parameters for AdaBoost: {'learning_rate': 1.0, 'n_estimators': 100}
+2024-12-05 11:45:04,226 - INFO - Performing Grid Search for Gradient Boosting...
+2024-12-05 12:20:05,807 - INFO - Best parameters for Gradient Boosting: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 200}
+2024-12-05 12:20:05,808 - INFO - Performing Grid Search for SVM...
+2024-12-05 12:20:08,895 - INFO - Best parameters for SVM: {'C': 1, 'class_weight': 'balanced', 'kernel': 'linear'}
+2024-12-05 12:20:08,895 - INFO - Performing Grid Search for Logistic Regression...
+2024-12-05 12:20:10,216 - INFO - Best parameters for Logistic Regression: {'C': 1, 'class_weight': 'balanced', 'max_iter': 1000}
+2024-12-05 12:20:10,216 - INFO - Validating models on the validation set...
+2024-12-05 12:20:10,216 - INFO - Encoding validation data...
+2024-12-05 12:20:15,360 - INFO - Optimal threshold for random_forest is 0.5319 with F1 score 0.8163
+
+Validation Classification Report - random_forest:
+                    precision    recall  f1-score   support
+
+       No_Relation       0.94      0.92      0.93       130
+Treatment_Response       0.78      0.85      0.82        47
+
+          accuracy                           0.90       177
+         macro avg       0.86      0.88      0.87       177
+      weighted avg       0.90      0.90      0.90       177
+
+2024-12-05 12:20:15,374 - INFO - Optimal threshold for xgboost is 0.5472 with F1 score 0.8431
+
+Validation Classification Report - xgboost:
+                    precision    recall  f1-score   support
+
+       No_Relation       0.97      0.91      0.94       130
+Treatment_Response       0.78      0.91      0.84        47
+
+          accuracy                           0.91       177
+         macro avg       0.87      0.91      0.89       177
+      weighted avg       0.92      0.91      0.91       177
+
+2024-12-05 12:20:15,391 - INFO - Optimal threshold for lightgbm is 0.7886 with F1 score 0.8602
+
+Validation Classification Report - lightgbm:
+                    precision    recall  f1-score   support
+
+       No_Relation       0.95      0.95      0.95       130
+Treatment_Response       0.87      0.85      0.86        47
+
+          accuracy                           0.93       177
+         macro avg       0.91      0.90      0.91       177
+      weighted avg       0.93      0.93      0.93       177
+
+2024-12-05 12:20:15,423 - INFO - Optimal threshold for adaboost is 0.5020 with F1 score 0.8367
+
+Validation Classification Report - adaboost:
+                    precision    recall  f1-score   support
+
+       No_Relation       0.95      0.92      0.94       130
+Treatment_Response       0.80      0.87      0.84        47
+
+          accuracy                           0.91       177
+         macro avg       0.88      0.90      0.89       177
+      weighted avg       0.91      0.91      0.91       177
+
+2024-12-05 12:20:15,435 - INFO - Optimal threshold for gradient_boosting is 0.5463 with F1 score 0.8866
+
+Validation Classification Report - gradient_boosting:
+                    precision    recall  f1-score   support
+
+       No_Relation       0.97      0.95      0.96       130
+Treatment_Response       0.86      0.91      0.89        47
+
+          accuracy                           0.94       177
+         macro avg       0.91      0.93      0.92       177
+      weighted avg       0.94      0.94      0.94       177
+
+2024-12-05 12:20:15,457 - INFO - Optimal threshold for svm is 0.5501 with F1 score 0.8632
+
+Validation Classification Report - svm:
+                    precision    recall  f1-score   support
+
+       No_Relation       0.95      0.95      0.95       130
+Treatment_Response       0.85      0.87      0.86        47
+
+          accuracy                           0.93       177
+         macro avg       0.90      0.91      0.91       177
+      weighted avg       0.93      0.93      0.93       177
+
+2024-12-05 12:20:15,470 - INFO - Optimal threshold for logistic_regression is 0.6696 with F1 score 0.8542
+
+Validation Classification Report - logistic_regression:
+                    precision    recall  f1-score   support
+
+       No_Relation       0.95      0.94      0.95       130
+Treatment_Response       0.84      0.87      0.85        47
+
+          accuracy                           0.92       177
+         macro avg       0.89      0.91      0.90       177
+      weighted avg       0.92      0.92      0.92       177
+
+2024-12-05 12:20:15,517 - INFO - Saved random_forest model to ./models/ml_models/re_model/re_random_forest_model.joblib
+2024-12-05 12:20:15,527 - INFO - Saved xgboost model to ./models/ml_models/re_model/re_xgboost_model.joblib
+2024-12-05 12:20:15,538 - INFO - Saved lightgbm model to ./models/ml_models/re_model/re_lightgbm_model.joblib
+2024-12-05 12:20:15,569 - INFO - Saved adaboost model to ./models/ml_models/re_model/re_adaboost_model.joblib
+2024-12-05 12:20:15,581 - INFO - Saved gradient_boosting model to ./models/ml_models/re_model/re_gradient_boosting_model.joblib
+2024-12-05 12:20:15,588 - INFO - Saved svm model to ./models/ml_models/re_model/re_svm_model.joblib
+2024-12-05 12:20:15,592 - INFO - Saved logistic_regression model to ./models/ml_models/re_model/re_logistic_regression_model.joblib
+2024-12-05 12:20:15,594 - INFO - Saved label encoder to ./models/ml_models/re_model/re_label_encoder.joblib
+2024-12-05 12:20:16,152 - INFO - Saved tokenizer and model for embeddings
+2024-12-05 12:20:16,153 - INFO - ML-based RE models have been saved

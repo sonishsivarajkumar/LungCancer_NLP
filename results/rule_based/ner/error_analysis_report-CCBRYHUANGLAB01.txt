@@ -1,0 +1,254 @@
+Error Analysis Report
+=====================
+
+Entity Type: Complete_Response
+---------------------
+Total Instances: 26
+Correct Predictions: 16
+False Positives: 1
+False Negatives: 6
+Accuracy: 61.54%
+
+Examples of False Positives:
+Text: almost complete remission
+Predicted as: Complete_Response
+True label: Partial_Response
+
+Examples of False Negatives:
+Text: excellent         radiologic response
+Predicted as: Other
+True label: Complete_Response
+
+Text: remission
+Predicted as: Other
+True label: Complete_Response
+
+Text: nearly  completely resolved
+Predicted as: Other
+True label: Complete_Response
+
+Text: no evidence of tumor
+Predicted as: Other
+True label: Complete_Response
+
+Text: complete  remission
+Predicted as: Other
+True label: Complete_Response
+
+
+Entity Type: Radiotherapy
+---------------------
+Total Instances: 37
+Correct Predictions: 29
+False Positives: 0
+False Negatives: 8
+Accuracy: 78.38%
+
+No False Positives.
+
+Examples of False Negatives:
+Text: radiosurgery
+Predicted as: Other
+True label: Radiotherapy
+
+Text:  chemoradiation
+Predicted as: Other
+True label: Radiotherapy
+
+Text: chemoradiotherapy 
+Predicted as: Other
+True label: Radiotherapy
+
+Text: irradiation
+Predicted as: Other
+True label: Radiotherapy
+
+Text:  chemoradiation
+Predicted as: Other
+True label: Radiotherapy
+
+
+Entity Type: Chemotherapy
+---------------------
+Total Instances: 108
+Correct Predictions: 104
+False Positives: 1
+False Negatives: 3
+Accuracy: 96.30%
+
+Examples of False Positives:
+Text: Alimta
+Predicted as: Chemotherapy
+True label: Targeted_Therapy
+
+Examples of False Negatives:
+Text: chemoradiation
+Predicted as: Other
+True label: Chemotherapy
+
+Text: chemoradiotherapy
+Predicted as: Other
+True label: Chemotherapy
+
+Text: chemoradiation
+Predicted as: Other
+True label: Chemotherapy
+
+
+Entity Type: Stable_Disease
+---------------------
+Total Instances: 25
+Correct Predictions: 22
+False Positives: 0
+False Negatives: 0
+Accuracy: 88.00%
+
+No False Positives.
+
+No False Negatives.
+
+
+Entity Type: Cancer_Surgery
+---------------------
+Total Instances: 14
+Correct Predictions: 6
+False Positives: 0
+False Negatives: 8
+Accuracy: 42.86%
+
+No False Positives.
+
+Examples of False Negatives:
+Text: surgery
+Predicted as: Other
+True label: Cancer_Surgery
+
+Text: resection
+Predicted as: Other
+True label: Cancer_Surgery
+
+Text: surgery
+Predicted as: Other
+True label: Cancer_Surgery
+
+Text: surgery
+Predicted as: Other
+True label: Cancer_Surgery
+
+Text: resection of the left lower lobe nodule
+Predicted as: Other
+True label: Cancer_Surgery
+
+
+Entity Type: Progressive_Disease
+---------------------
+Total Instances: 52
+Correct Predictions: 36
+False Positives: 7
+False Negatives: 16
+Accuracy: 69.23%
+
+Examples of False Positives:
+Text: no  evidence  of  progression
+Predicted as: Progressive_Disease
+True label: Complete_Response
+
+Text: no  evidence  of  progression
+Predicted as: Progressive_Disease
+True label: Complete_Response
+
+Text: no evidence of residual disease
+Predicted as: Progressive_Disease
+True label: Complete_Response
+
+Text: no evidence of progression
+Predicted as: Progressive_Disease
+True label: Stable_Disease
+
+Text: if there is no evidence of residual disease
+Predicted as: Progressive_Disease
+True label: Stable_Disease
+
+Examples of False Negatives:
+Text: increase in the old treated left frontal lesion
+Predicted as: Other
+True label: Progressive_Disease
+
+Text: new left upper lobe lung mass
+Predicted as: Other
+True label: Progressive_Disease
+
+Text: increased  in  size
+Predicted as: Other
+True label: Progressive_Disease
+
+Text: be becoming refractory
+Predicted as: Other
+True label: Progressive_Disease
+
+Text: new right- sided rib metastasis
+Predicted as: Other
+True label: Progressive_Disease
+
+
+Entity Type: Immunotherapy
+---------------------
+Total Instances: 39
+Correct Predictions: 39
+False Positives: 1
+False Negatives: 0
+Accuracy: 100.00%
+
+Examples of False Positives:
+Text: pembrolizumab
+Predicted as: Immunotherapy
+True label: Chemotherapy
+
+No False Negatives.
+
+
+Entity Type: Partial_Response
+---------------------
+Total Instances: 18
+Correct Predictions: 11
+False Positives: 0
+False Negatives: 6
+Accuracy: 61.11%
+
+No False Positives.
+
+Examples of False Negatives:
+Text: decrease in the size
+Predicted as: Other
+True label: Partial_Response
+
+Text: favorable  response
+Predicted as: Other
+True label: Partial_Response
+
+Text: no evidence of malignancy
+Predicted as: Other
+True label: Partial_Response
+
+Text: decrease in the size
+Predicted as: Other
+True label: Partial_Response
+
+Text: no evidence of malignancy
+Predicted as: Other
+True label: Partial_Response
+
+
+Entity Type: Targeted_Therapy
+---------------------
+Total Instances: 16
+Correct Predictions: 15
+False Positives: 0
+False Negatives: 0
+Accuracy: 93.75%
+
+No False Positives.
+
+No False Negatives.
+
+

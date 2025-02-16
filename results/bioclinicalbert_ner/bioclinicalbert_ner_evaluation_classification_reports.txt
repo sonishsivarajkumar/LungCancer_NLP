@@ -1,0 +1,126 @@
+Classification Report - random_forest:
+                     precision    recall  f1-score   support
+
+     Cancer_Surgery       0.10      0.07      0.08        14
+       Chemotherapy       0.43      0.40      0.41       108
+  Complete_Response       0.29      0.35      0.32        26
+      Immunotherapy       0.12      0.08      0.10        39
+   Partial_Response       0.08      0.22      0.12        18
+Progressive_Disease       0.25      0.08      0.12        52
+       Radiotherapy       0.35      0.24      0.29        37
+     Stable_Disease       0.20      0.52      0.29        25
+   Targeted_Therapy       0.25      0.19      0.21        16
+
+           accuracy                           0.27       335
+          macro avg       0.23      0.24      0.21       335
+       weighted avg       0.29      0.27      0.26       335
+
+
+Micro-Average AUC-ROC - random_forest: 0.7726
+Micro-Average Average Precision (AUC-PR) - random_forest: 0.2847
+
+Classification Report - xgboost:
+                     precision    recall  f1-score   support
+
+     Cancer_Surgery       0.25      0.21      0.23        14
+       Chemotherapy       0.43      0.66      0.52       108
+  Complete_Response       0.38      0.12      0.18        26
+      Immunotherapy       0.23      0.31      0.26        39
+   Partial_Response       0.11      0.11      0.11        18
+Progressive_Disease       0.25      0.02      0.04        52
+       Radiotherapy       0.35      0.24      0.29        37
+     Stable_Disease       0.16      0.28      0.20        25
+   Targeted_Therapy       0.50      0.06      0.11        16
+
+           accuracy                           0.33       335
+          macro avg       0.29      0.22      0.21       335
+       weighted avg       0.32      0.33      0.28       335
+
+
+Micro-Average AUC-ROC - xgboost: 0.7865
+Micro-Average Average Precision (AUC-PR) - xgboost: 0.3231
+
+Classification Report - lightgbm:
+                     precision    recall  f1-score   support
+
+     Cancer_Surgery       0.25      0.29      0.27        14
+       Chemotherapy       0.39      0.33      0.36       108
+  Complete_Response       0.36      0.15      0.22        26
+      Immunotherapy       0.17      0.31      0.22        39
+   Partial_Response       0.18      0.33      0.23        18
+Progressive_Disease       0.22      0.12      0.15        52
+       Radiotherapy       0.33      0.24      0.28        37
+     Stable_Disease       0.24      0.44      0.31        25
+   Targeted_Therapy       0.27      0.19      0.22        16
+
+           accuracy                           0.27       335
+          macro avg       0.27      0.27      0.25       335
+       weighted avg       0.30      0.27      0.27       335
+
+
+Micro-Average AUC-ROC - lightgbm: 0.7635
+Micro-Average Average Precision (AUC-PR) - lightgbm: 0.2517
+
+Classification Report - adaboost:
+                     precision    recall  f1-score   support
+
+     Cancer_Surgery       0.00      0.00      0.00        14
+       Chemotherapy       0.36      0.46      0.40       108
+  Complete_Response       0.12      0.15      0.13        26
+      Immunotherapy       0.16      0.18      0.17        39
+   Partial_Response       0.17      0.28      0.21        18
+Progressive_Disease       0.19      0.08      0.11        52
+       Radiotherapy       0.06      0.03      0.04        37
+     Stable_Disease       0.22      0.32      0.26        25
+   Targeted_Therapy       0.00      0.00      0.00        16
+
+           accuracy                           0.24       335
+          macro avg       0.14      0.17      0.15       335
+       weighted avg       0.20      0.24      0.21       335
+
+
+Micro-Average AUC-ROC - adaboost: 0.6589
+Micro-Average Average Precision (AUC-PR) - adaboost: 0.1795
+
+Classification Report - gradient_boosting:
+                     precision    recall  f1-score   support
+
+     Cancer_Surgery       0.00      0.00      0.00        14
+       Chemotherapy       0.41      0.75      0.53       108
+  Complete_Response       0.33      0.08      0.12        26
+      Immunotherapy       0.26      0.18      0.21        39
+   Partial_Response       0.19      0.33      0.24        18
+Progressive_Disease       0.33      0.12      0.17        52
+       Radiotherapy       0.35      0.19      0.25        37
+     Stable_Disease       0.14      0.20      0.17        25
+   Targeted_Therapy       0.00      0.00      0.00        16
+
+           accuracy                           0.34       335
+          macro avg       0.22      0.20      0.19       335
+       weighted avg       0.30      0.34      0.28       335
+
+
+Micro-Average AUC-ROC - gradient_boosting: 0.7799
+Micro-Average Average Precision (AUC-PR) - gradient_boosting: 0.3158
+
+Classification Report - logistic_regression:
+                     precision    recall  f1-score   support
+
+     Cancer_Surgery       0.19      0.21      0.20        14
+       Chemotherapy       0.51      0.35      0.42       108
+  Complete_Response       0.38      0.54      0.44        26
+      Immunotherapy       0.23      0.31      0.26        39
+   Partial_Response       0.16      0.33      0.21        18
+Progressive_Disease       0.00      0.00      0.00        52
+       Radiotherapy       0.32      0.32      0.32        37
+     Stable_Disease       0.25      0.52      0.34        25
+   Targeted_Therapy       0.26      0.38      0.31        16
+
+           accuracy                           0.31       335
+          macro avg       0.25      0.33      0.28       335
+       weighted avg       0.30      0.31      0.29       335
+
+
+Micro-Average AUC-ROC - logistic_regression: 0.7627
+Micro-Average Average Precision (AUC-PR) - logistic_regression: 0.2559
+

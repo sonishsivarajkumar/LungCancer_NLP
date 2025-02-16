@@ -1,0 +1,298 @@
+Error Analysis Report
+=====================
+
+Entity Type: Targeted_Therapy
+---------------------
+Total Instances: 54
+Correct Predictions: 53
+False Positives: 1
+False Negatives: 0
+Accuracy: 98.15%
+
+Examples of False Positives:
+Text: Alectinib
+Predicted as: Targeted_Therapy
+True label: Chemotherapy
+
+No False Negatives.
+
+
+Entity Type: Partial_Response
+---------------------
+Total Instances: 53
+Correct Predictions: 34
+False Positives: 0
+False Negatives: 17
+Accuracy: 64.15%
+
+No False Positives.
+
+Examples of False Negatives:
+Text: decrease in the size
+Predicted as: Other
+True label: Partial_Response
+
+Text: decrease in the size
+Predicted as: Other
+True label: Partial_Response
+
+Text: favorable  response
+Predicted as: Other
+True label: Partial_Response
+
+Text: excellent  response
+Predicted as: Other
+True label: Partial_Response
+
+Text: decrease in the size
+Predicted as: Other
+True label: Partial_Response
+
+
+Entity Type: Radiotherapy
+---------------------
+Total Instances: 74
+Correct Predictions: 51
+False Positives: 1
+False Negatives: 23
+Accuracy: 68.92%
+
+Examples of False Positives:
+Text: same standard post-radiation treatment  changes
+Predicted as: Radiotherapy
+True label: Stable_Disease
+
+Examples of False Negatives:
+Text:  chemoradiation
+Predicted as: Other
+True label: Radiotherapy
+
+Text:  chemoradiotherapy
+Predicted as: Other
+True label: Radiotherapy
+
+Text:  chemoradiotherapy
+Predicted as: Other
+True label: Radiotherapy
+
+Text:  chemoradiotherapy
+Predicted as: Other
+True label: Radiotherapy
+
+Text: -chemoradiation
+Predicted as: Other
+True label: Radiotherapy
+
+
+Entity Type: Chemotherapy
+---------------------
+Total Instances: 237
+Correct Predictions: 219
+False Positives: 1
+False Negatives: 15
+Accuracy: 92.41%
+
+Examples of False Positives:
+Text: Alimta
+Predicted as: Chemotherapy
+True label: Targeted_Therapy
+
+Examples of False Negatives:
+Text: chemoradiation
+Predicted as: Other
+True label: Chemotherapy
+
+Text: chemoradiotherapy
+Predicted as: Other
+True label: Chemotherapy
+
+Text: chemoradiotherapy
+Predicted as: Other
+True label: Chemotherapy
+
+Text: chemoradiotherapy
+Predicted as: Other
+True label: Chemotherapy
+
+Text: chemoradiation
+Predicted as: Other
+True label: Chemotherapy
+
+
+Entity Type: Immunotherapy
+---------------------
+Total Instances: 100
+Correct Predictions: 98
+False Positives: 2
+False Negatives: 2
+Accuracy: 98.00%
+
+Examples of False Positives:
+Text: pembrolizumab
+Predicted as: Immunotherapy
+True label: Chemotherapy
+
+Text: nivolumab
+Predicted as: Immunotherapy
+True label: Chemotherapy
+
+Examples of False Negatives:
+Text:  chemoimmunotherapy
+Predicted as: Other
+True label: Immunotherapy
+
+Text: chemoimmunotherapy 
+Predicted as: Other
+True label: Immunotherapy
+
+
+Entity Type: Stable_Disease
+---------------------
+Total Instances: 71
+Correct Predictions: 61
+False Positives: 0
+False Negatives: 6
+Accuracy: 85.92%
+
+No False Positives.
+
+Examples of False Negatives:
+Text: if there is no evidence of residual disease
+Predicted as: Other
+True label: Stable_Disease
+
+Text: did not show any new areas of disease
+Predicted as: Other
+True label: Stable_Disease
+
+Text: without  progression
+Predicted as: Other
+True label: Stable_Disease
+
+Text: no evidence of  disease progression
+Predicted as: Other
+True label: Stable_Disease
+
+Text: no evidence of progression
+Predicted as: Other
+True label: Stable_Disease
+
+
+Entity Type: Progressive_Disease
+---------------------
+Total Instances: 127
+Correct Predictions: 91
+False Positives: 10
+False Negatives: 36
+Accuracy: 71.65%
+
+Examples of False Positives:
+Text: no  evidence of recurrent disease
+Predicted as: Progressive_Disease
+True label: Complete_Response
+
+Text: disease  recurrence  or  progression
+Predicted as: Progressive_Disease
+True label: Stable_Disease
+
+Text: no  evidence  of  recurrent  disease
+Predicted as: Progressive_Disease
+True label: Partial_Response
+
+Text: no  evidence  of  recurrent
+Predicted as: Progressive_Disease
+True label: Complete_Response
+
+Text: no  evidence  of  progression
+Predicted as: Progressive_Disease
+True label: Complete_Response
+
+Examples of False Negatives:
+Text: FDG-avid mediastinal lymphadenopathy and several bilateral  pulmonary nodules
+Predicted as: Other
+True label: Progressive_Disease
+
+Text: new  finding of abnormality
+Predicted as: Other
+True label: Progressive_Disease
+
+Text: new right-sided rib metastasis
+Predicted as: Other
+True label: Progressive_Disease
+
+Text: metastatic  disease  involving  L5  and  the  sacrum
+Predicted as: Other
+True label: Progressive_Disease
+
+Text: residual  disease
+Predicted as: Other
+True label: Progressive_Disease
+
+
+Entity Type: Complete_Response
+---------------------
+Total Instances: 64
+Correct Predictions: 36
+False Positives: 1
+False Negatives: 22
+Accuracy: 56.25%
+
+Examples of False Positives:
+Text: almost complete remission
+Predicted as: Complete_Response
+True label: Partial_Response
+
+Examples of False Negatives:
+Text: no evidence of recurrent  disease
+Predicted as: Other
+True label: Complete_Response
+
+Text: no signs of recurrent
+Predicted as: Other
+True label: Complete_Response
+
+Text: excellent         radiologic response
+Predicted as: Other
+True label: Complete_Response
+
+Text: excellent  radiologic  response
+Predicted as: Other
+True label: Complete_Response
+
+Text: excellent response
+Predicted as: Other
+True label: Complete_Response
+
+
+Entity Type: Cancer_Surgery
+---------------------
+Total Instances: 40
+Correct Predictions: 18
+False Positives: 0
+False Negatives: 22
+Accuracy: 45.00%
+
+No False Positives.
+
+Examples of False Negatives:
+Text: right VATS with mediastinal lymph node dissection
+Predicted as: Other
+True label: Cancer_Surgery
+
+Text: surgery
+Predicted as: Other
+True label: Cancer_Surgery
+
+Text: craniotomy
+Predicted as: Other
+True label: Cancer_Surgery
+
+Text: radiosurgery
+Predicted as: Other
+True label: Cancer_Surgery
+
+Text: surgery
+Predicted as: Other
+True label: Cancer_Surgery
+
+

@@ -1,0 +1,10 @@
+Entity Type,Total Instances,Correct Predictions,False Positives,False Negatives,Accuracy (%)
+Complete_Response,26,16,1,6,61.53846153846154
+Radiotherapy,37,29,0,8,78.37837837837837
+Chemotherapy,108,104,1,3,96.29629629629629
+Stable_Disease,25,22,0,0,88.0
+Cancer_Surgery,14,6,0,8,42.857142857142854
+Progressive_Disease,52,36,7,16,69.23076923076923
+Immunotherapy,39,39,1,0,100.0
+Partial_Response,18,11,0,6,61.111111111111114
+Targeted_Therapy,16,15,0,0,93.75

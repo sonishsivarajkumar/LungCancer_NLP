@@ -1,0 +1,2438 @@
+file_name,ent1_text,ent1_type,ent2_text,ent2_type,context,relation,combined_text,true_label,predicted_label
+ESCRIPTION.DOCUMENT.OID_1454845413.txt.xml,Alimta,Chemotherapy,progression,Progressive_Disease,"and cisplatin, followed by surgical resection in April 2019 with path at that time 
+revealing a T2b N0 malignancy measuring 4.1 cm with no evidence for visceral pleural 
+invasion, although angiolymphatic invasion was identified.  KRAS positive G12D.  PTEN 
+positive. TP53 positive.  She subsequently developed brain metastasis and chest wall",Treatment_Response,"Alimta and cisplatin, followed by surgical resection in April 2019 with path at that time 
+revealing a T2b N0 malignancy measuring 4.1 cm with no evidence for visceral pleural 
+invasion, although angiolymphatic invasion was identified.  KRAS positive G12D.  PTEN 
+positive. TP53 positive.  She subsequently developed brain metastasis and chest wall progression Chemotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1454845413.txt.xml,cisplatin,Chemotherapy,progression,Progressive_Disease,", followed by surgical resection in April 2019 with path at that time 
+revealing a T2b N0 malignancy measuring 4.1 cm with no evidence for visceral pleural 
+invasion, although angiolymphatic invasion was identified.  KRAS positive G12D.  PTEN 
+positive. TP53 positive.  She subsequently developed brain metastasis and chest wall",Treatment_Response,"cisplatin , followed by surgical resection in April 2019 with path at that time 
+revealing a T2b N0 malignancy measuring 4.1 cm with no evidence for visceral pleural 
+invasion, although angiolymphatic invasion was identified.  KRAS positive G12D.  PTEN 
+positive. TP53 positive.  She subsequently developed brain metastasis and chest wall progression Chemotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_275602306.txt.xml,"nab-
+paclitaxel",Chemotherapy,progression,Progressive_Disease,with progression on second line therapy with docetaxel after 2 cycles with interval,No_Relation,"nab-
+paclitaxel with progression on second line therapy with docetaxel after 2 cycles with interval progression Chemotherapy Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_275602306.txt.xml,progression,Progressive_Disease,progression,Progressive_Disease,on second line therapy with docetaxel after 2 cycles with interval,No_Relation,progression on second line therapy with docetaxel after 2 cycles with interval progression Progressive_Disease Progressive_Disease,No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1449457880.txt.xml,carboplatin,Chemotherapy,PD,Progressive_Disease,"on dabrafenib/trametinib (BRAF/MEK inhibitors) started September 2019. 
+   3. Started",No_Relation,"carboplatin on dabrafenib/trametinib (BRAF/MEK inhibitors) started September 2019. 
+   3. Started PD Chemotherapy Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1137104556.txt.xml,pembrolizumab,Immunotherapy,almost complete remission,Partial_Response,"for about a 
+year and half and has having",Treatment_Response,"pembrolizumab for about a 
+year and half and has having almost complete remission Immunotherapy Partial_Response",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1137104556.txt.xml,pembrolizumab,Immunotherapy,Keytruda,Immunotherapy,"for about a 
+year and half and has having almost complete remission.  Recently, he has had an upper 
+respiratory viral-like infection about 3-week interval and lot of difficulty with how he feels.  
+Overall, he has had some increased swelling in his lower extremity.  He has had decreased 
+interest in food and appetite.  He has again lost about 5 pounds over the last month and half or 
+so.  He is actually up a pound from last visit we saw him, however.  He still has some 
+macrocytosis and some elevated LFTs, although improving.  He again declares that he is not 
+drinking any alcohol at this time.  In the past, recall he has had significant difficulty with alcohol 
+abuse.
+ 
+REVIEW OF SYSTEMS:  No recent fevers or chills, night sweats.  No headaches or visual 
+changes.  No lightheadedness or dizziness.  No cough or rhinorrhea.  He does have some sore 
+throat and some hoarseness.  He has no chest discomfort.  He has some shortness of breath.  
+No abdominal pain.  He has decreased appetite.  No nausea or vomiting.  No diarrhea or 
+constipation.  No melena or hematochezia.  No peripheral rashes.  He does have bilateral lower 
+extremity swelling.
+ 
+CURRENT MEDICATIONS:
+1.  Amlodipine.
+2.  Aspirin.
+3.  Clonidine.
+4.  Etodolac.
+5.  Gabapentin.
+6.  Hydroxyzine.
+7.  Metoprolol.
+8.  Mirtazapine.
+9.  Omeprazole.
+10.  Oxycodone.
+11.  Spiriva.
+12.  Ventolin.
+13.  Symbicort.
+14.  Stool softeners.
+ 
+PHYSICAL EXAMINATION:
+VITAL SIGNS:  Weight today 153.5 from 152.4 last visit.  Temperature 98.9, blood pressure 
+134/85, pulse 76, respirations 16, pulse ox 97% on room air.
+GENERAL:  He is alert and oriented x3, in no acute distress.  ECOG performance status of 0.
+HEENT:  No scleral icterus.  Conjunctivae are pink.  Oropharynx is clear without exudate or 
+erythema.
+NECK:  Supple without cervical lymphadenopathy.
+CHEST:  Overall some decreased breath sounds in the bases, but fairly clear.
+HEART:  Tachy, but regular.
+ABDOMEN:  Soft, no obvious hepatosplenomegaly.
+PERIPHERAL:  Shows 1+ edema from about the mid shin down to the dorsum of the foot 
+bilaterally.
+ 
+LABORATORY DATA:  Reviewed from May 24th showed white count of 7.9, hemoglobin 13.7, 
+MCV 103.5, platelet count of 307.  Chemistries showed sodium 128, BUN and creatinine of 7 
+and 0.92.  Calcium was 9.2, albumin 4.1, bilirubin 0.5, ALT of 25, AST of 46, alkaline 
+phosphatase of 82.
+ 
+RADIOLOGY:  CT scan dated May 20, 2019, of the chest, abdomen and pelvis was reviewed, 
+which showed increased soft tissue density along the upper left posterior mediastinum at the 
+level of the aortic arch to the left hilum measuring about 1.9 cm in thickness.  There was some 
+new mildly enlarged precarinal space and soft tissue in the right paratracheal space.  The 
+previously described nodule in the anterior basal segment of the left lower lobe was not present.
+ 
+ASSESSMENT AND PLAN:  Mr. Rupich is a 58-year-old gentleman who presents to clinic today 
+for continued followup of his history of metastatic non-small cell lung cancer.  I believe he looks 
+a little better than last time I saw him.  He still is somewhat suppressed.  He seems overtly 
+depressed.  I am concerned that he may be not telling me, but back to his consumption of 
+alcohol.  He says he is going to call his psychiatrist again because he is feeling down; however, 
+he told me that last time I encouraged him that he really should follow up for some counseling.  I 
+am not sure what to make of his scan.  In general, he has had a complete response in the past.  
+He has a little bit of upper respiratory symptoms, which I think are probably accounting for some 
+of the CT changes.  I have asked him to start on antibiotic, which he refused today.  I know he is 
+getting a little bit more hyponatremic suggestive of an underlying pulmonary process.  He may 
+be becoming refractory to",No_Relation,"pembrolizumab for about a 
+year and half and has having almost complete remission.  Recently, he has had an upper 
+respiratory viral-like infection about 3-week interval and lot of difficulty with how he feels.  
+Overall, he has had some increased swelling in his lower extremity.  He has had decreased 
+interest in food and appetite.  He has again lost about 5 pounds over the last month and half or 
+so.  He is actually up a pound from last visit we saw him, however.  He still has some 
+macrocytosis and some elevated LFTs, although improving.  He again declares that he is not 
+drinking any alcohol at this time.  In the past, recall he has had significant difficulty with alcohol 
+abuse.
+ 
+REVIEW OF SYSTEMS:  No recent fevers or chills, night sweats.  No headaches or visual 
+changes.  No lightheadedness or dizziness.  No cough or rhinorrhea.  He does have some sore 
+throat and some hoarseness.  He has no chest discomfort.  He has some shortness of breath.  
+No abdominal pain.  He has decreased appetite.  No nausea or vomiting.  No diarrhea or 
+constipation.  No melena or hematochezia.  No peripheral rashes.  He does have bilateral lower 
+extremity swelling.
+ 
+CURRENT MEDICATIONS:
+1.  Amlodipine.
+2.  Aspirin.
+3.  Clonidine.
+4.  Etodolac.
+5.  Gabapentin.
+6.  Hydroxyzine.
+7.  Metoprolol.
+8.  Mirtazapine.
+9.  Omeprazole.
+10.  Oxycodone.
+11.  Spiriva.
+12.  Ventolin.
+13.  Symbicort.
+14.  Stool softeners.
+ 
+PHYSICAL EXAMINATION:
+VITAL SIGNS:  Weight today 153.5 from 152.4 last visit.  Temperature 98.9, blood pressure 
+134/85, pulse 76, respirations 16, pulse ox 97% on room air.
+GENERAL:  He is alert and oriented x3, in no acute distress.  ECOG performance status of 0.
+HEENT:  No scleral icterus.  Conjunctivae are pink.  Oropharynx is clear without exudate or 
+erythema.
+NECK:  Supple without cervical lymphadenopathy.
+CHEST:  Overall some decreased breath sounds in the bases, but fairly clear.
+HEART:  Tachy, but regular.
+ABDOMEN:  Soft, no obvious hepatosplenomegaly.
+PERIPHERAL:  Shows 1+ edema from about the mid shin down to the dorsum of the foot 
+bilaterally.
+ 
+LABORATORY DATA:  Reviewed from May 24th showed white count of 7.9, hemoglobin 13.7, 
+MCV 103.5, platelet count of 307.  Chemistries showed sodium 128, BUN and creatinine of 7 
+and 0.92.  Calcium was 9.2, albumin 4.1, bilirubin 0.5, ALT of 25, AST of 46, alkaline 
+phosphatase of 82.
+ 
+RADIOLOGY:  CT scan dated May 20, 2019, of the chest, abdomen and pelvis was reviewed, 
+which showed increased soft tissue density along the upper left posterior mediastinum at the 
+level of the aortic arch to the left hilum measuring about 1.9 cm in thickness.  There was some 
+new mildly enlarged precarinal space and soft tissue in the right paratracheal space.  The 
+previously described nodule in the anterior basal segment of the left lower lobe was not present.
+ 
+ASSESSMENT AND PLAN:  Mr. Rupich is a 58-year-old gentleman who presents to clinic today 
+for continued followup of his history of metastatic non-small cell lung cancer.  I believe he looks 
+a little better than last time I saw him.  He still is somewhat suppressed.  He seems overtly 
+depressed.  I am concerned that he may be not telling me, but back to his consumption of 
+alcohol.  He says he is going to call his psychiatrist again because he is feeling down; however, 
+he told me that last time I encouraged him that he really should follow up for some counseling.  I 
+am not sure what to make of his scan.  In general, he has had a complete response in the past.  
+He has a little bit of upper respiratory symptoms, which I think are probably accounting for some 
+of the CT changes.  I have asked him to start on antibiotic, which he refused today.  I know he is 
+getting a little bit more hyponatremic suggestive of an underlying pulmonary process.  He may 
+be becoming refractory to Keytruda Immunotherapy Immunotherapy",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1137104556.txt.xml,almost complete remission,Partial_Response,be becoming refractory,Progressive_Disease,".  Recently, he has had an upper 
+respiratory viral-like infection about 3-week interval and lot of difficulty with how he feels.  
+Overall, he has had some increased swelling in his lower extremity.  He has had decreased 
+interest in food and appetite.  He has again lost about 5 pounds over the last month and half or 
+so.  He is actually up a pound from last visit we saw him, however.  He still has some 
+macrocytosis and some elevated LFTs, although improving.  He again declares that he is not 
+drinking any alcohol at this time.  In the past, recall he has had significant difficulty with alcohol 
+abuse.
+ 
+REVIEW OF SYSTEMS:  No recent fevers or chills, night sweats.  No headaches or visual 
+changes.  No lightheadedness or dizziness.  No cough or rhinorrhea.  He does have some sore 
+throat and some hoarseness.  He has no chest discomfort.  He has some shortness of breath.  
+No abdominal pain.  He has decreased appetite.  No nausea or vomiting.  No diarrhea or 
+constipation.  No melena or hematochezia.  No peripheral rashes.  He does have bilateral lower 
+extremity swelling.
+ 
+CURRENT MEDICATIONS:
+1.  Amlodipine.
+2.  Aspirin.
+3.  Clonidine.
+4.  Etodolac.
+5.  Gabapentin.
+6.  Hydroxyzine.
+7.  Metoprolol.
+8.  Mirtazapine.
+9.  Omeprazole.
+10.  Oxycodone.
+11.  Spiriva.
+12.  Ventolin.
+13.  Symbicort.
+14.  Stool softeners.
+ 
+PHYSICAL EXAMINATION:
+VITAL SIGNS:  Weight today 153.5 from 152.4 last visit.  Temperature 98.9, blood pressure 
+134/85, pulse 76, respirations 16, pulse ox 97% on room air.
+GENERAL:  He is alert and oriented x3, in no acute distress.  ECOG performance status of 0.
+HEENT:  No scleral icterus.  Conjunctivae are pink.  Oropharynx is clear without exudate or 
+erythema.
+NECK:  Supple without cervical lymphadenopathy.
+CHEST:  Overall some decreased breath sounds in the bases, but fairly clear.
+HEART:  Tachy, but regular.
+ABDOMEN:  Soft, no obvious hepatosplenomegaly.
+PERIPHERAL:  Shows 1+ edema from about the mid shin down to the dorsum of the foot 
+bilaterally.
+ 
+LABORATORY DATA:  Reviewed from May 24th showed white count of 7.9, hemoglobin 13.7, 
+MCV 103.5, platelet count of 307.  Chemistries showed sodium 128, BUN and creatinine of 7 
+and 0.92.  Calcium was 9.2, albumin 4.1, bilirubin 0.5, ALT of 25, AST of 46, alkaline 
+phosphatase of 82.
+ 
+RADIOLOGY:  CT scan dated May 20, 2019, of the chest, abdomen and pelvis was reviewed, 
+which showed increased soft tissue density along the upper left posterior mediastinum at the 
+level of the aortic arch to the left hilum measuring about 1.9 cm in thickness.  There was some 
+new mildly enlarged precarinal space and soft tissue in the right paratracheal space.  The 
+previously described nodule in the anterior basal segment of the left lower lobe was not present.
+ 
+ASSESSMENT AND PLAN:  Mr. Rupich is a 58-year-old gentleman who presents to clinic today 
+for continued followup of his history of metastatic non-small cell lung cancer.  I believe he looks 
+a little better than last time I saw him.  He still is somewhat suppressed.  He seems overtly 
+depressed.  I am concerned that he may be not telling me, but back to his consumption of 
+alcohol.  He says he is going to call his psychiatrist again because he is feeling down; however, 
+he told me that last time I encouraged him that he really should follow up for some counseling.  I 
+am not sure what to make of his scan.  In general, he has had a complete response in the past.  
+He has a little bit of upper respiratory symptoms, which I think are probably accounting for some 
+of the CT changes.  I have asked him to start on antibiotic, which he refused today.  I know he is 
+getting a little bit more hyponatremic suggestive of an underlying pulmonary process.  He may",No_Relation,"almost complete remission .  Recently, he has had an upper 
+respiratory viral-like infection about 3-week interval and lot of difficulty with how he feels.  
+Overall, he has had some increased swelling in his lower extremity.  He has had decreased 
+interest in food and appetite.  He has again lost about 5 pounds over the last month and half or 
+so.  He is actually up a pound from last visit we saw him, however.  He still has some 
+macrocytosis and some elevated LFTs, although improving.  He again declares that he is not 
+drinking any alcohol at this time.  In the past, recall he has had significant difficulty with alcohol 
+abuse.
+ 
+REVIEW OF SYSTEMS:  No recent fevers or chills, night sweats.  No headaches or visual 
+changes.  No lightheadedness or dizziness.  No cough or rhinorrhea.  He does have some sore 
+throat and some hoarseness.  He has no chest discomfort.  He has some shortness of breath.  
+No abdominal pain.  He has decreased appetite.  No nausea or vomiting.  No diarrhea or 
+constipation.  No melena or hematochezia.  No peripheral rashes.  He does have bilateral lower 
+extremity swelling.
+ 
+CURRENT MEDICATIONS:
+1.  Amlodipine.
+2.  Aspirin.
+3.  Clonidine.
+4.  Etodolac.
+5.  Gabapentin.
+6.  Hydroxyzine.
+7.  Metoprolol.
+8.  Mirtazapine.
+9.  Omeprazole.
+10.  Oxycodone.
+11.  Spiriva.
+12.  Ventolin.
+13.  Symbicort.
+14.  Stool softeners.
+ 
+PHYSICAL EXAMINATION:
+VITAL SIGNS:  Weight today 153.5 from 152.4 last visit.  Temperature 98.9, blood pressure 
+134/85, pulse 76, respirations 16, pulse ox 97% on room air.
+GENERAL:  He is alert and oriented x3, in no acute distress.  ECOG performance status of 0.
+HEENT:  No scleral icterus.  Conjunctivae are pink.  Oropharynx is clear without exudate or 
+erythema.
+NECK:  Supple without cervical lymphadenopathy.
+CHEST:  Overall some decreased breath sounds in the bases, but fairly clear.
+HEART:  Tachy, but regular.
+ABDOMEN:  Soft, no obvious hepatosplenomegaly.
+PERIPHERAL:  Shows 1+ edema from about the mid shin down to the dorsum of the foot 
+bilaterally.
+ 
+LABORATORY DATA:  Reviewed from May 24th showed white count of 7.9, hemoglobin 13.7, 
+MCV 103.5, platelet count of 307.  Chemistries showed sodium 128, BUN and creatinine of 7 
+and 0.92.  Calcium was 9.2, albumin 4.1, bilirubin 0.5, ALT of 25, AST of 46, alkaline 
+phosphatase of 82.
+ 
+RADIOLOGY:  CT scan dated May 20, 2019, of the chest, abdomen and pelvis was reviewed, 
+which showed increased soft tissue density along the upper left posterior mediastinum at the 
+level of the aortic arch to the left hilum measuring about 1.9 cm in thickness.  There was some 
+new mildly enlarged precarinal space and soft tissue in the right paratracheal space.  The 
+previously described nodule in the anterior basal segment of the left lower lobe was not present.
+ 
+ASSESSMENT AND PLAN:  Mr. Rupich is a 58-year-old gentleman who presents to clinic today 
+for continued followup of his history of metastatic non-small cell lung cancer.  I believe he looks 
+a little better than last time I saw him.  He still is somewhat suppressed.  He seems overtly 
+depressed.  I am concerned that he may be not telling me, but back to his consumption of 
+alcohol.  He says he is going to call his psychiatrist again because he is feeling down; however, 
+he told me that last time I encouraged him that he really should follow up for some counseling.  I 
+am not sure what to make of his scan.  In general, he has had a complete response in the past.  
+He has a little bit of upper respiratory symptoms, which I think are probably accounting for some 
+of the CT changes.  I have asked him to start on antibiotic, which he refused today.  I know he is 
+getting a little bit more hyponatremic suggestive of an underlying pulmonary process.  He may be becoming refractory Partial_Response Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1137104556.txt.xml,pembrolizumab,Immunotherapy,be becoming refractory,Progressive_Disease,"for about a 
+year and half and has having almost complete remission.  Recently, he has had an upper 
+respiratory viral-like infection about 3-week interval and lot of difficulty with how he feels.  
+Overall, he has had some increased swelling in his lower extremity.  He has had decreased 
+interest in food and appetite.  He has again lost about 5 pounds over the last month and half or 
+so.  He is actually up a pound from last visit we saw him, however.  He still has some 
+macrocytosis and some elevated LFTs, although improving.  He again declares that he is not 
+drinking any alcohol at this time.  In the past, recall he has had significant difficulty with alcohol 
+abuse.
+ 
+REVIEW OF SYSTEMS:  No recent fevers or chills, night sweats.  No headaches or visual 
+changes.  No lightheadedness or dizziness.  No cough or rhinorrhea.  He does have some sore 
+throat and some hoarseness.  He has no chest discomfort.  He has some shortness of breath.  
+No abdominal pain.  He has decreased appetite.  No nausea or vomiting.  No diarrhea or 
+constipation.  No melena or hematochezia.  No peripheral rashes.  He does have bilateral lower 
+extremity swelling.
+ 
+CURRENT MEDICATIONS:
+1.  Amlodipine.
+2.  Aspirin.
+3.  Clonidine.
+4.  Etodolac.
+5.  Gabapentin.
+6.  Hydroxyzine.
+7.  Metoprolol.
+8.  Mirtazapine.
+9.  Omeprazole.
+10.  Oxycodone.
+11.  Spiriva.
+12.  Ventolin.
+13.  Symbicort.
+14.  Stool softeners.
+ 
+PHYSICAL EXAMINATION:
+VITAL SIGNS:  Weight today 153.5 from 152.4 last visit.  Temperature 98.9, blood pressure 
+134/85, pulse 76, respirations 16, pulse ox 97% on room air.
+GENERAL:  He is alert and oriented x3, in no acute distress.  ECOG performance status of 0.
+HEENT:  No scleral icterus.  Conjunctivae are pink.  Oropharynx is clear without exudate or 
+erythema.
+NECK:  Supple without cervical lymphadenopathy.
+CHEST:  Overall some decreased breath sounds in the bases, but fairly clear.
+HEART:  Tachy, but regular.
+ABDOMEN:  Soft, no obvious hepatosplenomegaly.
+PERIPHERAL:  Shows 1+ edema from about the mid shin down to the dorsum of the foot 
+bilaterally.
+ 
+LABORATORY DATA:  Reviewed from May 24th showed white count of 7.9, hemoglobin 13.7, 
+MCV 103.5, platelet count of 307.  Chemistries showed sodium 128, BUN and creatinine of 7 
+and 0.92.  Calcium was 9.2, albumin 4.1, bilirubin 0.5, ALT of 25, AST of 46, alkaline 
+phosphatase of 82.
+ 
+RADIOLOGY:  CT scan dated May 20, 2019, of the chest, abdomen and pelvis was reviewed, 
+which showed increased soft tissue density along the upper left posterior mediastinum at the 
+level of the aortic arch to the left hilum measuring about 1.9 cm in thickness.  There was some 
+new mildly enlarged precarinal space and soft tissue in the right paratracheal space.  The 
+previously described nodule in the anterior basal segment of the left lower lobe was not present.
+ 
+ASSESSMENT AND PLAN:  Mr. Rupich is a 58-year-old gentleman who presents to clinic today 
+for continued followup of his history of metastatic non-small cell lung cancer.  I believe he looks 
+a little better than last time I saw him.  He still is somewhat suppressed.  He seems overtly 
+depressed.  I am concerned that he may be not telling me, but back to his consumption of 
+alcohol.  He says he is going to call his psychiatrist again because he is feeling down; however, 
+he told me that last time I encouraged him that he really should follow up for some counseling.  I 
+am not sure what to make of his scan.  In general, he has had a complete response in the past.  
+He has a little bit of upper respiratory symptoms, which I think are probably accounting for some 
+of the CT changes.  I have asked him to start on antibiotic, which he refused today.  I know he is 
+getting a little bit more hyponatremic suggestive of an underlying pulmonary process.  He may",No_Relation,"pembrolizumab for about a 
+year and half and has having almost complete remission.  Recently, he has had an upper 
+respiratory viral-like infection about 3-week interval and lot of difficulty with how he feels.  
+Overall, he has had some increased swelling in his lower extremity.  He has had decreased 
+interest in food and appetite.  He has again lost about 5 pounds over the last month and half or 
+so.  He is actually up a pound from last visit we saw him, however.  He still has some 
+macrocytosis and some elevated LFTs, although improving.  He again declares that he is not 
+drinking any alcohol at this time.  In the past, recall he has had significant difficulty with alcohol 
+abuse.
+ 
+REVIEW OF SYSTEMS:  No recent fevers or chills, night sweats.  No headaches or visual 
+changes.  No lightheadedness or dizziness.  No cough or rhinorrhea.  He does have some sore 
+throat and some hoarseness.  He has no chest discomfort.  He has some shortness of breath.  
+No abdominal pain.  He has decreased appetite.  No nausea or vomiting.  No diarrhea or 
+constipation.  No melena or hematochezia.  No peripheral rashes.  He does have bilateral lower 
+extremity swelling.
+ 
+CURRENT MEDICATIONS:
+1.  Amlodipine.
+2.  Aspirin.
+3.  Clonidine.
+4.  Etodolac.
+5.  Gabapentin.
+6.  Hydroxyzine.
+7.  Metoprolol.
+8.  Mirtazapine.
+9.  Omeprazole.
+10.  Oxycodone.
+11.  Spiriva.
+12.  Ventolin.
+13.  Symbicort.
+14.  Stool softeners.
+ 
+PHYSICAL EXAMINATION:
+VITAL SIGNS:  Weight today 153.5 from 152.4 last visit.  Temperature 98.9, blood pressure 
+134/85, pulse 76, respirations 16, pulse ox 97% on room air.
+GENERAL:  He is alert and oriented x3, in no acute distress.  ECOG performance status of 0.
+HEENT:  No scleral icterus.  Conjunctivae are pink.  Oropharynx is clear without exudate or 
+erythema.
+NECK:  Supple without cervical lymphadenopathy.
+CHEST:  Overall some decreased breath sounds in the bases, but fairly clear.
+HEART:  Tachy, but regular.
+ABDOMEN:  Soft, no obvious hepatosplenomegaly.
+PERIPHERAL:  Shows 1+ edema from about the mid shin down to the dorsum of the foot 
+bilaterally.
+ 
+LABORATORY DATA:  Reviewed from May 24th showed white count of 7.9, hemoglobin 13.7, 
+MCV 103.5, platelet count of 307.  Chemistries showed sodium 128, BUN and creatinine of 7 
+and 0.92.  Calcium was 9.2, albumin 4.1, bilirubin 0.5, ALT of 25, AST of 46, alkaline 
+phosphatase of 82.
+ 
+RADIOLOGY:  CT scan dated May 20, 2019, of the chest, abdomen and pelvis was reviewed, 
+which showed increased soft tissue density along the upper left posterior mediastinum at the 
+level of the aortic arch to the left hilum measuring about 1.9 cm in thickness.  There was some 
+new mildly enlarged precarinal space and soft tissue in the right paratracheal space.  The 
+previously described nodule in the anterior basal segment of the left lower lobe was not present.
+ 
+ASSESSMENT AND PLAN:  Mr. Rupich is a 58-year-old gentleman who presents to clinic today 
+for continued followup of his history of metastatic non-small cell lung cancer.  I believe he looks 
+a little better than last time I saw him.  He still is somewhat suppressed.  He seems overtly 
+depressed.  I am concerned that he may be not telling me, but back to his consumption of 
+alcohol.  He says he is going to call his psychiatrist again because he is feeling down; however, 
+he told me that last time I encouraged him that he really should follow up for some counseling.  I 
+am not sure what to make of his scan.  In general, he has had a complete response in the past.  
+He has a little bit of upper respiratory symptoms, which I think are probably accounting for some 
+of the CT changes.  I have asked him to start on antibiotic, which he refused today.  I know he is 
+getting a little bit more hyponatremic suggestive of an underlying pulmonary process.  He may be becoming refractory Immunotherapy Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1349871733.txt.xml,radiation,Radiotherapy,decrease in the size,Partial_Response,"therapy.  
+Radiation  therapy  was  given  to  all  three  hypermetabolic  lung  nodules.   The  patient 
+received 60 Gy in 30 fractions.  The patient completed treatment on June 15, 2021.  The 
+patient  received  one  treatment  of  immunotherapy,  however,  had  poor  tolerance.  
+Therefore, immunotherapy was discontinued. 
+ 
+Information for today's visit was obtained by both the patient and his wife.  The patient 
+states he was experiencing back pain.  He had an x-ray performed at Tyrone Hospital 
+ordered by his primary care physician.  The patient was told he had arthritic changes.  
+He goes on to state he was seen by Dr. Mohammad Alkayem one day ago.  He was told 
+by Dr. Alkayem that he had a compression fracture.  The patient goes on to state his 
+primary care physician referred him to a neurologist.  He was started on Namenda.  The 
+patient's  wife  has  noticed  an  improvement  in  the  patient's  memory  since  starting  the 
+medication.  The patient's wife goes on to state the patient will have an MRI of the brain 
+performed in December 2021.  The patient continues to have a cough.  He states his 
+cough is intermittent and unchanged.  He has no hemoptysis.  He has no chest pain or 
+pain with deep inspiration.  The patient states he has no unusual shortness of breath.  
+He has no sore throat or difficulty swallowing.  He reports no headache or dizziness.  He 
+states  with  the  exception  of  his  back  pain,  he  has  no  other  skeletal  discomfort.   The 
+patient states his appetite is good and he is able to tolerate a regular diet.  The patient's 
+wife  states  the  patient  is  not  as  active  as  he  was  in  the  past,  stating  he  is  rather 
+sedentary. His review of systems is otherwise unremarkable.
+ 
+On exam today, the patient's weight is 151 pounds.  This is a ten pound increase from 
+his  last  visit  in  July  2021.   No  cervical  or  clavicular  lymphadenopathy  is  appreciated.  
+The patient's lungs are clear to auscultation bilaterally.  His heart has a regular rate and 
+rhythm.   The  patient's  abdomen  is  soft  and  nontender.   The  patient  had  a  CT  of  the 
+chest performed on November 10, 2021.  I had the opportunity to review the images with 
+Dr. Schocker prior to the patient's appointment today.  There is a",Treatment_Response,"radiation therapy.  
+Radiation  therapy  was  given  to  all  three  hypermetabolic  lung  nodules.   The  patient 
+received 60 Gy in 30 fractions.  The patient completed treatment on June 15, 2021.  The 
+patient  received  one  treatment  of  immunotherapy,  however,  had  poor  tolerance.  
+Therefore, immunotherapy was discontinued. 
+ 
+Information for today's visit was obtained by both the patient and his wife.  The patient 
+states he was experiencing back pain.  He had an x-ray performed at Tyrone Hospital 
+ordered by his primary care physician.  The patient was told he had arthritic changes.  
+He goes on to state he was seen by Dr. Mohammad Alkayem one day ago.  He was told 
+by Dr. Alkayem that he had a compression fracture.  The patient goes on to state his 
+primary care physician referred him to a neurologist.  He was started on Namenda.  The 
+patient's  wife  has  noticed  an  improvement  in  the  patient's  memory  since  starting  the 
+medication.  The patient's wife goes on to state the patient will have an MRI of the brain 
+performed in December 2021.  The patient continues to have a cough.  He states his 
+cough is intermittent and unchanged.  He has no hemoptysis.  He has no chest pain or 
+pain with deep inspiration.  The patient states he has no unusual shortness of breath.  
+He has no sore throat or difficulty swallowing.  He reports no headache or dizziness.  He 
+states  with  the  exception  of  his  back  pain,  he  has  no  other  skeletal  discomfort.   The 
+patient states his appetite is good and he is able to tolerate a regular diet.  The patient's 
+wife  states  the  patient  is  not  as  active  as  he  was  in  the  past,  stating  he  is  rather 
+sedentary. His review of systems is otherwise unremarkable.
+ 
+On exam today, the patient's weight is 151 pounds.  This is a ten pound increase from 
+his  last  visit  in  July  2021.   No  cervical  or  clavicular  lymphadenopathy  is  appreciated.  
+The patient's lungs are clear to auscultation bilaterally.  His heart has a regular rate and 
+rhythm.   The  patient's  abdomen  is  soft  and  nontender.   The  patient  had  a  CT  of  the 
+chest performed on November 10, 2021.  I had the opportunity to review the images with 
+Dr. Schocker prior to the patient's appointment today.  There is a decrease in the size Radiotherapy Partial_Response",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1380778415.txt.xml,pembrolizumab,Immunotherapy,good response,Partial_Response,"previously  also  on  pemetrexed 
+and carboplatin.
+ 
+SECONDARY  DIAGNOSIS:   Cutaneous  T-cell  lymphoma  with  overall  stable  disease.  
+The patient is using triamcinolone that was given to her by Dermatology.
+ 
+INTERVAL HISTORY:  Roberta Gibson is a pleasant 65-year-old female who returns for 
+followup.   It  is  noted  that  the  patient  reports  that  her  skin  lesions  overall  have  been 
+stable  on  the  use  of  triamcinolone  topical  cream.   Otherwise,  her  most  recent  CT 
+imaging showed improvement of her lung cancer, which the patient is also very pleased. 
+Given her fatigue and borderline renal function, we have to stop pemetrexed and only 
+continue with single agent pembrolizumab.
+ 
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.
+ 
+CURRENT  MEDICATIONS:   Zofran  as  needed,  amlodipine,  Ecotrin,  metformin  and 
+hydrochlorothiazide.
+ 
+PAST  MEDICAL  HISTORY:   Type  2  diabetes,  hypertension,  lung  cancer,  CKD  and 
+CD30 positive skin proliferation.
+ 
+REVIEW OF SYSTEMS:  
+GENERAL:  Negative.
+ENMT:  Negative.
+RESPIRATORY:  Negative.
+CARDIOVASCULAR:  Negative.
+GASTROINTESTINAL:  Negative.
+GENITOURINARY:  Negative.
+INTEGUMENT:  Negative.
+NEUROLOGIC:  Negative.
+Remainder of systems is reviewed and is negative.
+ 
+PHYSICAL EXAMINATION:  
+VITAL SIGNS:  Age-appropriate looking female, in no acute distress.
+HEENT:  Normocephalic, atraumatic.
+NECK:  Supple.
+LUNGS:  Clear.
+HEART:  Regular rate and rhythm.
+ABDOMEN:  Soft.
+EXTREMITIES:  Do not show any edema, cyanosis, or petechiae.
+NEUROLOGICAL:  She is grossly intact.
+ 
+LABORATORY  STUDIES:   Creatinine  of  1.63.   White  count  of  8.1,  hemoglobin  of  11, 
+platelet count of 216.  Albumin of 4.
+ 
+ASSESSMENT  AND  PLAN:   For  this  65-year-old  female  with  history  of  lung  cancer, 
+widely metastatic disease upon diagnosis with actually so far very",Treatment_Response,"pembrolizumab previously  also  on  pemetrexed 
+and carboplatin.
+ 
+SECONDARY  DIAGNOSIS:   Cutaneous  T-cell  lymphoma  with  overall  stable  disease.  
+The patient is using triamcinolone that was given to her by Dermatology.
+ 
+INTERVAL HISTORY:  Roberta Gibson is a pleasant 65-year-old female who returns for 
+followup.   It  is  noted  that  the  patient  reports  that  her  skin  lesions  overall  have  been 
+stable  on  the  use  of  triamcinolone  topical  cream.   Otherwise,  her  most  recent  CT 
+imaging showed improvement of her lung cancer, which the patient is also very pleased. 
+Given her fatigue and borderline renal function, we have to stop pemetrexed and only 
+continue with single agent pembrolizumab.
+ 
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.
+ 
+CURRENT  MEDICATIONS:   Zofran  as  needed,  amlodipine,  Ecotrin,  metformin  and 
+hydrochlorothiazide.
+ 
+PAST  MEDICAL  HISTORY:   Type  2  diabetes,  hypertension,  lung  cancer,  CKD  and 
+CD30 positive skin proliferation.
+ 
+REVIEW OF SYSTEMS:  
+GENERAL:  Negative.
+ENMT:  Negative.
+RESPIRATORY:  Negative.
+CARDIOVASCULAR:  Negative.
+GASTROINTESTINAL:  Negative.
+GENITOURINARY:  Negative.
+INTEGUMENT:  Negative.
+NEUROLOGIC:  Negative.
+Remainder of systems is reviewed and is negative.
+ 
+PHYSICAL EXAMINATION:  
+VITAL SIGNS:  Age-appropriate looking female, in no acute distress.
+HEENT:  Normocephalic, atraumatic.
+NECK:  Supple.
+LUNGS:  Clear.
+HEART:  Regular rate and rhythm.
+ABDOMEN:  Soft.
+EXTREMITIES:  Do not show any edema, cyanosis, or petechiae.
+NEUROLOGICAL:  She is grossly intact.
+ 
+LABORATORY  STUDIES:   Creatinine  of  1.63.   White  count  of  8.1,  hemoglobin  of  11, 
+platelet count of 216.  Albumin of 4.
+ 
+ASSESSMENT  AND  PLAN:   For  this  65-year-old  female  with  history  of  lung  cancer, 
+widely metastatic disease upon diagnosis with actually so far very good response Immunotherapy Partial_Response",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1380778415.txt.xml,pemetrexed,Chemotherapy,good response,Partial_Response,"and carboplatin.
+ 
+SECONDARY  DIAGNOSIS:   Cutaneous  T-cell  lymphoma  with  overall  stable  disease.  
+The patient is using triamcinolone that was given to her by Dermatology.
+ 
+INTERVAL HISTORY:  Roberta Gibson is a pleasant 65-year-old female who returns for 
+followup.   It  is  noted  that  the  patient  reports  that  her  skin  lesions  overall  have  been 
+stable  on  the  use  of  triamcinolone  topical  cream.   Otherwise,  her  most  recent  CT 
+imaging showed improvement of her lung cancer, which the patient is also very pleased. 
+Given her fatigue and borderline renal function, we have to stop pemetrexed and only 
+continue with single agent pembrolizumab.
+ 
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.
+ 
+CURRENT  MEDICATIONS:   Zofran  as  needed,  amlodipine,  Ecotrin,  metformin  and 
+hydrochlorothiazide.
+ 
+PAST  MEDICAL  HISTORY:   Type  2  diabetes,  hypertension,  lung  cancer,  CKD  and 
+CD30 positive skin proliferation.
+ 
+REVIEW OF SYSTEMS:  
+GENERAL:  Negative.
+ENMT:  Negative.
+RESPIRATORY:  Negative.
+CARDIOVASCULAR:  Negative.
+GASTROINTESTINAL:  Negative.
+GENITOURINARY:  Negative.
+INTEGUMENT:  Negative.
+NEUROLOGIC:  Negative.
+Remainder of systems is reviewed and is negative.
+ 
+PHYSICAL EXAMINATION:  
+VITAL SIGNS:  Age-appropriate looking female, in no acute distress.
+HEENT:  Normocephalic, atraumatic.
+NECK:  Supple.
+LUNGS:  Clear.
+HEART:  Regular rate and rhythm.
+ABDOMEN:  Soft.
+EXTREMITIES:  Do not show any edema, cyanosis, or petechiae.
+NEUROLOGICAL:  She is grossly intact.
+ 
+LABORATORY  STUDIES:   Creatinine  of  1.63.   White  count  of  8.1,  hemoglobin  of  11, 
+platelet count of 216.  Albumin of 4.
+ 
+ASSESSMENT  AND  PLAN:   For  this  65-year-old  female  with  history  of  lung  cancer, 
+widely metastatic disease upon diagnosis with actually so far very",Treatment_Response,"pemetrexed and carboplatin.
+ 
+SECONDARY  DIAGNOSIS:   Cutaneous  T-cell  lymphoma  with  overall  stable  disease.  
+The patient is using triamcinolone that was given to her by Dermatology.
+ 
+INTERVAL HISTORY:  Roberta Gibson is a pleasant 65-year-old female who returns for 
+followup.   It  is  noted  that  the  patient  reports  that  her  skin  lesions  overall  have  been 
+stable  on  the  use  of  triamcinolone  topical  cream.   Otherwise,  her  most  recent  CT 
+imaging showed improvement of her lung cancer, which the patient is also very pleased. 
+Given her fatigue and borderline renal function, we have to stop pemetrexed and only 
+continue with single agent pembrolizumab.
+ 
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.
+ 
+CURRENT  MEDICATIONS:   Zofran  as  needed,  amlodipine,  Ecotrin,  metformin  and 
+hydrochlorothiazide.
+ 
+PAST  MEDICAL  HISTORY:   Type  2  diabetes,  hypertension,  lung  cancer,  CKD  and 
+CD30 positive skin proliferation.
+ 
+REVIEW OF SYSTEMS:  
+GENERAL:  Negative.
+ENMT:  Negative.
+RESPIRATORY:  Negative.
+CARDIOVASCULAR:  Negative.
+GASTROINTESTINAL:  Negative.
+GENITOURINARY:  Negative.
+INTEGUMENT:  Negative.
+NEUROLOGIC:  Negative.
+Remainder of systems is reviewed and is negative.
+ 
+PHYSICAL EXAMINATION:  
+VITAL SIGNS:  Age-appropriate looking female, in no acute distress.
+HEENT:  Normocephalic, atraumatic.
+NECK:  Supple.
+LUNGS:  Clear.
+HEART:  Regular rate and rhythm.
+ABDOMEN:  Soft.
+EXTREMITIES:  Do not show any edema, cyanosis, or petechiae.
+NEUROLOGICAL:  She is grossly intact.
+ 
+LABORATORY  STUDIES:   Creatinine  of  1.63.   White  count  of  8.1,  hemoglobin  of  11, 
+platelet count of 216.  Albumin of 4.
+ 
+ASSESSMENT  AND  PLAN:   For  this  65-year-old  female  with  history  of  lung  cancer, 
+widely metastatic disease upon diagnosis with actually so far very good response Chemotherapy Partial_Response",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1380778415.txt.xml,carboplatin,Chemotherapy,good response,Partial_Response,".
+ 
+SECONDARY  DIAGNOSIS:   Cutaneous  T-cell  lymphoma  with  overall  stable  disease.  
+The patient is using triamcinolone that was given to her by Dermatology.
+ 
+INTERVAL HISTORY:  Roberta Gibson is a pleasant 65-year-old female who returns for 
+followup.   It  is  noted  that  the  patient  reports  that  her  skin  lesions  overall  have  been 
+stable  on  the  use  of  triamcinolone  topical  cream.   Otherwise,  her  most  recent  CT 
+imaging showed improvement of her lung cancer, which the patient is also very pleased. 
+Given her fatigue and borderline renal function, we have to stop pemetrexed and only 
+continue with single agent pembrolizumab.
+ 
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.
+ 
+CURRENT  MEDICATIONS:   Zofran  as  needed,  amlodipine,  Ecotrin,  metformin  and 
+hydrochlorothiazide.
+ 
+PAST  MEDICAL  HISTORY:   Type  2  diabetes,  hypertension,  lung  cancer,  CKD  and 
+CD30 positive skin proliferation.
+ 
+REVIEW OF SYSTEMS:  
+GENERAL:  Negative.
+ENMT:  Negative.
+RESPIRATORY:  Negative.
+CARDIOVASCULAR:  Negative.
+GASTROINTESTINAL:  Negative.
+GENITOURINARY:  Negative.
+INTEGUMENT:  Negative.
+NEUROLOGIC:  Negative.
+Remainder of systems is reviewed and is negative.
+ 
+PHYSICAL EXAMINATION:  
+VITAL SIGNS:  Age-appropriate looking female, in no acute distress.
+HEENT:  Normocephalic, atraumatic.
+NECK:  Supple.
+LUNGS:  Clear.
+HEART:  Regular rate and rhythm.
+ABDOMEN:  Soft.
+EXTREMITIES:  Do not show any edema, cyanosis, or petechiae.
+NEUROLOGICAL:  She is grossly intact.
+ 
+LABORATORY  STUDIES:   Creatinine  of  1.63.   White  count  of  8.1,  hemoglobin  of  11, 
+platelet count of 216.  Albumin of 4.
+ 
+ASSESSMENT  AND  PLAN:   For  this  65-year-old  female  with  history  of  lung  cancer, 
+widely metastatic disease upon diagnosis with actually so far very",Treatment_Response,"carboplatin .
+ 
+SECONDARY  DIAGNOSIS:   Cutaneous  T-cell  lymphoma  with  overall  stable  disease.  
+The patient is using triamcinolone that was given to her by Dermatology.
+ 
+INTERVAL HISTORY:  Roberta Gibson is a pleasant 65-year-old female who returns for 
+followup.   It  is  noted  that  the  patient  reports  that  her  skin  lesions  overall  have  been 
+stable  on  the  use  of  triamcinolone  topical  cream.   Otherwise,  her  most  recent  CT 
+imaging showed improvement of her lung cancer, which the patient is also very pleased. 
+Given her fatigue and borderline renal function, we have to stop pemetrexed and only 
+continue with single agent pembrolizumab.
+ 
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.
+ 
+CURRENT  MEDICATIONS:   Zofran  as  needed,  amlodipine,  Ecotrin,  metformin  and 
+hydrochlorothiazide.
+ 
+PAST  MEDICAL  HISTORY:   Type  2  diabetes,  hypertension,  lung  cancer,  CKD  and 
+CD30 positive skin proliferation.
+ 
+REVIEW OF SYSTEMS:  
+GENERAL:  Negative.
+ENMT:  Negative.
+RESPIRATORY:  Negative.
+CARDIOVASCULAR:  Negative.
+GASTROINTESTINAL:  Negative.
+GENITOURINARY:  Negative.
+INTEGUMENT:  Negative.
+NEUROLOGIC:  Negative.
+Remainder of systems is reviewed and is negative.
+ 
+PHYSICAL EXAMINATION:  
+VITAL SIGNS:  Age-appropriate looking female, in no acute distress.
+HEENT:  Normocephalic, atraumatic.
+NECK:  Supple.
+LUNGS:  Clear.
+HEART:  Regular rate and rhythm.
+ABDOMEN:  Soft.
+EXTREMITIES:  Do not show any edema, cyanosis, or petechiae.
+NEUROLOGICAL:  She is grossly intact.
+ 
+LABORATORY  STUDIES:   Creatinine  of  1.63.   White  count  of  8.1,  hemoglobin  of  11, 
+platelet count of 216.  Albumin of 4.
+ 
+ASSESSMENT  AND  PLAN:   For  this  65-year-old  female  with  history  of  lung  cancer, 
+widely metastatic disease upon diagnosis with actually so far very good response Chemotherapy Partial_Response",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1320842941.txt.xml,IMRT,Radiotherapy,good  response,Partial_Response,"to the left upper lobe 
+/L.hilum & mediastinal area and boost up to the 66 Gy in 33 fractions.  RT finished on 
+February 5, 2018. And then he had a repeat CT scan, which showed a partial response.  
+Subsequently,  was  followed  with  the  immunotherapy  with  durvalumab  until  April  2019, 
+and  CT  scan  showed  a",No_Relation,"IMRT to the left upper lobe 
+/L.hilum & mediastinal area and boost up to the 66 Gy in 33 fractions.  RT finished on 
+February 5, 2018. And then he had a repeat CT scan, which showed a partial response.  
+Subsequently,  was  followed  with  the  immunotherapy  with  durvalumab  until  April  2019, 
+and  CT  scan  showed  a good  response Radiotherapy Partial_Response",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1320842941.txt.xml,immunotherapy,Immunotherapy,partial response,Partial_Response,".  
+Subsequently,  was  followed  with  the",No_Relation,"immunotherapy .  
+Subsequently,  was  followed  with  the partial response Immunotherapy Partial_Response",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1459817388.txt.xml,cisplatin,Chemotherapy,disease  progression,Progressive_Disease,", Taxotere, 
+and 3 cycles of carboplatin and Taxol for stage III disease.
+2.  The patient underwent bilobectomy right middle lobe and right lower lobe and lymph 
+node  dissection  in  January  2021  revealing  2.8  cm  squamous  cell  carcinoma  of  40% 
+viable tumor, 1.7 cm separate adenocarcinoma of the right lower lobe, negative margins, 
+no  lymphovascular  invasion,  1/11  lymph  nodes  involved,  ypT1c  N1a  squamous  cell 
+carcinoma, T1b N0 adenocarcinoma.
+3.   The  patient  had",Treatment_Response,"cisplatin , Taxotere, 
+and 3 cycles of carboplatin and Taxol for stage III disease.
+2.  The patient underwent bilobectomy right middle lobe and right lower lobe and lymph 
+node  dissection  in  January  2021  revealing  2.8  cm  squamous  cell  carcinoma  of  40% 
+viable tumor, 1.7 cm separate adenocarcinoma of the right lower lobe, negative margins, 
+no  lymphovascular  invasion,  1/11  lymph  nodes  involved,  ypT1c  N1a  squamous  cell 
+carcinoma, T1b N0 adenocarcinoma.
+3.   The  patient  had disease  progression Chemotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1459817388.txt.xml,Taxotere,Chemotherapy,disease  progression,Progressive_Disease,", 
+and 3 cycles of carboplatin and Taxol for stage III disease.
+2.  The patient underwent bilobectomy right middle lobe and right lower lobe and lymph 
+node  dissection  in  January  2021  revealing  2.8  cm  squamous  cell  carcinoma  of  40% 
+viable tumor, 1.7 cm separate adenocarcinoma of the right lower lobe, negative margins, 
+no  lymphovascular  invasion,  1/11  lymph  nodes  involved,  ypT1c  N1a  squamous  cell 
+carcinoma, T1b N0 adenocarcinoma.
+3.   The  patient  had",Treatment_Response,"Taxotere , 
+and 3 cycles of carboplatin and Taxol for stage III disease.
+2.  The patient underwent bilobectomy right middle lobe and right lower lobe and lymph 
+node  dissection  in  January  2021  revealing  2.8  cm  squamous  cell  carcinoma  of  40% 
+viable tumor, 1.7 cm separate adenocarcinoma of the right lower lobe, negative margins, 
+no  lymphovascular  invasion,  1/11  lymph  nodes  involved,  ypT1c  N1a  squamous  cell 
+carcinoma, T1b N0 adenocarcinoma.
+3.   The  patient  had disease  progression Chemotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1459817388.txt.xml,carboplatin,Chemotherapy,disease  progression,Progressive_Disease,"and Taxol for stage III disease.
+2.  The patient underwent bilobectomy right middle lobe and right lower lobe and lymph 
+node  dissection  in  January  2021  revealing  2.8  cm  squamous  cell  carcinoma  of  40% 
+viable tumor, 1.7 cm separate adenocarcinoma of the right lower lobe, negative margins, 
+no  lymphovascular  invasion,  1/11  lymph  nodes  involved,  ypT1c  N1a  squamous  cell 
+carcinoma, T1b N0 adenocarcinoma.
+3.   The  patient  had",Treatment_Response,"carboplatin and Taxol for stage III disease.
+2.  The patient underwent bilobectomy right middle lobe and right lower lobe and lymph 
+node  dissection  in  January  2021  revealing  2.8  cm  squamous  cell  carcinoma  of  40% 
+viable tumor, 1.7 cm separate adenocarcinoma of the right lower lobe, negative margins, 
+no  lymphovascular  invasion,  1/11  lymph  nodes  involved,  ypT1c  N1a  squamous  cell 
+carcinoma, T1b N0 adenocarcinoma.
+3.   The  patient  had disease  progression Chemotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1459817388.txt.xml,bilobectomy,Cancer_Surgery,disease  progression,Progressive_Disease,"right middle lobe and right lower lobe and lymph 
+node  dissection  in  January  2021  revealing  2.8  cm  squamous  cell  carcinoma  of  40% 
+viable tumor, 1.7 cm separate adenocarcinoma of the right lower lobe, negative margins, 
+no  lymphovascular  invasion,  1/11  lymph  nodes  involved,  ypT1c  N1a  squamous  cell 
+carcinoma, T1b N0 adenocarcinoma.
+3.   The  patient  had",Treatment_Response,"bilobectomy right middle lobe and right lower lobe and lymph 
+node  dissection  in  January  2021  revealing  2.8  cm  squamous  cell  carcinoma  of  40% 
+viable tumor, 1.7 cm separate adenocarcinoma of the right lower lobe, negative margins, 
+no  lymphovascular  invasion,  1/11  lymph  nodes  involved,  ypT1c  N1a  squamous  cell 
+carcinoma, T1b N0 adenocarcinoma.
+3.   The  patient  had disease  progression Cancer_Surgery Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1132129202.txt.xml,Opdivo,Immunotherapy,no evidence of progression,Stable_Disease,".  On March 21, 2019, she had a CAT scan of the chest, abdomen and pelvis which 
+showed",Treatment_Response,"Opdivo .  On March 21, 2019, she had a CAT scan of the chest, abdomen and pelvis which 
+showed no evidence of progression Immunotherapy Stable_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1132129202.txt.xml,resection of the left lower lobe nodule,Cancer_Surgery,recurrent,Progressive_Disease,"approximately in April 2014 for a 
+T2aN0M0 moderately differentiated adenocarcinoma, that looks subtypes of papillary, acinar, 
+and lepidic, 3.5 x 2.8 x 3.5 cm incised.  Followup in August 2014 with CT scan showed multiple 
+pulmonary nodules and further followup in December 2014 showed these are not glucose avid.  
+The nodules continued to increase and she was evaluated by Ryan Levy, MD.  and by Dr. Kaul 
+on November 2, 2015.  She got a biopsy of her right lower lobe nodule which showed",Treatment_Response,"resection of the left lower lobe nodule approximately in April 2014 for a 
+T2aN0M0 moderately differentiated adenocarcinoma, that looks subtypes of papillary, acinar, 
+and lepidic, 3.5 x 2.8 x 3.5 cm incised.  Followup in August 2014 with CT scan showed multiple 
+pulmonary nodules and further followup in December 2014 showed these are not glucose avid.  
+The nodules continued to increase and she was evaluated by Ryan Levy, MD.  and by Dr. Kaul 
+on November 2, 2015.  She got a biopsy of her right lower lobe nodule which showed recurrent Cancer_Surgery Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1132129202.txt.xml,Alimta,Chemotherapy,complete response,Complete_Response,"from March 8, 2016, to 
+May 17, 2016, followed by Alimta maintenance until August 10, 2016.  In October 2016, she had 
+an increase in the pulmonary nodules, so on November 2, 2016, she was started on Opdivo 
+with a",No_Relation,"Alimta from March 8, 2016, to 
+May 17, 2016, followed by Alimta maintenance until August 10, 2016.  In October 2016, she had 
+an increase in the pulmonary nodules, so on November 2, 2016, she was started on Opdivo 
+with a complete response Chemotherapy Complete_Response",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1132129202.txt.xml,resection of the left lower lobe nodule,Cancer_Surgery,no evidence of progression,Stable_Disease,".  She has a stable right upper lobe nodule 2 x 1.6 cm and 
+no evidence of any other disease.  She does have a right hilar lymph node 2.8 cm in size.  She 
+reports some dysesthesia in her fingertips, but is otherwise without complaints.  She is finding it 
+more difficult to continue to come to the cancer center in Beaver and wishes to follow up further 
+at UPMC in New Castle.
+ 
+She actually initially was seen by Dr. Simon in New Castle in approximately December 2014.  
+She initially underwent",No_Relation,"resection of the left lower lobe nodule .  She has a stable right upper lobe nodule 2 x 1.6 cm and 
+no evidence of any other disease.  She does have a right hilar lymph node 2.8 cm in size.  She 
+reports some dysesthesia in her fingertips, but is otherwise without complaints.  She is finding it 
+more difficult to continue to come to the cancer center in Beaver and wishes to follow up further 
+at UPMC in New Castle.
+ 
+She actually initially was seen by Dr. Simon in New Castle in approximately December 2014.  
+She initially underwent no evidence of progression Cancer_Surgery Stable_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1132129202.txt.xml,carboplatin,Chemotherapy,complete response,Complete_Response,"and Alimta from March 8, 2016, to 
+May 17, 2016, followed by Alimta maintenance until August 10, 2016.  In October 2016, she had 
+an increase in the pulmonary nodules, so on November 2, 2016, she was started on Opdivo 
+with a",No_Relation,"carboplatin and Alimta from March 8, 2016, to 
+May 17, 2016, followed by Alimta maintenance until August 10, 2016.  In October 2016, she had 
+an increase in the pulmonary nodules, so on November 2, 2016, she was started on Opdivo 
+with a complete response Chemotherapy Complete_Response",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1157942448.txt.xml,radiotherapy,Radiotherapy,"consistent with metastatic 
+disease",Progressive_Disease,"to the LLL 1o tumor 
+and adjacent left hilum and mediastinum; she did receive 40 Gy of external beam RT following a 
+single 10 Gy SBRT treatment administered by Dr. Steve Burton at UPMC Shadyside in 
+Pittsburgh (SBRT was discontinued 2o to concern about high potential gastric radiation dose).
+Since completing treatment, Freda has been feeling extremely weak and tired. However, her 
+most bothersome problem has been progressively worsening pain in her left shoulder. Recent 
+radionuclide bone scan (8/30/19) had shown some increased uptake in the inferior aspect of the 
+glenoid labrum of the left scapula, corresponding to an area of lytic lesion, which had previously 
+been identified on chest CT (6/18/19). This is now felt to be clearly",Treatment_Response,"radiotherapy to the LLL 1o tumor 
+and adjacent left hilum and mediastinum; she did receive 40 Gy of external beam RT following a 
+single 10 Gy SBRT treatment administered by Dr. Steve Burton at UPMC Shadyside in 
+Pittsburgh (SBRT was discontinued 2o to concern about high potential gastric radiation dose).
+Since completing treatment, Freda has been feeling extremely weak and tired. However, her 
+most bothersome problem has been progressively worsening pain in her left shoulder. Recent 
+radionuclide bone scan (8/30/19) had shown some increased uptake in the inferior aspect of the 
+glenoid labrum of the left scapula, corresponding to an area of lytic lesion, which had previously 
+been identified on chest CT (6/18/19). This is now felt to be clearly consistent with metastatic 
+disease Radiotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_281657154.txt.xml,carboplatin,Chemotherapy,stable disease,Stable_Disease,"and pemetrexed.
+ 
+ONCOLOGIC HISTORY:  Briefly, he was initially diagnosed after having presented with 
+progressive shortness of breath at which point in time, a CT scan demonstrated extensive 
+thoracic adenopathy, parenchymal lung disease within the right lower lobe and a large right-
+sided pleural effusion, status post thoracentesis.  Biopsy of a right supraclavicular lymph node 
+demonstrated metastatic adenocarcinoma with mutational testing, which was negative for 
+EGFR, ALK, ROS1 and PD-L1.  It was at that point in time that he was recommended for 
+initiation of systemic therapy with carboplatin, pemetrexed.  He completed whole brain 
+radiotherapy to multiple metastatic lesions to the CNS at the beginning of March of 2017.
+ 
+INTERIM HISTORY:  Mr. Maiorano returns to the office today for interim followup.  He really 
+feels quite well and tolerated his first cycle of chemotherapy really without much by way of 
+treatment-related side effects.  He was able to continue all of his day-to-day activities without 
+any significant fatigue, decrease in appetite or weight loss.  He is making a conscious effort with 
+the help of his son to eat a bit more healthy.  He does complain of his persistent sinus drainage 
+which has been a long-term issue in addition to some sensation of fullness in both ears without 
+any discrete pain.
+ 
+REVIEW OF SYSTEMS:  His comprehensive review of systems was reviewed, is as noted and 
+otherwise negative.
+ 
+PHYSICAL EXAMINATION:
+VITAL SIGNS:  Demonstrate a temperature of 97.2, his blood pressure is 140/70, pulse rate 71, 
+respirations 16, oxygen saturation 97% on room air.
+GENERAL:  He is a Caucasian male in no acute distress.
+HEENT:  Reveals no scleral icterus.  No oropharyngeal lesions.
+NECK:  Stable supraclavicular lymphadenopathy of the right supraclavicular fossa, measuring 
+up to 2 cm in diameter, though it is fairly mobile at this point in time
+HEART:  Regular rate and rhythm without murmurs, rubs or gallops.
+LUNGS:  Clear to auscultation bilaterally.
+ABDOMEN:  Nontender, nondistended, soft with no hepatosplenomegaly.  No palpable masses.
+EXTREMITIES:  He has no clubbing, cyanosis or edema of extremities.
+NEUROLOGIC:  He is alert and appropriate without gross motor abnormalities.
+SKIN:  Reveals no ecchymosis or breakdown.
+MUSCULOSKELETAL:  Reveals no acute defect.
+ 
+LABORATORY DATA:  His white count is 3.0 with an ANC of 2.3.  His hemoglobin is 11.3.  His 
+platelet count is 252.  His comprehensive metabolic panel is within normal limits with the 
+exception of a borderline glucose of 107.
+ 
+ASSESSMENT AND PLAN:  Mr. Maiorano is a 68-year-old gentleman presenting for ongoing 
+treatment and evaluation of metastatic nonsmall cell lung cancer of adenocarcinoma histology.  
+He is currently presenting for cycle 2, day 1 of chemotherapy with carboplatin and pemetrexed.  
+It is notable that he actually tolerated his first cycle really quite well and as such, I would like to 
+proceed with his second cycle of therapy today.
+ 
+On physical exam, it does seem as though he has stable supraclavicular lymphadenopathy of 
+the right supraclavicular fossa, measuring up to 2 cm in diameter, though it is fairly mobile at 
+this point in time.  There is also some shotty lymphadenopathy throughout the fossa, which I 
+think is also fairly stable, though perhaps a bit more mobile than on prior occasions.  We will 
+proceed with therapy at this point in time and as he seems to have at least",Treatment_Response,"carboplatin and pemetrexed.
+ 
+ONCOLOGIC HISTORY:  Briefly, he was initially diagnosed after having presented with 
+progressive shortness of breath at which point in time, a CT scan demonstrated extensive 
+thoracic adenopathy, parenchymal lung disease within the right lower lobe and a large right-
+sided pleural effusion, status post thoracentesis.  Biopsy of a right supraclavicular lymph node 
+demonstrated metastatic adenocarcinoma with mutational testing, which was negative for 
+EGFR, ALK, ROS1 and PD-L1.  It was at that point in time that he was recommended for 
+initiation of systemic therapy with carboplatin, pemetrexed.  He completed whole brain 
+radiotherapy to multiple metastatic lesions to the CNS at the beginning of March of 2017.
+ 
+INTERIM HISTORY:  Mr. Maiorano returns to the office today for interim followup.  He really 
+feels quite well and tolerated his first cycle of chemotherapy really without much by way of 
+treatment-related side effects.  He was able to continue all of his day-to-day activities without 
+any significant fatigue, decrease in appetite or weight loss.  He is making a conscious effort with 
+the help of his son to eat a bit more healthy.  He does complain of his persistent sinus drainage 
+which has been a long-term issue in addition to some sensation of fullness in both ears without 
+any discrete pain.
+ 
+REVIEW OF SYSTEMS:  His comprehensive review of systems was reviewed, is as noted and 
+otherwise negative.
+ 
+PHYSICAL EXAMINATION:
+VITAL SIGNS:  Demonstrate a temperature of 97.2, his blood pressure is 140/70, pulse rate 71, 
+respirations 16, oxygen saturation 97% on room air.
+GENERAL:  He is a Caucasian male in no acute distress.
+HEENT:  Reveals no scleral icterus.  No oropharyngeal lesions.
+NECK:  Stable supraclavicular lymphadenopathy of the right supraclavicular fossa, measuring 
+up to 2 cm in diameter, though it is fairly mobile at this point in time
+HEART:  Regular rate and rhythm without murmurs, rubs or gallops.
+LUNGS:  Clear to auscultation bilaterally.
+ABDOMEN:  Nontender, nondistended, soft with no hepatosplenomegaly.  No palpable masses.
+EXTREMITIES:  He has no clubbing, cyanosis or edema of extremities.
+NEUROLOGIC:  He is alert and appropriate without gross motor abnormalities.
+SKIN:  Reveals no ecchymosis or breakdown.
+MUSCULOSKELETAL:  Reveals no acute defect.
+ 
+LABORATORY DATA:  His white count is 3.0 with an ANC of 2.3.  His hemoglobin is 11.3.  His 
+platelet count is 252.  His comprehensive metabolic panel is within normal limits with the 
+exception of a borderline glucose of 107.
+ 
+ASSESSMENT AND PLAN:  Mr. Maiorano is a 68-year-old gentleman presenting for ongoing 
+treatment and evaluation of metastatic nonsmall cell lung cancer of adenocarcinoma histology.  
+He is currently presenting for cycle 2, day 1 of chemotherapy with carboplatin and pemetrexed.  
+It is notable that he actually tolerated his first cycle really quite well and as such, I would like to 
+proceed with his second cycle of therapy today.
+ 
+On physical exam, it does seem as though he has stable supraclavicular lymphadenopathy of 
+the right supraclavicular fossa, measuring up to 2 cm in diameter, though it is fairly mobile at 
+this point in time.  There is also some shotty lymphadenopathy throughout the fossa, which I 
+think is also fairly stable, though perhaps a bit more mobile than on prior occasions.  We will 
+proceed with therapy at this point in time and as he seems to have at least stable disease Chemotherapy Stable_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_281657154.txt.xml,pemetrexed,Chemotherapy,stable disease,Stable_Disease,".
+ 
+ONCOLOGIC HISTORY:  Briefly, he was initially diagnosed after having presented with 
+progressive shortness of breath at which point in time, a CT scan demonstrated extensive 
+thoracic adenopathy, parenchymal lung disease within the right lower lobe and a large right-
+sided pleural effusion, status post thoracentesis.  Biopsy of a right supraclavicular lymph node 
+demonstrated metastatic adenocarcinoma with mutational testing, which was negative for 
+EGFR, ALK, ROS1 and PD-L1.  It was at that point in time that he was recommended for 
+initiation of systemic therapy with carboplatin, pemetrexed.  He completed whole brain 
+radiotherapy to multiple metastatic lesions to the CNS at the beginning of March of 2017.
+ 
+INTERIM HISTORY:  Mr. Maiorano returns to the office today for interim followup.  He really 
+feels quite well and tolerated his first cycle of chemotherapy really without much by way of 
+treatment-related side effects.  He was able to continue all of his day-to-day activities without 
+any significant fatigue, decrease in appetite or weight loss.  He is making a conscious effort with 
+the help of his son to eat a bit more healthy.  He does complain of his persistent sinus drainage 
+which has been a long-term issue in addition to some sensation of fullness in both ears without 
+any discrete pain.
+ 
+REVIEW OF SYSTEMS:  His comprehensive review of systems was reviewed, is as noted and 
+otherwise negative.
+ 
+PHYSICAL EXAMINATION:
+VITAL SIGNS:  Demonstrate a temperature of 97.2, his blood pressure is 140/70, pulse rate 71, 
+respirations 16, oxygen saturation 97% on room air.
+GENERAL:  He is a Caucasian male in no acute distress.
+HEENT:  Reveals no scleral icterus.  No oropharyngeal lesions.
+NECK:  Stable supraclavicular lymphadenopathy of the right supraclavicular fossa, measuring 
+up to 2 cm in diameter, though it is fairly mobile at this point in time
+HEART:  Regular rate and rhythm without murmurs, rubs or gallops.
+LUNGS:  Clear to auscultation bilaterally.
+ABDOMEN:  Nontender, nondistended, soft with no hepatosplenomegaly.  No palpable masses.
+EXTREMITIES:  He has no clubbing, cyanosis or edema of extremities.
+NEUROLOGIC:  He is alert and appropriate without gross motor abnormalities.
+SKIN:  Reveals no ecchymosis or breakdown.
+MUSCULOSKELETAL:  Reveals no acute defect.
+ 
+LABORATORY DATA:  His white count is 3.0 with an ANC of 2.3.  His hemoglobin is 11.3.  His 
+platelet count is 252.  His comprehensive metabolic panel is within normal limits with the 
+exception of a borderline glucose of 107.
+ 
+ASSESSMENT AND PLAN:  Mr. Maiorano is a 68-year-old gentleman presenting for ongoing 
+treatment and evaluation of metastatic nonsmall cell lung cancer of adenocarcinoma histology.  
+He is currently presenting for cycle 2, day 1 of chemotherapy with carboplatin and pemetrexed.  
+It is notable that he actually tolerated his first cycle really quite well and as such, I would like to 
+proceed with his second cycle of therapy today.
+ 
+On physical exam, it does seem as though he has stable supraclavicular lymphadenopathy of 
+the right supraclavicular fossa, measuring up to 2 cm in diameter, though it is fairly mobile at 
+this point in time.  There is also some shotty lymphadenopathy throughout the fossa, which I 
+think is also fairly stable, though perhaps a bit more mobile than on prior occasions.  We will 
+proceed with therapy at this point in time and as he seems to have at least",Treatment_Response,"pemetrexed .
+ 
+ONCOLOGIC HISTORY:  Briefly, he was initially diagnosed after having presented with 
+progressive shortness of breath at which point in time, a CT scan demonstrated extensive 
+thoracic adenopathy, parenchymal lung disease within the right lower lobe and a large right-
+sided pleural effusion, status post thoracentesis.  Biopsy of a right supraclavicular lymph node 
+demonstrated metastatic adenocarcinoma with mutational testing, which was negative for 
+EGFR, ALK, ROS1 and PD-L1.  It was at that point in time that he was recommended for 
+initiation of systemic therapy with carboplatin, pemetrexed.  He completed whole brain 
+radiotherapy to multiple metastatic lesions to the CNS at the beginning of March of 2017.
+ 
+INTERIM HISTORY:  Mr. Maiorano returns to the office today for interim followup.  He really 
+feels quite well and tolerated his first cycle of chemotherapy really without much by way of 
+treatment-related side effects.  He was able to continue all of his day-to-day activities without 
+any significant fatigue, decrease in appetite or weight loss.  He is making a conscious effort with 
+the help of his son to eat a bit more healthy.  He does complain of his persistent sinus drainage 
+which has been a long-term issue in addition to some sensation of fullness in both ears without 
+any discrete pain.
+ 
+REVIEW OF SYSTEMS:  His comprehensive review of systems was reviewed, is as noted and 
+otherwise negative.
+ 
+PHYSICAL EXAMINATION:
+VITAL SIGNS:  Demonstrate a temperature of 97.2, his blood pressure is 140/70, pulse rate 71, 
+respirations 16, oxygen saturation 97% on room air.
+GENERAL:  He is a Caucasian male in no acute distress.
+HEENT:  Reveals no scleral icterus.  No oropharyngeal lesions.
+NECK:  Stable supraclavicular lymphadenopathy of the right supraclavicular fossa, measuring 
+up to 2 cm in diameter, though it is fairly mobile at this point in time
+HEART:  Regular rate and rhythm without murmurs, rubs or gallops.
+LUNGS:  Clear to auscultation bilaterally.
+ABDOMEN:  Nontender, nondistended, soft with no hepatosplenomegaly.  No palpable masses.
+EXTREMITIES:  He has no clubbing, cyanosis or edema of extremities.
+NEUROLOGIC:  He is alert and appropriate without gross motor abnormalities.
+SKIN:  Reveals no ecchymosis or breakdown.
+MUSCULOSKELETAL:  Reveals no acute defect.
+ 
+LABORATORY DATA:  His white count is 3.0 with an ANC of 2.3.  His hemoglobin is 11.3.  His 
+platelet count is 252.  His comprehensive metabolic panel is within normal limits with the 
+exception of a borderline glucose of 107.
+ 
+ASSESSMENT AND PLAN:  Mr. Maiorano is a 68-year-old gentleman presenting for ongoing 
+treatment and evaluation of metastatic nonsmall cell lung cancer of adenocarcinoma histology.  
+He is currently presenting for cycle 2, day 1 of chemotherapy with carboplatin and pemetrexed.  
+It is notable that he actually tolerated his first cycle really quite well and as such, I would like to 
+proceed with his second cycle of therapy today.
+ 
+On physical exam, it does seem as though he has stable supraclavicular lymphadenopathy of 
+the right supraclavicular fossa, measuring up to 2 cm in diameter, though it is fairly mobile at 
+this point in time.  There is also some shotty lymphadenopathy throughout the fossa, which I 
+think is also fairly stable, though perhaps a bit more mobile than on prior occasions.  We will 
+proceed with therapy at this point in time and as he seems to have at least stable disease Chemotherapy Stable_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1361664579.txt.xml,Gamma Knife,Radiotherapy,immunotherapy,Immunotherapy,"treatment under the direction 
+of Dr. Flickinger.  She was then given systemic therapy. Several months later, imaging 
+studies showed the only residual disease to be located in the right hilar region, also with 
+mediastinal lymph node metastasis.  The patient was then given external beam radiation 
+therapy  in  a  definitive  fashion,  directed  to  the  right  hilar  area  and  mediastinal  lymph 
+nodes.  A dose of 60 Gy was given ending on August 5, 2021.  The patient did not return 
+to  see  me  for  up  as  scheduled,  but  had  multiple  problems  and  hospitalizations.   She 
+continued with",No_Relation,"Gamma Knife treatment under the direction 
+of Dr. Flickinger.  She was then given systemic therapy. Several months later, imaging 
+studies showed the only residual disease to be located in the right hilar region, also with 
+mediastinal lymph node metastasis.  The patient was then given external beam radiation 
+therapy  in  a  definitive  fashion,  directed  to  the  right  hilar  area  and  mediastinal  lymph 
+nodes.  A dose of 60 Gy was given ending on August 5, 2021.  The patient did not return 
+to  see  me  for  up  as  scheduled,  but  had  multiple  problems  and  hospitalizations.   She 
+continued with immunotherapy Radiotherapy Immunotherapy",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1361664579.txt.xml,craniotomy,Cancer_Surgery,immunotherapy,Immunotherapy,"with tumor resection, followed by Gamma Knife treatment under the direction 
+of Dr. Flickinger.  She was then given systemic therapy. Several months later, imaging 
+studies showed the only residual disease to be located in the right hilar region, also with 
+mediastinal lymph node metastasis.  The patient was then given external beam radiation 
+therapy  in  a  definitive  fashion,  directed  to  the  right  hilar  area  and  mediastinal  lymph 
+nodes.  A dose of 60 Gy was given ending on August 5, 2021.  The patient did not return 
+to  see  me  for  up  as  scheduled,  but  had  multiple  problems  and  hospitalizations.   She 
+continued with",No_Relation,"craniotomy with tumor resection, followed by Gamma Knife treatment under the direction 
+of Dr. Flickinger.  She was then given systemic therapy. Several months later, imaging 
+studies showed the only residual disease to be located in the right hilar region, also with 
+mediastinal lymph node metastasis.  The patient was then given external beam radiation 
+therapy  in  a  definitive  fashion,  directed  to  the  right  hilar  area  and  mediastinal  lymph 
+nodes.  A dose of 60 Gy was given ending on August 5, 2021.  The patient did not return 
+to  see  me  for  up  as  scheduled,  but  had  multiple  problems  and  hospitalizations.   She 
+continued with immunotherapy Cancer_Surgery Immunotherapy",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1358441079.txt.xml,irradiation,Radiotherapy,complete remission,Complete_Response,"after completion of systemic 
+chemotherapy with complete remission.
+Ronald Valentine is an 80-year-old male, who was found to have 2 FDG-avid left lung lesions on 
+PET/CT scan October 26, 2020.  One is in the left lower lobe and the other one is in the left 
+upper lobe, less than 2 cm in size.  On November 23, 2020, he underwent left VATS, 
+mediastinal lymph node dissection, left upper lobe nodule wedge resection and left lower lobe 
+nodule wedge resection.  Pathology revealed left upper lobe lesion with squamous cell 
+carcinoma, 1.5 cm in size with 1 cm margin.  Left lower lobe wedge resection revealed small cell 
+undifferentiated carcinoma, 1.8 cm with 1 mm margin.  Lymph node study was negative.  Then, 
+he received 2 cycles of carboplatin and etoposide.  Then, restaging study, April 13th CT scan of 
+the chest showed no tumor.  MRI of the brain April 13, 2021, also showed no tumor, thus he 
+achieved",Treatment_Response,"irradiation after completion of systemic 
+chemotherapy with complete remission.
+Ronald Valentine is an 80-year-old male, who was found to have 2 FDG-avid left lung lesions on 
+PET/CT scan October 26, 2020.  One is in the left lower lobe and the other one is in the left 
+upper lobe, less than 2 cm in size.  On November 23, 2020, he underwent left VATS, 
+mediastinal lymph node dissection, left upper lobe nodule wedge resection and left lower lobe 
+nodule wedge resection.  Pathology revealed left upper lobe lesion with squamous cell 
+carcinoma, 1.5 cm in size with 1 cm margin.  Left lower lobe wedge resection revealed small cell 
+undifferentiated carcinoma, 1.8 cm with 1 mm margin.  Lymph node study was negative.  Then, 
+he received 2 cycles of carboplatin and etoposide.  Then, restaging study, April 13th CT scan of 
+the chest showed no tumor.  MRI of the brain April 13, 2021, also showed no tumor, thus he 
+achieved complete remission Radiotherapy Complete_Response",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1358441079.txt.xml,irradiation,Radiotherapy,no evidence of disease,Complete_Response,"after completion of systemic 
+chemotherapy with complete remission.
+Ronald Valentine is an 80-year-old male, who was found to have 2 FDG-avid left lung lesions on 
+PET/CT scan October 26, 2020.  One is in the left lower lobe and the other one is in the left 
+upper lobe, less than 2 cm in size.  On November 23, 2020, he underwent left VATS, 
+mediastinal lymph node dissection, left upper lobe nodule wedge resection and left lower lobe 
+nodule wedge resection.  Pathology revealed left upper lobe lesion with squamous cell 
+carcinoma, 1.5 cm in size with 1 cm margin.  Left lower lobe wedge resection revealed small cell 
+undifferentiated carcinoma, 1.8 cm with 1 mm margin.  Lymph node study was negative.  Then, 
+he received 2 cycles of carboplatin and etoposide.  Then, restaging study, April 13th CT scan of 
+the chest showed no tumor.  MRI of the brain April 13, 2021, also showed no tumor, thus he 
+achieved complete remission of the disease.  He is age 80, but doing reasonably well with good 
+cognitive function.  He is now referred to Radiation Oncology for consideration of prophylactic 
+cranial irradiation.
+PAST MEDICAL HISTORY:  Atrial fibrillation; cardiovascular disease; cellulitis; gout; 
+hypertension; 2 lung cancers as above; prostate cancer in 2010, treated by external beam 
+radiation therapy, currently under control; hypomagnesemia.
+PAST SURGICAL HISTORY:  Prostate biopsy, external beam radiation therapy to the prostate, 
+cardioversion, VATS in November 2020, tonsillectomy.
+CURRENT MEDICATIONS:  Allopurinol, colchicine, Coumadin, COVID vaccine, influenza 
+vaccine, Lopressor, losartan, Norvasc, ondansetron, prochlorperazine.
+ALLERGIES:  HE IS ALLERGIC TO ADHESIVE TAPE.
+SOCIAL HISTORY:  He has smoked 1 pack per day of cigarettes for 2 years and quit 23 years 
+ago.  He drinks occasionally and denies illicit drug use.
+FAMILY HISTORY:  One sister had lung cancer.
+REVIEW OF SYSTEMS:
+CONSTITUTIONAL:  He complains of fatigability, but denies fever, night sweating, or weight 
+loss.
+INTEGUMENTARY:  Unremarkable without unusual skin lesion.
+HEAD:  Unremarkable.
+EYES:  He denies double vision or blurred vision.
+ENT:  He has some hearing impairment in chronic nature and denies speech impairment.  He 
+also denies hoarseness or swallowing difficulty.
+RESPIRATORY:  Unremarkable with unusual cough or shortness of breath.
+CARDIOVASCULAR:  He has atrial fibrillation, on Coumadin, but denies chest pain or 
+palpitations.
+GASTROINTESTINAL:  Unremarkable without constipation or rectal bleeding.
+GENITOURINARY:  Unremarkable without dysuria or hematuria.
+MUSCULOSKELETAL:  He has arthritic joint pain, but denies acute bone pain.
+ENDOCRINE:  He has gout, but does not have diabetes mellitus or thyroid disorder.
+NEUROLOGIC:  He had some hearing impairment might be due to systemic chemotherapy.  He 
+also has peripheral neuropathy due to chemotherapy.  Otherwise, unremarkable without motor 
+dysfunction.
+HEMATOLOGY:  He denies easy skin bruising.
+LABORATORY FINDINGS:  We do not have a recent blood test, but on November 23, 2020, 
+sodium 139, potassium 3.9, chloride 109, BUN 18, creatinine 1.04 and estimated GFR 68.  
+WBC 7.8, hemoglobin 10.3, and platelet 175.
+IMAGING STUDIES:  I personally reviewed PET/CT scan on October 26, 2020.  MRI of the 
+brain and most recent CT of the chest findings are stated in HPI.
+PHYSICAL EXAMINATION:
+GENERAL:  Reveals him to be in good general condition for age 80, alert and oriented.
+VITAL SIGNS:  He weighs 217 pounds, temperature 98.5 Fahrenheit, pulse 78, respirations 16, 
+and oxygen saturation 98%.
+HEENT:  There is no facial asymmetry.  Extraocular movement is normal.
+NECK:  There is no lymphadenopathy in the neck or supraclavicular fossa.
+LUNGS:  Showing slightly diminished air movement in the lung.
+HEART:  Showing irregularly irregular rhythm, consistent with atrial fibrillation.
+LYMPHATICS:  There is no murmur.
+ABDOMEN:  Benign.
+RECTAL:  Deferred.
+EXTREMITIES:  Without edema.
+NEUROLOGICAL:  Reveals hearing impairment bilaterally.  Otherwise, unremarkable.
+IMPRESSION:  An 80-year-old male with small cell undifferentiated carcinoma of the lung, 1.8 
+cm in size in the left lower lobe, status post wedge resection and 2 cycles of carboplatin and 
+etoposide.  Restaging workup study shows",Treatment_Response,"irradiation after completion of systemic 
+chemotherapy with complete remission.
+Ronald Valentine is an 80-year-old male, who was found to have 2 FDG-avid left lung lesions on 
+PET/CT scan October 26, 2020.  One is in the left lower lobe and the other one is in the left 
+upper lobe, less than 2 cm in size.  On November 23, 2020, he underwent left VATS, 
+mediastinal lymph node dissection, left upper lobe nodule wedge resection and left lower lobe 
+nodule wedge resection.  Pathology revealed left upper lobe lesion with squamous cell 
+carcinoma, 1.5 cm in size with 1 cm margin.  Left lower lobe wedge resection revealed small cell 
+undifferentiated carcinoma, 1.8 cm with 1 mm margin.  Lymph node study was negative.  Then, 
+he received 2 cycles of carboplatin and etoposide.  Then, restaging study, April 13th CT scan of 
+the chest showed no tumor.  MRI of the brain April 13, 2021, also showed no tumor, thus he 
+achieved complete remission of the disease.  He is age 80, but doing reasonably well with good 
+cognitive function.  He is now referred to Radiation Oncology for consideration of prophylactic 
+cranial irradiation.
+PAST MEDICAL HISTORY:  Atrial fibrillation; cardiovascular disease; cellulitis; gout; 
+hypertension; 2 lung cancers as above; prostate cancer in 2010, treated by external beam 
+radiation therapy, currently under control; hypomagnesemia.
+PAST SURGICAL HISTORY:  Prostate biopsy, external beam radiation therapy to the prostate, 
+cardioversion, VATS in November 2020, tonsillectomy.
+CURRENT MEDICATIONS:  Allopurinol, colchicine, Coumadin, COVID vaccine, influenza 
+vaccine, Lopressor, losartan, Norvasc, ondansetron, prochlorperazine.
+ALLERGIES:  HE IS ALLERGIC TO ADHESIVE TAPE.
+SOCIAL HISTORY:  He has smoked 1 pack per day of cigarettes for 2 years and quit 23 years 
+ago.  He drinks occasionally and denies illicit drug use.
+FAMILY HISTORY:  One sister had lung cancer.
+REVIEW OF SYSTEMS:
+CONSTITUTIONAL:  He complains of fatigability, but denies fever, night sweating, or weight 
+loss.
+INTEGUMENTARY:  Unremarkable without unusual skin lesion.
+HEAD:  Unremarkable.
+EYES:  He denies double vision or blurred vision.
+ENT:  He has some hearing impairment in chronic nature and denies speech impairment.  He 
+also denies hoarseness or swallowing difficulty.
+RESPIRATORY:  Unremarkable with unusual cough or shortness of breath.
+CARDIOVASCULAR:  He has atrial fibrillation, on Coumadin, but denies chest pain or 
+palpitations.
+GASTROINTESTINAL:  Unremarkable without constipation or rectal bleeding.
+GENITOURINARY:  Unremarkable without dysuria or hematuria.
+MUSCULOSKELETAL:  He has arthritic joint pain, but denies acute bone pain.
+ENDOCRINE:  He has gout, but does not have diabetes mellitus or thyroid disorder.
+NEUROLOGIC:  He had some hearing impairment might be due to systemic chemotherapy.  He 
+also has peripheral neuropathy due to chemotherapy.  Otherwise, unremarkable without motor 
+dysfunction.
+HEMATOLOGY:  He denies easy skin bruising.
+LABORATORY FINDINGS:  We do not have a recent blood test, but on November 23, 2020, 
+sodium 139, potassium 3.9, chloride 109, BUN 18, creatinine 1.04 and estimated GFR 68.  
+WBC 7.8, hemoglobin 10.3, and platelet 175.
+IMAGING STUDIES:  I personally reviewed PET/CT scan on October 26, 2020.  MRI of the 
+brain and most recent CT of the chest findings are stated in HPI.
+PHYSICAL EXAMINATION:
+GENERAL:  Reveals him to be in good general condition for age 80, alert and oriented.
+VITAL SIGNS:  He weighs 217 pounds, temperature 98.5 Fahrenheit, pulse 78, respirations 16, 
+and oxygen saturation 98%.
+HEENT:  There is no facial asymmetry.  Extraocular movement is normal.
+NECK:  There is no lymphadenopathy in the neck or supraclavicular fossa.
+LUNGS:  Showing slightly diminished air movement in the lung.
+HEART:  Showing irregularly irregular rhythm, consistent with atrial fibrillation.
+LYMPHATICS:  There is no murmur.
+ABDOMEN:  Benign.
+RECTAL:  Deferred.
+EXTREMITIES:  Without edema.
+NEUROLOGICAL:  Reveals hearing impairment bilaterally.  Otherwise, unremarkable.
+IMPRESSION:  An 80-year-old male with small cell undifferentiated carcinoma of the lung, 1.8 
+cm in size in the left lower lobe, status post wedge resection and 2 cycles of carboplatin and 
+etoposide.  Restaging workup study shows no evidence of disease Radiotherapy Complete_Response",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1471674094.txt.xml,carboplatin,Chemotherapy,disease progression,Progressive_Disease,"and Taxol for stage III disease.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node  dissection  in  January  of  2021  revealing  a  2.8  cm  squamous  cell  carcinoma  with 
+40%  viable  tumor,  1.7  cm  separate  adenocarcinoma  of  the  right  lower  lobe,  negative 
+margins, no lymphovascular invasion.  One out of 11 lymph nodes involved, ypT1c N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had",Treatment_Response,"carboplatin and Taxol for stage III disease.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node  dissection  in  January  of  2021  revealing  a  2.8  cm  squamous  cell  carcinoma  with 
+40%  viable  tumor,  1.7  cm  separate  adenocarcinoma  of  the  right  lower  lobe,  negative 
+margins, no lymphovascular invasion.  One out of 11 lymph nodes involved, ypT1c N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease progression Chemotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1471674094.txt.xml,Taxol,Chemotherapy,disease progression,Progressive_Disease,"for stage III disease.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node  dissection  in  January  of  2021  revealing  a  2.8  cm  squamous  cell  carcinoma  with 
+40%  viable  tumor,  1.7  cm  separate  adenocarcinoma  of  the  right  lower  lobe,  negative 
+margins, no lymphovascular invasion.  One out of 11 lymph nodes involved, ypT1c N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had",Treatment_Response,"Taxol for stage III disease.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node  dissection  in  January  of  2021  revealing  a  2.8  cm  squamous  cell  carcinoma  with 
+40%  viable  tumor,  1.7  cm  separate  adenocarcinoma  of  the  right  lower  lobe,  negative 
+margins, no lymphovascular invasion.  One out of 11 lymph nodes involved, ypT1c N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease progression Chemotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1471674094.txt.xml,carboplatin,Chemotherapy,disease progression,Progressive_Disease,"and Taxol for stage III disease.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node  dissection  in  January  of  2021  revealing  a  2.8  cm  squamous  cell  carcinoma  with 
+40%  viable  tumor,  1.7  cm  separate  adenocarcinoma  of  the  right  lower  lobe,  negative 
+margins, no lymphovascular invasion.  One out of 11 lymph nodes involved, ypT1c N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had",Treatment_Response,"carboplatin and Taxol for stage III disease.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node  dissection  in  January  of  2021  revealing  a  2.8  cm  squamous  cell  carcinoma  with 
+40%  viable  tumor,  1.7  cm  separate  adenocarcinoma  of  the  right  lower  lobe,  negative 
+margins, no lymphovascular invasion.  One out of 11 lymph nodes involved, ypT1c N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease progression Chemotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1471674094.txt.xml,Taxol,Chemotherapy,disease progression,Progressive_Disease,"for stage III disease.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node  dissection  in  January  of  2021  revealing  a  2.8  cm  squamous  cell  carcinoma  with 
+40%  viable  tumor,  1.7  cm  separate  adenocarcinoma  of  the  right  lower  lobe,  negative 
+margins, no lymphovascular invasion.  One out of 11 lymph nodes involved, ypT1c N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had",Treatment_Response,"Taxol for stage III disease.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node  dissection  in  January  of  2021  revealing  a  2.8  cm  squamous  cell  carcinoma  with 
+40%  viable  tumor,  1.7  cm  separate  adenocarcinoma  of  the  right  lower  lobe,  negative 
+margins, no lymphovascular invasion.  One out of 11 lymph nodes involved, ypT1c N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease progression Chemotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1196933520.txt.xml,near complete remission,Complete_Response,no evidence of tumor,Complete_Response,".  A repeat PET/CT 
+scan on February 4, 2020, shows",No_Relation,"near complete remission .  A repeat PET/CT 
+scan on February 4, 2020, shows no evidence of tumor Complete_Response Complete_Response",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1196933520.txt.xml,chemotherapy,Chemotherapy,recurrent,Progressive_Disease,"/second malignancy in the chest 
+in 2018 by PET/CT scan on December 4, 2018, showing left upper lobe, mediastinal, and 
+internal mammary node lesions for which she received",No_Relation,"chemotherapy /second malignancy in the chest 
+in 2018 by PET/CT scan on December 4, 2018, showing left upper lobe, mediastinal, and 
+internal mammary node lesions for which she received recurrent Chemotherapy Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1196933520.txt.xml,radiation therapy,Radiotherapy,recurrent,Progressive_Disease,"/second malignancy in the chest 
+in 2018 by PET/CT scan on December 4, 2018, showing left upper lobe, mediastinal, and 
+internal mammary node lesions for which she received chemotherapy and",No_Relation,"radiation therapy /second malignancy in the chest 
+in 2018 by PET/CT scan on December 4, 2018, showing left upper lobe, mediastinal, and 
+internal mammary node lesions for which she received chemotherapy and recurrent Radiotherapy Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_281657154.txt.xml,carboplatin,Chemotherapy,stable disease,Stable_Disease,"and pemetrexed.
+ 
+ONCOLOGIC HISTORY:  Briefly, he was initially diagnosed after having presented with 
+progressive shortness of breath at which point in time, a CT scan demonstrated extensive 
+thoracic adenopathy, parenchymal lung disease within the right lower lobe and a large right-
+sided pleural effusion, status post thoracentesis.  Biopsy of a right supraclavicular lymph node 
+demonstrated metastatic adenocarcinoma with mutational testing, which was negative for 
+EGFR, ALK, ROS1 and PD-L1.  It was at that point in time that he was recommended for 
+initiation of systemic therapy with carboplatin, pemetrexed.  He completed whole brain 
+radiotherapy to multiple metastatic lesions to the CNS at the beginning of March of 2017.
+ 
+INTERIM HISTORY:  Mr. Maiorano returns to the office today for interim followup.  He really 
+feels quite well and tolerated his first cycle of chemotherapy really without much by way of 
+treatment-related side effects.  He was able to continue all of his day-to-day activities without 
+any significant fatigue, decrease in appetite or weight loss.  He is making a conscious effort with 
+the help of his son to eat a bit more healthy.  He does complain of his persistent sinus drainage 
+which has been a long-term issue in addition to some sensation of fullness in both ears without 
+any discrete pain.
+ 
+REVIEW OF SYSTEMS:  His comprehensive review of systems was reviewed, is as noted and 
+otherwise negative.
+ 
+PHYSICAL EXAMINATION:
+VITAL SIGNS:  Demonstrate a temperature of 97.2, his blood pressure is 140/70, pulse rate 71, 
+respirations 16, oxygen saturation 97% on room air.
+GENERAL:  He is a Caucasian male in no acute distress.
+HEENT:  Reveals no scleral icterus.  No oropharyngeal lesions.
+NECK:  Stable supraclavicular lymphadenopathy of the right supraclavicular fossa, measuring 
+up to 2 cm in diameter, though it is fairly mobile at this point in time
+HEART:  Regular rate and rhythm without murmurs, rubs or gallops.
+LUNGS:  Clear to auscultation bilaterally.
+ABDOMEN:  Nontender, nondistended, soft with no hepatosplenomegaly.  No palpable masses.
+EXTREMITIES:  He has no clubbing, cyanosis or edema of extremities.
+NEUROLOGIC:  He is alert and appropriate without gross motor abnormalities.
+SKIN:  Reveals no ecchymosis or breakdown.
+MUSCULOSKELETAL:  Reveals no acute defect.
+ 
+LABORATORY DATA:  His white count is 3.0 with an ANC of 2.3.  His hemoglobin is 11.3.  His 
+platelet count is 252.  His comprehensive metabolic panel is within normal limits with the 
+exception of a borderline glucose of 107.
+ 
+ASSESSMENT AND PLAN:  Mr. Maiorano is a 68-year-old gentleman presenting for ongoing 
+treatment and evaluation of metastatic nonsmall cell lung cancer of adenocarcinoma histology.  
+He is currently presenting for cycle 2, day 1 of chemotherapy with carboplatin and pemetrexed.  
+It is notable that he actually tolerated his first cycle really quite well and as such, I would like to 
+proceed with his second cycle of therapy today.
+ 
+On physical exam, it does seem as though he has stable supraclavicular lymphadenopathy of 
+the right supraclavicular fossa, measuring up to 2 cm in diameter, though it is fairly mobile at 
+this point in time.  There is also some shotty lymphadenopathy throughout the fossa, which I 
+think is also fairly stable, though perhaps a bit more mobile than on prior occasions.  We will 
+proceed with therapy at this point in time and as he seems to have at least",Treatment_Response,"carboplatin and pemetrexed.
+ 
+ONCOLOGIC HISTORY:  Briefly, he was initially diagnosed after having presented with 
+progressive shortness of breath at which point in time, a CT scan demonstrated extensive 
+thoracic adenopathy, parenchymal lung disease within the right lower lobe and a large right-
+sided pleural effusion, status post thoracentesis.  Biopsy of a right supraclavicular lymph node 
+demonstrated metastatic adenocarcinoma with mutational testing, which was negative for 
+EGFR, ALK, ROS1 and PD-L1.  It was at that point in time that he was recommended for 
+initiation of systemic therapy with carboplatin, pemetrexed.  He completed whole brain 
+radiotherapy to multiple metastatic lesions to the CNS at the beginning of March of 2017.
+ 
+INTERIM HISTORY:  Mr. Maiorano returns to the office today for interim followup.  He really 
+feels quite well and tolerated his first cycle of chemotherapy really without much by way of 
+treatment-related side effects.  He was able to continue all of his day-to-day activities without 
+any significant fatigue, decrease in appetite or weight loss.  He is making a conscious effort with 
+the help of his son to eat a bit more healthy.  He does complain of his persistent sinus drainage 
+which has been a long-term issue in addition to some sensation of fullness in both ears without 
+any discrete pain.
+ 
+REVIEW OF SYSTEMS:  His comprehensive review of systems was reviewed, is as noted and 
+otherwise negative.
+ 
+PHYSICAL EXAMINATION:
+VITAL SIGNS:  Demonstrate a temperature of 97.2, his blood pressure is 140/70, pulse rate 71, 
+respirations 16, oxygen saturation 97% on room air.
+GENERAL:  He is a Caucasian male in no acute distress.
+HEENT:  Reveals no scleral icterus.  No oropharyngeal lesions.
+NECK:  Stable supraclavicular lymphadenopathy of the right supraclavicular fossa, measuring 
+up to 2 cm in diameter, though it is fairly mobile at this point in time
+HEART:  Regular rate and rhythm without murmurs, rubs or gallops.
+LUNGS:  Clear to auscultation bilaterally.
+ABDOMEN:  Nontender, nondistended, soft with no hepatosplenomegaly.  No palpable masses.
+EXTREMITIES:  He has no clubbing, cyanosis or edema of extremities.
+NEUROLOGIC:  He is alert and appropriate without gross motor abnormalities.
+SKIN:  Reveals no ecchymosis or breakdown.
+MUSCULOSKELETAL:  Reveals no acute defect.
+ 
+LABORATORY DATA:  His white count is 3.0 with an ANC of 2.3.  His hemoglobin is 11.3.  His 
+platelet count is 252.  His comprehensive metabolic panel is within normal limits with the 
+exception of a borderline glucose of 107.
+ 
+ASSESSMENT AND PLAN:  Mr. Maiorano is a 68-year-old gentleman presenting for ongoing 
+treatment and evaluation of metastatic nonsmall cell lung cancer of adenocarcinoma histology.  
+He is currently presenting for cycle 2, day 1 of chemotherapy with carboplatin and pemetrexed.  
+It is notable that he actually tolerated his first cycle really quite well and as such, I would like to 
+proceed with his second cycle of therapy today.
+ 
+On physical exam, it does seem as though he has stable supraclavicular lymphadenopathy of 
+the right supraclavicular fossa, measuring up to 2 cm in diameter, though it is fairly mobile at 
+this point in time.  There is also some shotty lymphadenopathy throughout the fossa, which I 
+think is also fairly stable, though perhaps a bit more mobile than on prior occasions.  We will 
+proceed with therapy at this point in time and as he seems to have at least stable disease Chemotherapy Stable_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_281657154.txt.xml,pemetrexed,Chemotherapy,stable disease,Stable_Disease,".
+ 
+ONCOLOGIC HISTORY:  Briefly, he was initially diagnosed after having presented with 
+progressive shortness of breath at which point in time, a CT scan demonstrated extensive 
+thoracic adenopathy, parenchymal lung disease within the right lower lobe and a large right-
+sided pleural effusion, status post thoracentesis.  Biopsy of a right supraclavicular lymph node 
+demonstrated metastatic adenocarcinoma with mutational testing, which was negative for 
+EGFR, ALK, ROS1 and PD-L1.  It was at that point in time that he was recommended for 
+initiation of systemic therapy with carboplatin, pemetrexed.  He completed whole brain 
+radiotherapy to multiple metastatic lesions to the CNS at the beginning of March of 2017.
+ 
+INTERIM HISTORY:  Mr. Maiorano returns to the office today for interim followup.  He really 
+feels quite well and tolerated his first cycle of chemotherapy really without much by way of 
+treatment-related side effects.  He was able to continue all of his day-to-day activities without 
+any significant fatigue, decrease in appetite or weight loss.  He is making a conscious effort with 
+the help of his son to eat a bit more healthy.  He does complain of his persistent sinus drainage 
+which has been a long-term issue in addition to some sensation of fullness in both ears without 
+any discrete pain.
+ 
+REVIEW OF SYSTEMS:  His comprehensive review of systems was reviewed, is as noted and 
+otherwise negative.
+ 
+PHYSICAL EXAMINATION:
+VITAL SIGNS:  Demonstrate a temperature of 97.2, his blood pressure is 140/70, pulse rate 71, 
+respirations 16, oxygen saturation 97% on room air.
+GENERAL:  He is a Caucasian male in no acute distress.
+HEENT:  Reveals no scleral icterus.  No oropharyngeal lesions.
+NECK:  Stable supraclavicular lymphadenopathy of the right supraclavicular fossa, measuring 
+up to 2 cm in diameter, though it is fairly mobile at this point in time
+HEART:  Regular rate and rhythm without murmurs, rubs or gallops.
+LUNGS:  Clear to auscultation bilaterally.
+ABDOMEN:  Nontender, nondistended, soft with no hepatosplenomegaly.  No palpable masses.
+EXTREMITIES:  He has no clubbing, cyanosis or edema of extremities.
+NEUROLOGIC:  He is alert and appropriate without gross motor abnormalities.
+SKIN:  Reveals no ecchymosis or breakdown.
+MUSCULOSKELETAL:  Reveals no acute defect.
+ 
+LABORATORY DATA:  His white count is 3.0 with an ANC of 2.3.  His hemoglobin is 11.3.  His 
+platelet count is 252.  His comprehensive metabolic panel is within normal limits with the 
+exception of a borderline glucose of 107.
+ 
+ASSESSMENT AND PLAN:  Mr. Maiorano is a 68-year-old gentleman presenting for ongoing 
+treatment and evaluation of metastatic nonsmall cell lung cancer of adenocarcinoma histology.  
+He is currently presenting for cycle 2, day 1 of chemotherapy with carboplatin and pemetrexed.  
+It is notable that he actually tolerated his first cycle really quite well and as such, I would like to 
+proceed with his second cycle of therapy today.
+ 
+On physical exam, it does seem as though he has stable supraclavicular lymphadenopathy of 
+the right supraclavicular fossa, measuring up to 2 cm in diameter, though it is fairly mobile at 
+this point in time.  There is also some shotty lymphadenopathy throughout the fossa, which I 
+think is also fairly stable, though perhaps a bit more mobile than on prior occasions.  We will 
+proceed with therapy at this point in time and as he seems to have at least",Treatment_Response,"pemetrexed .
+ 
+ONCOLOGIC HISTORY:  Briefly, he was initially diagnosed after having presented with 
+progressive shortness of breath at which point in time, a CT scan demonstrated extensive 
+thoracic adenopathy, parenchymal lung disease within the right lower lobe and a large right-
+sided pleural effusion, status post thoracentesis.  Biopsy of a right supraclavicular lymph node 
+demonstrated metastatic adenocarcinoma with mutational testing, which was negative for 
+EGFR, ALK, ROS1 and PD-L1.  It was at that point in time that he was recommended for 
+initiation of systemic therapy with carboplatin, pemetrexed.  He completed whole brain 
+radiotherapy to multiple metastatic lesions to the CNS at the beginning of March of 2017.
+ 
+INTERIM HISTORY:  Mr. Maiorano returns to the office today for interim followup.  He really 
+feels quite well and tolerated his first cycle of chemotherapy really without much by way of 
+treatment-related side effects.  He was able to continue all of his day-to-day activities without 
+any significant fatigue, decrease in appetite or weight loss.  He is making a conscious effort with 
+the help of his son to eat a bit more healthy.  He does complain of his persistent sinus drainage 
+which has been a long-term issue in addition to some sensation of fullness in both ears without 
+any discrete pain.
+ 
+REVIEW OF SYSTEMS:  His comprehensive review of systems was reviewed, is as noted and 
+otherwise negative.
+ 
+PHYSICAL EXAMINATION:
+VITAL SIGNS:  Demonstrate a temperature of 97.2, his blood pressure is 140/70, pulse rate 71, 
+respirations 16, oxygen saturation 97% on room air.
+GENERAL:  He is a Caucasian male in no acute distress.
+HEENT:  Reveals no scleral icterus.  No oropharyngeal lesions.
+NECK:  Stable supraclavicular lymphadenopathy of the right supraclavicular fossa, measuring 
+up to 2 cm in diameter, though it is fairly mobile at this point in time
+HEART:  Regular rate and rhythm without murmurs, rubs or gallops.
+LUNGS:  Clear to auscultation bilaterally.
+ABDOMEN:  Nontender, nondistended, soft with no hepatosplenomegaly.  No palpable masses.
+EXTREMITIES:  He has no clubbing, cyanosis or edema of extremities.
+NEUROLOGIC:  He is alert and appropriate without gross motor abnormalities.
+SKIN:  Reveals no ecchymosis or breakdown.
+MUSCULOSKELETAL:  Reveals no acute defect.
+ 
+LABORATORY DATA:  His white count is 3.0 with an ANC of 2.3.  His hemoglobin is 11.3.  His 
+platelet count is 252.  His comprehensive metabolic panel is within normal limits with the 
+exception of a borderline glucose of 107.
+ 
+ASSESSMENT AND PLAN:  Mr. Maiorano is a 68-year-old gentleman presenting for ongoing 
+treatment and evaluation of metastatic nonsmall cell lung cancer of adenocarcinoma histology.  
+He is currently presenting for cycle 2, day 1 of chemotherapy with carboplatin and pemetrexed.  
+It is notable that he actually tolerated his first cycle really quite well and as such, I would like to 
+proceed with his second cycle of therapy today.
+ 
+On physical exam, it does seem as though he has stable supraclavicular lymphadenopathy of 
+the right supraclavicular fossa, measuring up to 2 cm in diameter, though it is fairly mobile at 
+this point in time.  There is also some shotty lymphadenopathy throughout the fossa, which I 
+think is also fairly stable, though perhaps a bit more mobile than on prior occasions.  We will 
+proceed with therapy at this point in time and as he seems to have at least stable disease Chemotherapy Stable_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1433702352.txt.xml,XRT,Radiotherapy,no evidence of malignancy,Partial_Response,".
+ 
+ASSESSMENT AND PLAN:  
+ 
+1.   History  of  non-small  cell  carcinoma  of  the  lung,  status  post  recurrence.   Ms. 
+Freshwater did have a left upper lobe lobectomy in October 2006 and a right upper lobe 
+segmentectomy in 2018. In between, she had a recurrence in the local left hilar lymph 
+node in April 2013 and is status post chemo",Treatment_Response,"XRT .
+ 
+ASSESSMENT AND PLAN:  
+ 
+1.   History  of  non-small  cell  carcinoma  of  the  lung,  status  post  recurrence.   Ms. 
+Freshwater did have a left upper lobe lobectomy in October 2006 and a right upper lobe 
+segmentectomy in 2018. In between, she had a recurrence in the local left hilar lymph 
+node in April 2013 and is status post chemo no evidence of malignancy Radiotherapy Partial_Response",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1433702352.txt.xml,chemo,Chemotherapy,no evidence of malignancy,Partial_Response,".
+ 
+ASSESSMENT AND PLAN:  
+ 
+1.   History  of  non-small  cell  carcinoma  of  the  lung,  status  post  recurrence.   Ms. 
+Freshwater did have a left upper lobe lobectomy in October 2006 and a right upper lobe 
+segmentectomy in 2018. In between, she had a recurrence in the local left hilar lymph 
+node in April 2013 and is status post",Treatment_Response,"chemo .
+ 
+ASSESSMENT AND PLAN:  
+ 
+1.   History  of  non-small  cell  carcinoma  of  the  lung,  status  post  recurrence.   Ms. 
+Freshwater did have a left upper lobe lobectomy in October 2006 and a right upper lobe 
+segmentectomy in 2018. In between, she had a recurrence in the local left hilar lymph 
+node in April 2013 and is status post no evidence of malignancy Chemotherapy Partial_Response",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1286292092.txt.xml,immunotherapy,Immunotherapy,if there is no evidence of residual disease,Stable_Disease,"post-
+concurrent chemoradiation, particularly",No_Relation,"immunotherapy post-
+concurrent chemoradiation, particularly if there is no evidence of residual disease Immunotherapy Stable_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1380778415.txt.xml,pembrolizumab,Immunotherapy,good response,Partial_Response,"previously  also  on  pemetrexed 
+and carboplatin.
+ 
+SECONDARY  DIAGNOSIS:   Cutaneous  T-cell  lymphoma  with  overall  stable  disease.  
+The patient is using triamcinolone that was given to her by Dermatology.
+ 
+INTERVAL HISTORY:  Roberta Gibson is a pleasant 65-year-old female who returns for 
+followup.   It  is  noted  that  the  patient  reports  that  her  skin  lesions  overall  have  been 
+stable  on  the  use  of  triamcinolone  topical  cream.   Otherwise,  her  most  recent  CT 
+imaging showed improvement of her lung cancer, which the patient is also very pleased. 
+Given her fatigue and borderline renal function, we have to stop pemetrexed and only 
+continue with single agent pembrolizumab.
+ 
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.
+ 
+CURRENT  MEDICATIONS:   Zofran  as  needed,  amlodipine,  Ecotrin,  metformin  and 
+hydrochlorothiazide.
+ 
+PAST  MEDICAL  HISTORY:   Type  2  diabetes,  hypertension,  lung  cancer,  CKD  and 
+CD30 positive skin proliferation.
+ 
+REVIEW OF SYSTEMS:  
+GENERAL:  Negative.
+ENMT:  Negative.
+RESPIRATORY:  Negative.
+CARDIOVASCULAR:  Negative.
+GASTROINTESTINAL:  Negative.
+GENITOURINARY:  Negative.
+INTEGUMENT:  Negative.
+NEUROLOGIC:  Negative.
+Remainder of systems is reviewed and is negative.
+ 
+PHYSICAL EXAMINATION:  
+VITAL SIGNS:  Age-appropriate looking female, in no acute distress.
+HEENT:  Normocephalic, atraumatic.
+NECK:  Supple.
+LUNGS:  Clear.
+HEART:  Regular rate and rhythm.
+ABDOMEN:  Soft.
+EXTREMITIES:  Do not show any edema, cyanosis, or petechiae.
+NEUROLOGICAL:  She is grossly intact.
+ 
+LABORATORY  STUDIES:   Creatinine  of  1.63.   White  count  of  8.1,  hemoglobin  of  11, 
+platelet count of 216.  Albumin of 4.
+ 
+ASSESSMENT  AND  PLAN:   For  this  65-year-old  female  with  history  of  lung  cancer, 
+widely metastatic disease upon diagnosis with actually so far very",Treatment_Response,"pembrolizumab previously  also  on  pemetrexed 
+and carboplatin.
+ 
+SECONDARY  DIAGNOSIS:   Cutaneous  T-cell  lymphoma  with  overall  stable  disease.  
+The patient is using triamcinolone that was given to her by Dermatology.
+ 
+INTERVAL HISTORY:  Roberta Gibson is a pleasant 65-year-old female who returns for 
+followup.   It  is  noted  that  the  patient  reports  that  her  skin  lesions  overall  have  been 
+stable  on  the  use  of  triamcinolone  topical  cream.   Otherwise,  her  most  recent  CT 
+imaging showed improvement of her lung cancer, which the patient is also very pleased. 
+Given her fatigue and borderline renal function, we have to stop pemetrexed and only 
+continue with single agent pembrolizumab.
+ 
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.
+ 
+CURRENT  MEDICATIONS:   Zofran  as  needed,  amlodipine,  Ecotrin,  metformin  and 
+hydrochlorothiazide.
+ 
+PAST  MEDICAL  HISTORY:   Type  2  diabetes,  hypertension,  lung  cancer,  CKD  and 
+CD30 positive skin proliferation.
+ 
+REVIEW OF SYSTEMS:  
+GENERAL:  Negative.
+ENMT:  Negative.
+RESPIRATORY:  Negative.
+CARDIOVASCULAR:  Negative.
+GASTROINTESTINAL:  Negative.
+GENITOURINARY:  Negative.
+INTEGUMENT:  Negative.
+NEUROLOGIC:  Negative.
+Remainder of systems is reviewed and is negative.
+ 
+PHYSICAL EXAMINATION:  
+VITAL SIGNS:  Age-appropriate looking female, in no acute distress.
+HEENT:  Normocephalic, atraumatic.
+NECK:  Supple.
+LUNGS:  Clear.
+HEART:  Regular rate and rhythm.
+ABDOMEN:  Soft.
+EXTREMITIES:  Do not show any edema, cyanosis, or petechiae.
+NEUROLOGICAL:  She is grossly intact.
+ 
+LABORATORY  STUDIES:   Creatinine  of  1.63.   White  count  of  8.1,  hemoglobin  of  11, 
+platelet count of 216.  Albumin of 4.
+ 
+ASSESSMENT  AND  PLAN:   For  this  65-year-old  female  with  history  of  lung  cancer, 
+widely metastatic disease upon diagnosis with actually so far very good response Immunotherapy Partial_Response",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1380778415.txt.xml,pemetrexed,Chemotherapy,good response,Partial_Response,"and carboplatin.
+ 
+SECONDARY  DIAGNOSIS:   Cutaneous  T-cell  lymphoma  with  overall  stable  disease.  
+The patient is using triamcinolone that was given to her by Dermatology.
+ 
+INTERVAL HISTORY:  Roberta Gibson is a pleasant 65-year-old female who returns for 
+followup.   It  is  noted  that  the  patient  reports  that  her  skin  lesions  overall  have  been 
+stable  on  the  use  of  triamcinolone  topical  cream.   Otherwise,  her  most  recent  CT 
+imaging showed improvement of her lung cancer, which the patient is also very pleased. 
+Given her fatigue and borderline renal function, we have to stop pemetrexed and only 
+continue with single agent pembrolizumab.
+ 
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.
+ 
+CURRENT  MEDICATIONS:   Zofran  as  needed,  amlodipine,  Ecotrin,  metformin  and 
+hydrochlorothiazide.
+ 
+PAST  MEDICAL  HISTORY:   Type  2  diabetes,  hypertension,  lung  cancer,  CKD  and 
+CD30 positive skin proliferation.
+ 
+REVIEW OF SYSTEMS:  
+GENERAL:  Negative.
+ENMT:  Negative.
+RESPIRATORY:  Negative.
+CARDIOVASCULAR:  Negative.
+GASTROINTESTINAL:  Negative.
+GENITOURINARY:  Negative.
+INTEGUMENT:  Negative.
+NEUROLOGIC:  Negative.
+Remainder of systems is reviewed and is negative.
+ 
+PHYSICAL EXAMINATION:  
+VITAL SIGNS:  Age-appropriate looking female, in no acute distress.
+HEENT:  Normocephalic, atraumatic.
+NECK:  Supple.
+LUNGS:  Clear.
+HEART:  Regular rate and rhythm.
+ABDOMEN:  Soft.
+EXTREMITIES:  Do not show any edema, cyanosis, or petechiae.
+NEUROLOGICAL:  She is grossly intact.
+ 
+LABORATORY  STUDIES:   Creatinine  of  1.63.   White  count  of  8.1,  hemoglobin  of  11, 
+platelet count of 216.  Albumin of 4.
+ 
+ASSESSMENT  AND  PLAN:   For  this  65-year-old  female  with  history  of  lung  cancer, 
+widely metastatic disease upon diagnosis with actually so far very",Treatment_Response,"pemetrexed and carboplatin.
+ 
+SECONDARY  DIAGNOSIS:   Cutaneous  T-cell  lymphoma  with  overall  stable  disease.  
+The patient is using triamcinolone that was given to her by Dermatology.
+ 
+INTERVAL HISTORY:  Roberta Gibson is a pleasant 65-year-old female who returns for 
+followup.   It  is  noted  that  the  patient  reports  that  her  skin  lesions  overall  have  been 
+stable  on  the  use  of  triamcinolone  topical  cream.   Otherwise,  her  most  recent  CT 
+imaging showed improvement of her lung cancer, which the patient is also very pleased. 
+Given her fatigue and borderline renal function, we have to stop pemetrexed and only 
+continue with single agent pembrolizumab.
+ 
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.
+ 
+CURRENT  MEDICATIONS:   Zofran  as  needed,  amlodipine,  Ecotrin,  metformin  and 
+hydrochlorothiazide.
+ 
+PAST  MEDICAL  HISTORY:   Type  2  diabetes,  hypertension,  lung  cancer,  CKD  and 
+CD30 positive skin proliferation.
+ 
+REVIEW OF SYSTEMS:  
+GENERAL:  Negative.
+ENMT:  Negative.
+RESPIRATORY:  Negative.
+CARDIOVASCULAR:  Negative.
+GASTROINTESTINAL:  Negative.
+GENITOURINARY:  Negative.
+INTEGUMENT:  Negative.
+NEUROLOGIC:  Negative.
+Remainder of systems is reviewed and is negative.
+ 
+PHYSICAL EXAMINATION:  
+VITAL SIGNS:  Age-appropriate looking female, in no acute distress.
+HEENT:  Normocephalic, atraumatic.
+NECK:  Supple.
+LUNGS:  Clear.
+HEART:  Regular rate and rhythm.
+ABDOMEN:  Soft.
+EXTREMITIES:  Do not show any edema, cyanosis, or petechiae.
+NEUROLOGICAL:  She is grossly intact.
+ 
+LABORATORY  STUDIES:   Creatinine  of  1.63.   White  count  of  8.1,  hemoglobin  of  11, 
+platelet count of 216.  Albumin of 4.
+ 
+ASSESSMENT  AND  PLAN:   For  this  65-year-old  female  with  history  of  lung  cancer, 
+widely metastatic disease upon diagnosis with actually so far very good response Chemotherapy Partial_Response",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1380778415.txt.xml,carboplatin,Chemotherapy,good response,Partial_Response,".
+ 
+SECONDARY  DIAGNOSIS:   Cutaneous  T-cell  lymphoma  with  overall  stable  disease.  
+The patient is using triamcinolone that was given to her by Dermatology.
+ 
+INTERVAL HISTORY:  Roberta Gibson is a pleasant 65-year-old female who returns for 
+followup.   It  is  noted  that  the  patient  reports  that  her  skin  lesions  overall  have  been 
+stable  on  the  use  of  triamcinolone  topical  cream.   Otherwise,  her  most  recent  CT 
+imaging showed improvement of her lung cancer, which the patient is also very pleased. 
+Given her fatigue and borderline renal function, we have to stop pemetrexed and only 
+continue with single agent pembrolizumab.
+ 
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.
+ 
+CURRENT  MEDICATIONS:   Zofran  as  needed,  amlodipine,  Ecotrin,  metformin  and 
+hydrochlorothiazide.
+ 
+PAST  MEDICAL  HISTORY:   Type  2  diabetes,  hypertension,  lung  cancer,  CKD  and 
+CD30 positive skin proliferation.
+ 
+REVIEW OF SYSTEMS:  
+GENERAL:  Negative.
+ENMT:  Negative.
+RESPIRATORY:  Negative.
+CARDIOVASCULAR:  Negative.
+GASTROINTESTINAL:  Negative.
+GENITOURINARY:  Negative.
+INTEGUMENT:  Negative.
+NEUROLOGIC:  Negative.
+Remainder of systems is reviewed and is negative.
+ 
+PHYSICAL EXAMINATION:  
+VITAL SIGNS:  Age-appropriate looking female, in no acute distress.
+HEENT:  Normocephalic, atraumatic.
+NECK:  Supple.
+LUNGS:  Clear.
+HEART:  Regular rate and rhythm.
+ABDOMEN:  Soft.
+EXTREMITIES:  Do not show any edema, cyanosis, or petechiae.
+NEUROLOGICAL:  She is grossly intact.
+ 
+LABORATORY  STUDIES:   Creatinine  of  1.63.   White  count  of  8.1,  hemoglobin  of  11, 
+platelet count of 216.  Albumin of 4.
+ 
+ASSESSMENT  AND  PLAN:   For  this  65-year-old  female  with  history  of  lung  cancer, 
+widely metastatic disease upon diagnosis with actually so far very",Treatment_Response,"carboplatin .
+ 
+SECONDARY  DIAGNOSIS:   Cutaneous  T-cell  lymphoma  with  overall  stable  disease.  
+The patient is using triamcinolone that was given to her by Dermatology.
+ 
+INTERVAL HISTORY:  Roberta Gibson is a pleasant 65-year-old female who returns for 
+followup.   It  is  noted  that  the  patient  reports  that  her  skin  lesions  overall  have  been 
+stable  on  the  use  of  triamcinolone  topical  cream.   Otherwise,  her  most  recent  CT 
+imaging showed improvement of her lung cancer, which the patient is also very pleased. 
+Given her fatigue and borderline renal function, we have to stop pemetrexed and only 
+continue with single agent pembrolizumab.
+ 
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.
+ 
+CURRENT  MEDICATIONS:   Zofran  as  needed,  amlodipine,  Ecotrin,  metformin  and 
+hydrochlorothiazide.
+ 
+PAST  MEDICAL  HISTORY:   Type  2  diabetes,  hypertension,  lung  cancer,  CKD  and 
+CD30 positive skin proliferation.
+ 
+REVIEW OF SYSTEMS:  
+GENERAL:  Negative.
+ENMT:  Negative.
+RESPIRATORY:  Negative.
+CARDIOVASCULAR:  Negative.
+GASTROINTESTINAL:  Negative.
+GENITOURINARY:  Negative.
+INTEGUMENT:  Negative.
+NEUROLOGIC:  Negative.
+Remainder of systems is reviewed and is negative.
+ 
+PHYSICAL EXAMINATION:  
+VITAL SIGNS:  Age-appropriate looking female, in no acute distress.
+HEENT:  Normocephalic, atraumatic.
+NECK:  Supple.
+LUNGS:  Clear.
+HEART:  Regular rate and rhythm.
+ABDOMEN:  Soft.
+EXTREMITIES:  Do not show any edema, cyanosis, or petechiae.
+NEUROLOGICAL:  She is grossly intact.
+ 
+LABORATORY  STUDIES:   Creatinine  of  1.63.   White  count  of  8.1,  hemoglobin  of  11, 
+platelet count of 216.  Albumin of 4.
+ 
+ASSESSMENT  AND  PLAN:   For  this  65-year-old  female  with  history  of  lung  cancer, 
+widely metastatic disease upon diagnosis with actually so far very good response Chemotherapy Partial_Response",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_290838618.txt.xml,Avastin,Targeted_Therapy,stable,Stable_Disease,"through 
+February 2016 with significant improvement.  She resumed maintenance Alimta in March 2016.  
+Followup scans have been",Treatment_Response,"Avastin through 
+February 2016 with significant improvement.  She resumed maintenance Alimta in March 2016.  
+Followup scans have been stable Targeted_Therapy Stable_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1454647368.txt.xml,"external  beam 
+radiation therapy",Radiotherapy,metastatic  disease  involving  L5  and  the  sacrum,Progressive_Disease,"with  likely 
+involvement  of  the  left  S1-S2  and  S2-S3  nerve  roots.   There  was  also  a  small  focal 
+enhancing lesion in the left aspect of the thecal sac at L1-L2.  Treatment options were 
+discussed.   The  L5  and  sacrum  have  previously  been  treated  with",Treatment_Response,"external  beam 
+radiation therapy with  likely 
+involvement  of  the  left  S1-S2  and  S2-S3  nerve  roots.   There  was  also  a  small  focal 
+enhancing lesion in the left aspect of the thecal sac at L1-L2.  Treatment options were 
+discussed.   The  L5  and  sacrum  have  previously  been  treated  with metastatic  disease  involving  L5  and  the  sacrum Radiotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1454647368.txt.xml,SBRT,Radiotherapy,metastatic  disease  involving  L5  and  the  sacrum,Progressive_Disease,"with  likely 
+involvement  of  the  left  S1-S2  and  S2-S3  nerve  roots.   There  was  also  a  small  focal 
+enhancing lesion in the left aspect of the thecal sac at L1-L2.  Treatment options were 
+discussed.   The  L5  and  sacrum  have  previously  been  treated  with  external  beam 
+radiation therapy and on the right with",Treatment_Response,"SBRT with  likely 
+involvement  of  the  left  S1-S2  and  S2-S3  nerve  roots.   There  was  also  a  small  focal 
+enhancing lesion in the left aspect of the thecal sac at L1-L2.  Treatment options were 
+discussed.   The  L5  and  sacrum  have  previously  been  treated  with  external  beam 
+radiation therapy and on the right with metastatic  disease  involving  L5  and  the  sacrum Radiotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1454647368.txt.xml,SBRT,Radiotherapy,without  progression,Stable_Disease,".   She 
+received  radiation  therapy  to  L4-sacrum  30  Gy  in  September  2019  and  L5-S1  on  the 
+right with",No_Relation,"SBRT .   She 
+received  radiation  therapy  to  L4-sacrum  30  Gy  in  September  2019  and  L5-S1  on  the 
+right with without  progression Radiotherapy Stable_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1454647368.txt.xml,bone metastases to L5 and the sacrum,Progressive_Disease,metastatic  disease  involving  L5  and  the  sacrum,Progressive_Disease,"with likely infiltration into the left S1-S2 
+and S2-S3 neural foramen.  There was a possible small focus of nodular enhancement 
+in the left aspect of the thecal sac at the level of L1-L2.  MRI of the brain on November 8, 
+2022, showed 3 small enhancing lesions consistent with brain metastases including left 
+frontal, left parietal and left occipital.  CT on October 19, 2022, showed stable extensive 
+sclerotic bone metastases involving the pelvis, T1-L5, sacrum and pelvis.  She was seen 
+regarding radiation therapy for metastatic non-small cell carcinoma of the lung with brain 
+metastases and bone metastases.
+ 
+MEDICATIONS:  Tylenol, Advil, Medrol Dosepak, oxycodone, Unithroid, vitamins.
+ 
+ALLERGIES:  NO DRUG ALLERGIES.
+ 
+PAST MEDICAL HISTORY:  Hypothyroidism secondary to immunotherapy.
+ 
+FAMILY HISTORY:  Mother with endometrial cancer and thyroid cancer.
+ 
+SOCIAL HISTORY:  She does not smoke.  Drinks alcohol occasionally.
+ 
+REVIEW OF SYSTEMS:  She has had increasing radicular sacral pain on the left.  Pain 
+has been worse with sitting for long periods.  It is better with standing.  She has some 
+fatigue.   She  denied  any  focal  weakness,  bowel  or  bladder  problems,  shortness  of 
+breath, chest pain, fevers, chills, sweats, dysphagia, nausea, vomiting, abdominal pain.  
+She has some chronic paresthesias.  Rest of the review of systems was negative.
+ 
+PHYSICAL EXAMINATION:  She was in NAD.  Pulse 76, respirations 16, blood pressure 
+130/80, weight 172 pounds.  EOMI.  No icterus.  ENT was negative.  Lungs were clear.  
+Heart had a regular rate and rhythm.  Abdomen was soft, nontender.  Extremities, no 
+edema.   Neurologic,  cranial  nerves  were  intact.   Motor  function  was  5/5.   Gait  was 
+normal.  There were no areas of bony tenderness.
+ 
+LABORATORY DATA:  X-rays were reviewed.  MRI of the spine on November 8, 2022, 
+showed sclerotic bone metastases involving L5 and the sacrum with likely infiltration into 
+the left S1-S2 and S2-S3 neural foramen.  There was no high-grade canal compromise.  
+There  was  a  small  focus  of  suspected  nodular  enhancement  at  the  left  aspect  of  the 
+thecal sac at the level of L1-L2.  MRI of the brain showed small enhancing left frontal, 
+left parietal and left occipital lesions consistent with brain metastases.
+ 
+ASSESSMENT AND PLAN:  A 50-year-old with a non-small cell carcinoma of the lung 
+with brain and bone metastases.  MRI of the brain on November 8, 2022, showed small 
+enhancing  left  frontal,  left  parietal  and  left  occipital  lesions  consistent  with  brain 
+metastases.  Treatment options were discussed.  She was a candidate for stereotactic 
+radiosurgery.  Risks and benefits of radiosurgery were discussed.  She has left radicular 
+sacral  pain.   MRI  showed",No_Relation,"bone metastases to L5 and the sacrum with likely infiltration into the left S1-S2 
+and S2-S3 neural foramen.  There was a possible small focus of nodular enhancement 
+in the left aspect of the thecal sac at the level of L1-L2.  MRI of the brain on November 8, 
+2022, showed 3 small enhancing lesions consistent with brain metastases including left 
+frontal, left parietal and left occipital.  CT on October 19, 2022, showed stable extensive 
+sclerotic bone metastases involving the pelvis, T1-L5, sacrum and pelvis.  She was seen 
+regarding radiation therapy for metastatic non-small cell carcinoma of the lung with brain 
+metastases and bone metastases.
+ 
+MEDICATIONS:  Tylenol, Advil, Medrol Dosepak, oxycodone, Unithroid, vitamins.
+ 
+ALLERGIES:  NO DRUG ALLERGIES.
+ 
+PAST MEDICAL HISTORY:  Hypothyroidism secondary to immunotherapy.
+ 
+FAMILY HISTORY:  Mother with endometrial cancer and thyroid cancer.
+ 
+SOCIAL HISTORY:  She does not smoke.  Drinks alcohol occasionally.
+ 
+REVIEW OF SYSTEMS:  She has had increasing radicular sacral pain on the left.  Pain 
+has been worse with sitting for long periods.  It is better with standing.  She has some 
+fatigue.   She  denied  any  focal  weakness,  bowel  or  bladder  problems,  shortness  of 
+breath, chest pain, fevers, chills, sweats, dysphagia, nausea, vomiting, abdominal pain.  
+She has some chronic paresthesias.  Rest of the review of systems was negative.
+ 
+PHYSICAL EXAMINATION:  She was in NAD.  Pulse 76, respirations 16, blood pressure 
+130/80, weight 172 pounds.  EOMI.  No icterus.  ENT was negative.  Lungs were clear.  
+Heart had a regular rate and rhythm.  Abdomen was soft, nontender.  Extremities, no 
+edema.   Neurologic,  cranial  nerves  were  intact.   Motor  function  was  5/5.   Gait  was 
+normal.  There were no areas of bony tenderness.
+ 
+LABORATORY DATA:  X-rays were reviewed.  MRI of the spine on November 8, 2022, 
+showed sclerotic bone metastases involving L5 and the sacrum with likely infiltration into 
+the left S1-S2 and S2-S3 neural foramen.  There was no high-grade canal compromise.  
+There  was  a  small  focus  of  suspected  nodular  enhancement  at  the  left  aspect  of  the 
+thecal sac at the level of L1-L2.  MRI of the brain showed small enhancing left frontal, 
+left parietal and left occipital lesions consistent with brain metastases.
+ 
+ASSESSMENT AND PLAN:  A 50-year-old with a non-small cell carcinoma of the lung 
+with brain and bone metastases.  MRI of the brain on November 8, 2022, showed small 
+enhancing  left  frontal,  left  parietal  and  left  occipital  lesions  consistent  with  brain 
+metastases.  Treatment options were discussed.  She was a candidate for stereotactic 
+radiosurgery.  Risks and benefits of radiosurgery were discussed.  She has left radicular 
+sacral  pain.   MRI  showed metastatic  disease  involving  L5  and  the  sacrum Progressive_Disease Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1454647368.txt.xml,radiation  therapy,Radiotherapy,without  progression,Stable_Disease,".   She 
+received",No_Relation,"radiation  therapy .   She 
+received without  progression Radiotherapy Stable_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1449596816.txt.xml,Keytruda,Immunotherapy,new right-sided rib metastasis,Progressive_Disease,".  There was an expansile lytic met 
+in  the  anterior  6th  rib.   The  mass  did  invade  the  left  hilar  and  mediastinum  encasing 
+multiple hilar structures, which demonstrated re-occlusion of the left superior pulmonary 
+vein, though no change in the background pulmonary fibrosis.  The patient in the past 
+had been declining chemotherapy.  She has been on",Treatment_Response,"Keytruda .  There was an expansile lytic met 
+in  the  anterior  6th  rib.   The  mass  did  invade  the  left  hilar  and  mediastinum  encasing 
+multiple hilar structures, which demonstrated re-occlusion of the left superior pulmonary 
+vein, though no change in the background pulmonary fibrosis.  The patient in the past 
+had been declining chemotherapy.  She has been on new right-sided rib metastasis Immunotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_236570410.txt.xml,rociletinib,Targeted_Therapy,stable in the size,Stable_Disease,".  No evidence of new metastasis.  His most recent MRI done in 
+August 2015 consistent with stable postoperative changes with no evidence of metastasis.
+ 
+PLAN:
+1.  At this point, I had a long discussion with the patient.  We will plan to continue Alimta, 
+Avastin in light of his young age and maintenance.  He is doing phenomenally well on this 
+therapy.  In September 2015, he has progressed through Tarceva and",No_Relation,"rociletinib .  No evidence of new metastasis.  His most recent MRI done in 
+August 2015 consistent with stable postoperative changes with no evidence of metastasis.
+ 
+PLAN:
+1.  At this point, I had a long discussion with the patient.  We will plan to continue Alimta, 
+Avastin in light of his young age and maintenance.  He is doing phenomenally well on this 
+therapy.  In September 2015, he has progressed through Tarceva and stable in the size Targeted_Therapy Stable_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_236570410.txt.xml,Avastin,Targeted_Therapy,progressed,Progressive_Disease,"through Tarceva.
+ 
+At this point, certainly will continue with Alimta,",No_Relation,"Avastin through Tarceva.
+ 
+At this point, certainly will continue with Alimta, progressed Targeted_Therapy Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1455389461.txt.xml,nivolumab,Immunotherapy,no evidence of recurrent disease,Complete_Response,"every  4  weeks 
+since  August  2016  and  she  has  tolerated  this  well.   She  will  continue  on  this  therapy 
+without dose modifications.  We will continue with intensive monitoring on this therapy 
+for  life-threatening  illness.  I  reviewed  the  CT  of  the  neck,  chest,  abdomen  and  pelvis 
+from November 10th, which shows",Treatment_Response,"nivolumab every  4  weeks 
+since  August  2016  and  she  has  tolerated  this  well.   She  will  continue  on  this  therapy 
+without dose modifications.  We will continue with intensive monitoring on this therapy 
+for  life-threatening  illness.  I  reviewed  the  CT  of  the  neck,  chest,  abdomen  and  pelvis 
+from November 10th, which shows no evidence of recurrent disease Immunotherapy Complete_Response",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1454646824.txt.xml,"stereotactic 
+radiosurgery",Radiotherapy,recurrent disease,Progressive_Disease,"due  to  10  brain  metastases  in  June  2020.   He  has  been  doing  well  on 
+alectinib.  He had an MRI of the brain done today, which showed an increase in size of 
+the  old  treated  left  periventricular  lesion  to  2.1  cm  with  increased  surrounding  edema.  
+The other old lesions were all decreased.  There were no new lesions.
+ 
+REVIEW  OF  SYSTEMS:   Denied  any  headaches,  vision  changes,  weakness,  or  gait 
+problems.
+ 
+PHYSICAL EXAMINATION:  
+GENERAL:  He was in NAD.
+VITAL SIGNS:  Pulse 64, respirations 16, blood pressure 130/80, weight 198 pounds.
+NEUROLOGIC:  Cranial nerves were intact.  Motor function was 5/5.  Gait was normal.
+ 
+LABORATORY DATA:  X-rays were reviewed.  MRI of the brain done today showed a 2 
+cm  left  periventricular  lesion,  which  had  increased  in  size  with  increased  surrounding 
+edema.  There were no new lesions.
+ 
+ASSESSMENT AND PLAN:  MRI of the brain done today showed that the old treated left 
+periventricular  lesion  was  increased  with  increased  surrounding  edema,  suspicious  for",Treatment_Response,"stereotactic 
+radiosurgery due  to  10  brain  metastases  in  June  2020.   He  has  been  doing  well  on 
+alectinib.  He had an MRI of the brain done today, which showed an increase in size of 
+the  old  treated  left  periventricular  lesion  to  2.1  cm  with  increased  surrounding  edema.  
+The other old lesions were all decreased.  There were no new lesions.
+ 
+REVIEW  OF  SYSTEMS:   Denied  any  headaches,  vision  changes,  weakness,  or  gait 
+problems.
+ 
+PHYSICAL EXAMINATION:  
+GENERAL:  He was in NAD.
+VITAL SIGNS:  Pulse 64, respirations 16, blood pressure 130/80, weight 198 pounds.
+NEUROLOGIC:  Cranial nerves were intact.  Motor function was 5/5.  Gait was normal.
+ 
+LABORATORY DATA:  X-rays were reviewed.  MRI of the brain done today showed a 2 
+cm  left  periventricular  lesion,  which  had  increased  in  size  with  increased  surrounding 
+edema.  There were no new lesions.
+ 
+ASSESSMENT AND PLAN:  MRI of the brain done today showed that the old treated left 
+periventricular  lesion  was  increased  with  increased  surrounding  edema,  suspicious  for recurrent disease Radiotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1339239797.txt.xml,pembrolizumab,Immunotherapy,progression,Progressive_Disease,"maintenance after 4 cycles of carboplatin and 
+Abraxane with good response.  He had disease progression in January 2021.
+3.  The patient received Alimta every 3 weeks for 10 doses, but had disease",No_Relation,"pembrolizumab maintenance after 4 cycles of carboplatin and 
+Abraxane with good response.  He had disease progression in January 2021.
+3.  The patient received Alimta every 3 weeks for 10 doses, but had disease progression Immunotherapy Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1339239797.txt.xml,carboplatin,Chemotherapy,progression,Progressive_Disease,"and 
+Abraxane with good response.  He had disease progression in January 2021.
+3.  The patient received Alimta every 3 weeks for 10 doses, but had disease",No_Relation,"carboplatin and 
+Abraxane with good response.  He had disease progression in January 2021.
+3.  The patient received Alimta every 3 weeks for 10 doses, but had disease progression Chemotherapy Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1339239797.txt.xml,Alimta,Chemotherapy,progression,Progressive_Disease,"in January 2021.
+3.  The patient received",No_Relation,"Alimta in January 2021.
+3.  The patient received progression Chemotherapy Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1339239797.txt.xml,Abraxane,Chemotherapy,progression,Progressive_Disease,"with good response.  He had disease progression in January 2021.
+3.  The patient received Alimta every 3 weeks for 10 doses, but had disease",No_Relation,"Abraxane with good response.  He had disease progression in January 2021.
+3.  The patient received Alimta every 3 weeks for 10 doses, but had disease progression Chemotherapy Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1339239797.txt.xml,progression,Progressive_Disease,progression,Progressive_Disease,"in January 2021.
+3.  The patient received Alimta every 3 weeks for 10 doses, but had disease",No_Relation,"progression in January 2021.
+3.  The patient received Alimta every 3 weeks for 10 doses, but had disease progression Progressive_Disease Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1343770132.txt.xml,Alimta,Chemotherapy,progression,Progressive_Disease,"in January of 2021.
+3.  The patient received",No_Relation,"Alimta in January of 2021.
+3.  The patient received progression Chemotherapy Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1343770132.txt.xml,carboplatin,Chemotherapy,progression,Progressive_Disease,"and 
+Abraxane with good response.  He had disease progression in January of 2021.
+3.  The patient received Alimta every 3 weeks for 10 doses, but had disease",No_Relation,"carboplatin and 
+Abraxane with good response.  He had disease progression in January of 2021.
+3.  The patient received Alimta every 3 weeks for 10 doses, but had disease progression Chemotherapy Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1343770132.txt.xml,pembrolizumab,Immunotherapy,progression,Progressive_Disease,"maintenance after 4 cycles of carboplatin and 
+Abraxane with good response.  He had disease progression in January of 2021.
+3.  The patient received Alimta every 3 weeks for 10 doses, but had disease",No_Relation,"pembrolizumab maintenance after 4 cycles of carboplatin and 
+Abraxane with good response.  He had disease progression in January of 2021.
+3.  The patient received Alimta every 3 weeks for 10 doses, but had disease progression Immunotherapy Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1343770132.txt.xml,Abraxane,Chemotherapy,progression,Progressive_Disease,"with good response.  He had disease progression in January of 2021.
+3.  The patient received Alimta every 3 weeks for 10 doses, but had disease",No_Relation,"Abraxane with good response.  He had disease progression in January of 2021.
+3.  The patient received Alimta every 3 weeks for 10 doses, but had disease progression Chemotherapy Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1343770132.txt.xml,progression,Progressive_Disease,progression,Progressive_Disease,"in January of 2021.
+3.  The patient received Alimta every 3 weeks for 10 doses, but had disease",No_Relation,"progression in January of 2021.
+3.  The patient received Alimta every 3 weeks for 10 doses, but had disease progression Progressive_Disease Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1433702352.txt.xml,XRT,Radiotherapy,no evidence of malignancy,Partial_Response,".
+ 
+ASSESSMENT AND PLAN:  
+ 
+1.   History  of  non-small  cell  carcinoma  of  the  lung,  status  post  recurrence.   Ms. 
+Freshwater did have a left upper lobe lobectomy in October 2006 and a right upper lobe 
+segmentectomy in 2018. In between, she had a recurrence in the local left hilar lymph 
+node in April 2013 and is status post chemo",Treatment_Response,"XRT .
+ 
+ASSESSMENT AND PLAN:  
+ 
+1.   History  of  non-small  cell  carcinoma  of  the  lung,  status  post  recurrence.   Ms. 
+Freshwater did have a left upper lobe lobectomy in October 2006 and a right upper lobe 
+segmentectomy in 2018. In between, she had a recurrence in the local left hilar lymph 
+node in April 2013 and is status post chemo no evidence of malignancy Radiotherapy Partial_Response",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1433702352.txt.xml,chemo,Chemotherapy,no evidence of malignancy,Partial_Response,".
+ 
+ASSESSMENT AND PLAN:  
+ 
+1.   History  of  non-small  cell  carcinoma  of  the  lung,  status  post  recurrence.   Ms. 
+Freshwater did have a left upper lobe lobectomy in October 2006 and a right upper lobe 
+segmentectomy in 2018. In between, she had a recurrence in the local left hilar lymph 
+node in April 2013 and is status post",Treatment_Response,"chemo .
+ 
+ASSESSMENT AND PLAN:  
+ 
+1.   History  of  non-small  cell  carcinoma  of  the  lung,  status  post  recurrence.   Ms. 
+Freshwater did have a left upper lobe lobectomy in October 2006 and a right upper lobe 
+segmentectomy in 2018. In between, she had a recurrence in the local left hilar lymph 
+node in April 2013 and is status post no evidence of malignancy Chemotherapy Partial_Response",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1446951015.txt.xml,cisplatin,Chemotherapy,progression,Progressive_Disease,", 
+Taxotere and 3 cycles of carboplatin, Taxol.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node dissection in January of 2021 revealing 2.8 cm squamous cell carcinoma of 40% 
+viable tumor, 1.7 cm separate adenocarcinoma in the right lower lobe, negative margins, 
+no  lymphovascular  invasion.   One  out  of  11  lymph  nodes  involved,  ypT1c  N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease",Treatment_Response,"cisplatin , 
+Taxotere and 3 cycles of carboplatin, Taxol.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node dissection in January of 2021 revealing 2.8 cm squamous cell carcinoma of 40% 
+viable tumor, 1.7 cm separate adenocarcinoma in the right lower lobe, negative margins, 
+no  lymphovascular  invasion.   One  out  of  11  lymph  nodes  involved,  ypT1c  N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease progression Chemotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1446951015.txt.xml,Taxotere,Chemotherapy,progression,Progressive_Disease,"and 3 cycles of carboplatin, Taxol.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node dissection in January of 2021 revealing 2.8 cm squamous cell carcinoma of 40% 
+viable tumor, 1.7 cm separate adenocarcinoma in the right lower lobe, negative margins, 
+no  lymphovascular  invasion.   One  out  of  11  lymph  nodes  involved,  ypT1c  N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease",Treatment_Response,"Taxotere and 3 cycles of carboplatin, Taxol.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node dissection in January of 2021 revealing 2.8 cm squamous cell carcinoma of 40% 
+viable tumor, 1.7 cm separate adenocarcinoma in the right lower lobe, negative margins, 
+no  lymphovascular  invasion.   One  out  of  11  lymph  nodes  involved,  ypT1c  N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease progression Chemotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1446951015.txt.xml,carboplatin,Chemotherapy,progression,Progressive_Disease,", Taxol.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node dissection in January of 2021 revealing 2.8 cm squamous cell carcinoma of 40% 
+viable tumor, 1.7 cm separate adenocarcinoma in the right lower lobe, negative margins, 
+no  lymphovascular  invasion.   One  out  of  11  lymph  nodes  involved,  ypT1c  N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease",Treatment_Response,"carboplatin , Taxol.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node dissection in January of 2021 revealing 2.8 cm squamous cell carcinoma of 40% 
+viable tumor, 1.7 cm separate adenocarcinoma in the right lower lobe, negative margins, 
+no  lymphovascular  invasion.   One  out  of  11  lymph  nodes  involved,  ypT1c  N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease progression Chemotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1446951015.txt.xml,Taxol,Chemotherapy,progression,Progressive_Disease,".
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node dissection in January of 2021 revealing 2.8 cm squamous cell carcinoma of 40% 
+viable tumor, 1.7 cm separate adenocarcinoma in the right lower lobe, negative margins, 
+no  lymphovascular  invasion.   One  out  of  11  lymph  nodes  involved,  ypT1c  N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease",Treatment_Response,"Taxol .
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node dissection in January of 2021 revealing 2.8 cm squamous cell carcinoma of 40% 
+viable tumor, 1.7 cm separate adenocarcinoma in the right lower lobe, negative margins, 
+no  lymphovascular  invasion.   One  out  of  11  lymph  nodes  involved,  ypT1c  N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease progression Chemotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1446951015.txt.xml,cisplatin,Chemotherapy,recurrent,Progressive_Disease,", 
+Taxotere and 3 cycles of carboplatin, Taxol.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node dissection in January of 2021 revealing 2.8 cm squamous cell carcinoma of 40% 
+viable tumor, 1.7 cm separate adenocarcinoma in the right lower lobe, negative margins, 
+no  lymphovascular  invasion.   One  out  of  11  lymph  nodes  involved,  ypT1c  N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease progression on bronchoscopy, endobronchial ultrasound and 
+biopsy of right hilar mass with",Treatment_Response,"cisplatin , 
+Taxotere and 3 cycles of carboplatin, Taxol.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node dissection in January of 2021 revealing 2.8 cm squamous cell carcinoma of 40% 
+viable tumor, 1.7 cm separate adenocarcinoma in the right lower lobe, negative margins, 
+no  lymphovascular  invasion.   One  out  of  11  lymph  nodes  involved,  ypT1c  N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease progression on bronchoscopy, endobronchial ultrasound and 
+biopsy of right hilar mass with recurrent Chemotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1446951015.txt.xml,Taxotere,Chemotherapy,recurrent,Progressive_Disease,"and 3 cycles of carboplatin, Taxol.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node dissection in January of 2021 revealing 2.8 cm squamous cell carcinoma of 40% 
+viable tumor, 1.7 cm separate adenocarcinoma in the right lower lobe, negative margins, 
+no  lymphovascular  invasion.   One  out  of  11  lymph  nodes  involved,  ypT1c  N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease progression on bronchoscopy, endobronchial ultrasound and 
+biopsy of right hilar mass with",Treatment_Response,"Taxotere and 3 cycles of carboplatin, Taxol.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node dissection in January of 2021 revealing 2.8 cm squamous cell carcinoma of 40% 
+viable tumor, 1.7 cm separate adenocarcinoma in the right lower lobe, negative margins, 
+no  lymphovascular  invasion.   One  out  of  11  lymph  nodes  involved,  ypT1c  N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease progression on bronchoscopy, endobronchial ultrasound and 
+biopsy of right hilar mass with recurrent Chemotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1446951015.txt.xml,carboplatin,Chemotherapy,recurrent,Progressive_Disease,", Taxol.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node dissection in January of 2021 revealing 2.8 cm squamous cell carcinoma of 40% 
+viable tumor, 1.7 cm separate adenocarcinoma in the right lower lobe, negative margins, 
+no  lymphovascular  invasion.   One  out  of  11  lymph  nodes  involved,  ypT1c  N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease progression on bronchoscopy, endobronchial ultrasound and 
+biopsy of right hilar mass with",Treatment_Response,"carboplatin , Taxol.
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node dissection in January of 2021 revealing 2.8 cm squamous cell carcinoma of 40% 
+viable tumor, 1.7 cm separate adenocarcinoma in the right lower lobe, negative margins, 
+no  lymphovascular  invasion.   One  out  of  11  lymph  nodes  involved,  ypT1c  N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease progression on bronchoscopy, endobronchial ultrasound and 
+biopsy of right hilar mass with recurrent Chemotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1446951015.txt.xml,Taxol,Chemotherapy,recurrent,Progressive_Disease,".
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node dissection in January of 2021 revealing 2.8 cm squamous cell carcinoma of 40% 
+viable tumor, 1.7 cm separate adenocarcinoma in the right lower lobe, negative margins, 
+no  lymphovascular  invasion.   One  out  of  11  lymph  nodes  involved,  ypT1c  N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease progression on bronchoscopy, endobronchial ultrasound and 
+biopsy of right hilar mass with",Treatment_Response,"Taxol .
+2.  The patient underwent bilobectomy, right middle lobe and right lower lobe and lymph 
+node dissection in January of 2021 revealing 2.8 cm squamous cell carcinoma of 40% 
+viable tumor, 1.7 cm separate adenocarcinoma in the right lower lobe, negative margins, 
+no  lymphovascular  invasion.   One  out  of  11  lymph  nodes  involved,  ypT1c  N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease progression on bronchoscopy, endobronchial ultrasound and 
+biopsy of right hilar mass with recurrent Chemotherapy Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1446951015.txt.xml,"bilobectomy, right middle lobe and right lower lobe and lymph 
+node dissection",Cancer_Surgery,recurrent,Progressive_Disease,"in January of 2021 revealing 2.8 cm squamous cell carcinoma of 40% 
+viable tumor, 1.7 cm separate adenocarcinoma in the right lower lobe, negative margins, 
+no  lymphovascular  invasion.   One  out  of  11  lymph  nodes  involved,  ypT1c  N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease progression on bronchoscopy, endobronchial ultrasound and 
+biopsy of right hilar mass with",Treatment_Response,"bilobectomy, right middle lobe and right lower lobe and lymph 
+node dissection in January of 2021 revealing 2.8 cm squamous cell carcinoma of 40% 
+viable tumor, 1.7 cm separate adenocarcinoma in the right lower lobe, negative margins, 
+no  lymphovascular  invasion.   One  out  of  11  lymph  nodes  involved,  ypT1c  N1a 
+squamous cell carcinoma, T1b N0 adenocarcinoma.
+3.  The patient had disease progression on bronchoscopy, endobronchial ultrasound and 
+biopsy of right hilar mass with recurrent Cancer_Surgery Progressive_Disease",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1446951015.txt.xml,carboplatin,Chemotherapy,"no evidence of recurrent 
+disease",Complete_Response,",  Abraxane,  pembrolizumab,  is  now  receiving  pembrolizumab  maintenance.  
+She  underwent  CyberKnife  radiation  therapy  to  brain  metastasis,  which  she  tolerated 
+well.  She is scheduled for repeat MRI of the brain in November.  I reviewed the CT of 
+the chest, abdomen and pelvis from October 10th, which shows",Treatment_Response,"carboplatin ,  Abraxane,  pembrolizumab,  is  now  receiving  pembrolizumab  maintenance.  
+She  underwent  CyberKnife  radiation  therapy  to  brain  metastasis,  which  she  tolerated 
+well.  She is scheduled for repeat MRI of the brain in November.  I reviewed the CT of 
+the chest, abdomen and pelvis from October 10th, which shows no evidence of recurrent 
+disease Chemotherapy Complete_Response",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1446951015.txt.xml,pembrolizumab,Immunotherapy,"no evidence of recurrent 
+disease",Complete_Response,",  is  now  receiving  pembrolizumab  maintenance.  
+She  underwent  CyberKnife  radiation  therapy  to  brain  metastasis,  which  she  tolerated 
+well.  She is scheduled for repeat MRI of the brain in November.  I reviewed the CT of 
+the chest, abdomen and pelvis from October 10th, which shows",Treatment_Response,"pembrolizumab ,  is  now  receiving  pembrolizumab  maintenance.  
+She  underwent  CyberKnife  radiation  therapy  to  brain  metastasis,  which  she  tolerated 
+well.  She is scheduled for repeat MRI of the brain in November.  I reviewed the CT of 
+the chest, abdomen and pelvis from October 10th, which shows no evidence of recurrent 
+disease Immunotherapy Complete_Response",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1446951015.txt.xml,carboplatin,Chemotherapy,recurrence,Progressive_Disease,"of  her  squamous  cell 
+carcinoma after receiving induction chemotherapy and surgery, status post 4 cycles of",No_Relation,"carboplatin of  her  squamous  cell 
+carcinoma after receiving induction chemotherapy and surgery, status post 4 cycles of recurrence Chemotherapy Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1446951015.txt.xml,Abraxane,Chemotherapy,recurrence,Progressive_Disease,"of  her  squamous  cell 
+carcinoma after receiving induction chemotherapy and surgery, status post 4 cycles of 
+carboplatin,",No_Relation,"Abraxane of  her  squamous  cell 
+carcinoma after receiving induction chemotherapy and surgery, status post 4 cycles of 
+carboplatin, recurrence Chemotherapy Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1446951015.txt.xml,pembrolizumab,Immunotherapy,recurrence,Progressive_Disease,"of  her  squamous  cell 
+carcinoma after receiving induction chemotherapy and surgery, status post 4 cycles of 
+carboplatin,  Abraxane,",No_Relation,"pembrolizumab of  her  squamous  cell 
+carcinoma after receiving induction chemotherapy and surgery, status post 4 cycles of 
+carboplatin,  Abraxane, recurrence Immunotherapy Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1446951015.txt.xml,surgery,Cancer_Surgery,"no evidence of recurrent 
+disease",Complete_Response,", status post 4 cycles of 
+carboplatin,  Abraxane,  pembrolizumab,  is  now  receiving  pembrolizumab  maintenance.  
+She  underwent  CyberKnife  radiation  therapy  to  brain  metastasis,  which  she  tolerated 
+well.  She is scheduled for repeat MRI of the brain in November.  I reviewed the CT of 
+the chest, abdomen and pelvis from October 10th, which shows",No_Relation,"surgery , status post 4 cycles of 
+carboplatin,  Abraxane,  pembrolizumab,  is  now  receiving  pembrolizumab  maintenance.  
+She  underwent  CyberKnife  radiation  therapy  to  brain  metastasis,  which  she  tolerated 
+well.  She is scheduled for repeat MRI of the brain in November.  I reviewed the CT of 
+the chest, abdomen and pelvis from October 10th, which shows no evidence of recurrent 
+disease Cancer_Surgery Complete_Response",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1446951015.txt.xml,progression,Progressive_Disease,recurrent,Progressive_Disease,"on bronchoscopy, endobronchial ultrasound and 
+biopsy of right hilar mass with",No_Relation,"progression on bronchoscopy, endobronchial ultrasound and 
+biopsy of right hilar mass with recurrent Progressive_Disease Progressive_Disease",No_Relation,Treatment_Response
+ESCRIPTION.DOCUMENT.OID_1358441079.txt.xml,irradiation,Radiotherapy,complete remission,Complete_Response,"after completion of systemic 
+chemotherapy with complete remission.
+Ronald Valentine is an 80-year-old male, who was found to have 2 FDG-avid left lung lesions on 
+PET/CT scan October 26, 2020.  One is in the left lower lobe and the other one is in the left 
+upper lobe, less than 2 cm in size.  On November 23, 2020, he underwent left VATS, 
+mediastinal lymph node dissection, left upper lobe nodule wedge resection and left lower lobe 
+nodule wedge resection.  Pathology revealed left upper lobe lesion with squamous cell 
+carcinoma, 1.5 cm in size with 1 cm margin.  Left lower lobe wedge resection revealed small cell 
+undifferentiated carcinoma, 1.8 cm with 1 mm margin.  Lymph node study was negative.  Then, 
+he received 2 cycles of carboplatin and etoposide.  Then, restaging study, April 13th CT scan of 
+the chest showed no tumor.  MRI of the brain April 13, 2021, also showed no tumor, thus he 
+achieved",Treatment_Response,"irradiation after completion of systemic 
+chemotherapy with complete remission.
+Ronald Valentine is an 80-year-old male, who was found to have 2 FDG-avid left lung lesions on 
+PET/CT scan October 26, 2020.  One is in the left lower lobe and the other one is in the left 
+upper lobe, less than 2 cm in size.  On November 23, 2020, he underwent left VATS, 
+mediastinal lymph node dissection, left upper lobe nodule wedge resection and left lower lobe 
+nodule wedge resection.  Pathology revealed left upper lobe lesion with squamous cell 
+carcinoma, 1.5 cm in size with 1 cm margin.  Left lower lobe wedge resection revealed small cell 
+undifferentiated carcinoma, 1.8 cm with 1 mm margin.  Lymph node study was negative.  Then, 
+he received 2 cycles of carboplatin and etoposide.  Then, restaging study, April 13th CT scan of 
+the chest showed no tumor.  MRI of the brain April 13, 2021, also showed no tumor, thus he 
+achieved complete remission Radiotherapy Complete_Response",Treatment_Response,No_Relation
+ESCRIPTION.DOCUMENT.OID_1358441079.txt.xml,irradiation,Radiotherapy,no evidence of disease,Complete_Response,"after completion of systemic 
+chemotherapy with complete remission.
+Ronald Valentine is an 80-year-old male, who was found to have 2 FDG-avid left lung lesions on 
+PET/CT scan October 26, 2020.  One is in the left lower lobe and the other one is in the left 
+upper lobe, less than 2 cm in size.  On November 23, 2020, he underwent left VATS, 
+mediastinal lymph node dissection, left upper lobe nodule wedge resection and left lower lobe 
+nodule wedge resection.  Pathology revealed left upper lobe lesion with squamous cell 
+carcinoma, 1.5 cm in size with 1 cm margin.  Left lower lobe wedge resection revealed small cell 
+undifferentiated carcinoma, 1.8 cm with 1 mm margin.  Lymph node study was negative.  Then, 
+he received 2 cycles of carboplatin and etoposide.  Then, restaging study, April 13th CT scan of 
+the chest showed no tumor.  MRI of the brain April 13, 2021, also showed no tumor, thus he 
+achieved complete remission of the disease.  He is age 80, but doing reasonably well with good 
+cognitive function.  He is now referred to Radiation Oncology for consideration of prophylactic 
+cranial irradiation.
+PAST MEDICAL HISTORY:  Atrial fibrillation; cardiovascular disease; cellulitis; gout; 
+hypertension; 2 lung cancers as above; prostate cancer in 2010, treated by external beam 
+radiation therapy, currently under control; hypomagnesemia.
+PAST SURGICAL HISTORY:  Prostate biopsy, external beam radiation therapy to the prostate, 
+cardioversion, VATS in November 2020, tonsillectomy.
+CURRENT MEDICATIONS:  Allopurinol, colchicine, Coumadin, COVID vaccine, influenza 
+vaccine, Lopressor, losartan, Norvasc, ondansetron, prochlorperazine.
+ALLERGIES:  HE IS ALLERGIC TO ADHESIVE TAPE.
+SOCIAL HISTORY:  He has smoked 1 pack per day of cigarettes for 2 years and quit 23 years 
+ago.  He drinks occasionally and denies illicit drug use.
+FAMILY HISTORY:  One sister had lung cancer.
+REVIEW OF SYSTEMS:
+CONSTITUTIONAL:  He complains of fatigability, but denies fever, night sweating, or weight 
+loss.
+INTEGUMENTARY:  Unremarkable without unusual skin lesion.
+HEAD:  Unremarkable.
+EYES:  He denies double vision or blurred vision.
+ENT:  He has some hearing impairment in chronic nature and denies speech impairment.  He 
+also denies hoarseness or swallowing difficulty.
+RESPIRATORY:  Unremarkable with unusual cough or shortness of breath.
+CARDIOVASCULAR:  He has atrial fibrillation, on Coumadin, but denies chest pain or 
+palpitations.
+GASTROINTESTINAL:  Unremarkable without constipation or rectal bleeding.
+GENITOURINARY:  Unremarkable without dysuria or hematuria.
+MUSCULOSKELETAL:  He has arthritic joint pain, but denies acute bone pain.
+ENDOCRINE:  He has gout, but does not have diabetes mellitus or thyroid disorder.
+NEUROLOGIC:  He had some hearing impairment might be due to systemic chemotherapy.  He 
+also has peripheral neuropathy due to chemotherapy.  Otherwise, unremarkable without motor 
+dysfunction.
+HEMATOLOGY:  He denies easy skin bruising.
+LABORATORY FINDINGS:  We do not have a recent blood test, but on November 23, 2020, 
+sodium 139, potassium 3.9, chloride 109, BUN 18, creatinine 1.04 and estimated GFR 68.  
+WBC 7.8, hemoglobin 10.3, and platelet 175.
+IMAGING STUDIES:  I personally reviewed PET/CT scan on October 26, 2020.  MRI of the 
+brain and most recent CT of the chest findings are stated in HPI.
+PHYSICAL EXAMINATION:
+GENERAL:  Reveals him to be in good general condition for age 80, alert and oriented.
+VITAL SIGNS:  He weighs 217 pounds, temperature 98.5 Fahrenheit, pulse 78, respirations 16, 
+and oxygen saturation 98%.
+HEENT:  There is no facial asymmetry.  Extraocular movement is normal.
+NECK:  There is no lymphadenopathy in the neck or supraclavicular fossa.
+LUNGS:  Showing slightly diminished air movement in the lung.
+HEART:  Showing irregularly irregular rhythm, consistent with atrial fibrillation.
+LYMPHATICS:  There is no murmur.
+ABDOMEN:  Benign.
+RECTAL:  Deferred.
+EXTREMITIES:  Without edema.
+NEUROLOGICAL:  Reveals hearing impairment bilaterally.  Otherwise, unremarkable.
+IMPRESSION:  An 80-year-old male with small cell undifferentiated carcinoma of the lung, 1.8 
+cm in size in the left lower lobe, status post wedge resection and 2 cycles of carboplatin and 
+etoposide.  Restaging workup study shows",Treatment_Response,"irradiation after completion of systemic 
+chemotherapy with complete remission.
+Ronald Valentine is an 80-year-old male, who was found to have 2 FDG-avid left lung lesions on 
+PET/CT scan October 26, 2020.  One is in the left lower lobe and the other one is in the left 
+upper lobe, less than 2 cm in size.  On November 23, 2020, he underwent left VATS, 
+mediastinal lymph node dissection, left upper lobe nodule wedge resection and left lower lobe 
+nodule wedge resection.  Pathology revealed left upper lobe lesion with squamous cell 
+carcinoma, 1.5 cm in size with 1 cm margin.  Left lower lobe wedge resection revealed small cell 
+undifferentiated carcinoma, 1.8 cm with 1 mm margin.  Lymph node study was negative.  Then, 
+he received 2 cycles of carboplatin and etoposide.  Then, restaging study, April 13th CT scan of 
+the chest showed no tumor.  MRI of the brain April 13, 2021, also showed no tumor, thus he 
+achieved complete remission of the disease.  He is age 80, but doing reasonably well with good 
+cognitive function.  He is now referred to Radiation Oncology for consideration of prophylactic 
+cranial irradiation.
+PAST MEDICAL HISTORY:  Atrial fibrillation; cardiovascular disease; cellulitis; gout; 
+hypertension; 2 lung cancers as above; prostate cancer in 2010, treated by external beam 
+radiation therapy, currently under control; hypomagnesemia.
+PAST SURGICAL HISTORY:  Prostate biopsy, external beam radiation therapy to the prostate, 
+cardioversion, VATS in November 2020, tonsillectomy.
+CURRENT MEDICATIONS:  Allopurinol, colchicine, Coumadin, COVID vaccine, influenza 
+vaccine, Lopressor, losartan, Norvasc, ondansetron, prochlorperazine.
+ALLERGIES:  HE IS ALLERGIC TO ADHESIVE TAPE.
+SOCIAL HISTORY:  He has smoked 1 pack per day of cigarettes for 2 years and quit 23 years 
+ago.  He drinks occasionally and denies illicit drug use.
+FAMILY HISTORY:  One sister had lung cancer.
+REVIEW OF SYSTEMS:
+CONSTITUTIONAL:  He complains of fatigability, but denies fever, night sweating, or weight 
+loss.
+INTEGUMENTARY:  Unremarkable without unusual skin lesion.
+HEAD:  Unremarkable.
+EYES:  He denies double vision or blurred vision.
+ENT:  He has some hearing impairment in chronic nature and denies speech impairment.  He 
+also denies hoarseness or swallowing difficulty.
+RESPIRATORY:  Unremarkable with unusual cough or shortness of breath.
+CARDIOVASCULAR:  He has atrial fibrillation, on Coumadin, but denies chest pain or 
+palpitations.
+GASTROINTESTINAL:  Unremarkable without constipation or rectal bleeding.
+GENITOURINARY:  Unremarkable without dysuria or hematuria.
+MUSCULOSKELETAL:  He has arthritic joint pain, but denies acute bone pain.
+ENDOCRINE:  He has gout, but does not have diabetes mellitus or thyroid disorder.
+NEUROLOGIC:  He had some hearing impairment might be due to systemic chemotherapy.  He 
+also has peripheral neuropathy due to chemotherapy.  Otherwise, unremarkable without motor 
+dysfunction.
+HEMATOLOGY:  He denies easy skin bruising.
+LABORATORY FINDINGS:  We do not have a recent blood test, but on November 23, 2020, 
+sodium 139, potassium 3.9, chloride 109, BUN 18, creatinine 1.04 and estimated GFR 68.  
+WBC 7.8, hemoglobin 10.3, and platelet 175.
+IMAGING STUDIES:  I personally reviewed PET/CT scan on October 26, 2020.  MRI of the 
+brain and most recent CT of the chest findings are stated in HPI.
+PHYSICAL EXAMINATION:
+GENERAL:  Reveals him to be in good general condition for age 80, alert and oriented.
+VITAL SIGNS:  He weighs 217 pounds, temperature 98.5 Fahrenheit, pulse 78, respirations 16, 
+and oxygen saturation 98%.
+HEENT:  There is no facial asymmetry.  Extraocular movement is normal.
+NECK:  There is no lymphadenopathy in the neck or supraclavicular fossa.
+LUNGS:  Showing slightly diminished air movement in the lung.
+HEART:  Showing irregularly irregular rhythm, consistent with atrial fibrillation.
+LYMPHATICS:  There is no murmur.
+ABDOMEN:  Benign.
+RECTAL:  Deferred.
+EXTREMITIES:  Without edema.
+NEUROLOGICAL:  Reveals hearing impairment bilaterally.  Otherwise, unremarkable.
+IMPRESSION:  An 80-year-old male with small cell undifferentiated carcinoma of the lung, 1.8 
+cm in size in the left lower lobe, status post wedge resection and 2 cycles of carboplatin and 
+etoposide.  Restaging workup study shows no evidence of disease Radiotherapy Complete_Response",Treatment_Response,No_Relation

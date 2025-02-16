@@ -1,0 +1,17 @@
+entity_type,predicted_entity_type,count
+Cancer_Surgery,Other,22
+Chemotherapy,Immunotherapy,2
+Chemotherapy,Other,15
+Chemotherapy,Targeted_Therapy,1
+Complete_Response,Other,22
+Complete_Response,Progressive_Disease,6
+Immunotherapy,Other,2
+Partial_Response,Complete_Response,1
+Partial_Response,Other,17
+Partial_Response,Progressive_Disease,1
+Progressive_Disease,Other,36
+Radiotherapy,Other,23
+Stable_Disease,Other,6
+Stable_Disease,Progressive_Disease,3
+Stable_Disease,Radiotherapy,1
+Targeted_Therapy,Chemotherapy,1

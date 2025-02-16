@@ -1,0 +1,15 @@
+                     precision    recall  f1-score   support
+
+     Cancer_Surgery       0.00      0.00      0.00         4
+       Chemotherapy       0.24      0.40      0.30        20
+  Complete_Response       0.00      0.00      0.00         6
+      Immunotherapy       0.20      0.11      0.14         9
+   Partial_Response       0.00      0.00      0.00         6
+Progressive_Disease       0.14      0.09      0.11        11
+       Radiotherapy       0.17      0.14      0.15         7
+     Stable_Disease       0.00      0.00      0.00         7
+   Targeted_Therapy       0.14      0.20      0.17         5
+
+           accuracy                           0.16        75
+          macro avg       0.10      0.10      0.10        75
+       weighted avg       0.13      0.16      0.14        75

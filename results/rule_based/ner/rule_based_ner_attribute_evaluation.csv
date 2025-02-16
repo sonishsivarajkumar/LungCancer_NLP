@@ -1,0 +1,15 @@
+entity_type,attribute,accuracy,total_instances
+Cancer_Surgery,Status_Certainty,1.0,40
+Cancer_Surgery,Combi,1.0,40
+Radiotherapy,Status_Certainty,1.0,74
+Radiotherapy,Combi,1.0,74
+Chemotherapy,Status_Certainty,1.0,237
+Chemotherapy,Combi,1.0,237
+Immunotherapy,Status_Certainty,1.0,100
+Immunotherapy,Combi,1.0,100
+Targeted_Therapy,Status_Certainty,1.0,54
+Targeted_Therapy,Combi,1.0,54
+Complete_Response,Certainty,1.0,64
+Partial_Response,Certainty,1.0,53
+Stable_Disease,Certainty,1.0,71
+Progressive_Disease,Certainty,1.0,127

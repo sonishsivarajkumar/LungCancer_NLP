@@ -1,0 +1,17 @@
+Entity-Level Classification Report:
+                     precision    recall  f1-score   support
+
+     Cancer_Surgery       1.00      0.45      0.62        40
+       Chemotherapy       1.00      0.92      0.96       237
+  Complete_Response       0.97      0.56      0.71        64
+      Immunotherapy       0.98      0.98      0.98       100
+              Other       0.00      0.00      0.00         0
+   Partial_Response       1.00      0.64      0.78        53
+Progressive_Disease       0.90      0.72      0.80       127
+       Radiotherapy       0.98      0.69      0.81        74
+     Stable_Disease       1.00      0.86      0.92        71
+   Targeted_Therapy       0.98      0.98      0.98        54
+
+           accuracy                           0.81       820
+          macro avg       0.88      0.68      0.76       820
+       weighted avg       0.98      0.81      0.87       820
