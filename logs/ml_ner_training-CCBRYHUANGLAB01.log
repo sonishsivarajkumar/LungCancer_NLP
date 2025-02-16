@@ -1,0 +1,56 @@
+2024-10-23 18:12:25,205 - INFO - Starting ML-based NER training
+2024-10-23 18:12:25,260 - INFO - Training Random Forest model...
+2024-10-23 18:12:26,121 - INFO - Training XGBoost model...
+2024-10-23 18:12:26,868 - INFO - ML-based NER models have been saved
+2024-11-14 11:31:39,884 - INFO - Starting ML-based NER training
+2024-11-14 11:31:40,734 - INFO - Training Random Forest model...
+2024-11-14 11:31:42,163 - INFO - Training XGBoost model...
+2024-11-14 11:31:43,055 - INFO - ML-based NER models have been saved
+2024-11-14 11:32:50,677 - INFO - Starting ML-based NER training
+2024-11-14 11:32:51,312 - INFO - Training Random Forest model...
+2024-11-14 11:32:52,716 - INFO - Training XGBoost model...
+2024-11-14 11:32:53,514 - INFO - ML-based NER models have been saved
+2024-11-14 12:36:22,233 - INFO - Starting ML-based NER training
+2024-11-14 12:36:22,890 - INFO - Training Random Forest model...
+2024-11-14 12:36:24,238 - INFO - Training XGBoost model...
+2024-11-14 12:36:25,146 - INFO - ML-based NER models have been saved
+2024-11-14 12:36:40,397 - INFO - Starting ML-based NER training
+2024-11-14 12:36:41,036 - INFO - Training Random Forest model...
+2024-11-14 12:36:42,450 - INFO - Training XGBoost model...
+2024-11-14 12:36:43,348 - INFO - ML-based NER models have been saved
+2024-11-14 16:26:45,422 - INFO - Starting customized ML-based NER training
+2024-11-14 16:26:45,423 - WARNING - Folder does not exist: C:\path\to\your\data\Completed Partial Response
+2024-11-14 16:26:45,423 - WARNING - Folder does not exist: C:\path\to\your\data\Completed Progressive Disease
+2024-11-14 16:26:45,424 - WARNING - Folder does not exist: C:\path\to\your\data\Completed RECIST complete response
+2024-11-14 16:26:45,424 - WARNING - Folder does not exist: C:\path\to\your\data\Completed Stable Disease
+2024-11-14 16:57:02,030 - INFO - Starting customized ML-based NER training
+2024-11-14 16:57:02,030 - WARNING - Folder does not exist: C:\path\to\your\data\Completed Partial Response
+2024-11-14 16:57:02,030 - WARNING - Folder does not exist: C:\path\to\your\data\Completed Progressive Disease
+2024-11-14 16:57:02,030 - WARNING - Folder does not exist: C:\path\to\your\data\Completed RECIST complete response
+2024-11-14 16:57:02,030 - WARNING - Folder does not exist: C:\path\to\your\data\Completed Stable Disease
+2024-11-14 16:57:02,030 - INFO - Data loaded: (0, 0)
+2024-11-14 16:57:02,030 - ERROR - Loaded DataFrame is empty. Check your data sources.
+2024-11-14 16:59:02,769 - INFO - Starting customized ML-based NER training
+2024-11-14 16:59:02,954 - INFO - Data loaded: (820, 9)
+2024-11-14 16:59:02,958 - INFO - Data after dropping NA: (820, 9)
+2024-11-14 16:59:02,959 - INFO - Unique words in vocabulary: 223
+2024-11-14 16:59:02,960 - INFO - Labels: {'Cancer_Surgery': 0, 'Chemotherapy': 1, 'Complete_Response': 2, 'Immunotherapy': 3, 'Partial_Response': 4, 'Progressive_Disease': 5, 'Radiotherapy': 6, 'Stable_Disease': 7, 'Targeted_Therapy': 8}
+2024-11-14 16:59:02,960 - INFO - Maximum sentence length: 12
+2024-11-14 16:59:02,966 - INFO - Encoded X shape: (820, 12)
+2024-11-14 16:59:02,966 - INFO - Encoded y shape: (820, 12, 9)
+2024-11-14 16:59:02,969 - INFO - Training data shape: (656, 12), (656, 12, 9)
+2024-11-14 16:59:02,970 - INFO - Testing data shape: (164, 12), (164, 12, 9)
+2024-11-14 16:59:30,749 - INFO - Starting customized ML-based NER training
+2024-11-14 16:59:30,820 - INFO - Data loaded: (820, 9)
+2024-11-14 16:59:30,822 - INFO - Data after dropping NA: (820, 9)
+2024-11-14 16:59:30,823 - INFO - Unique words in vocabulary: 223
+2024-11-14 16:59:30,823 - INFO - Labels: {'Cancer_Surgery': 0, 'Chemotherapy': 1, 'Complete_Response': 2, 'Immunotherapy': 3, 'Partial_Response': 4, 'Progressive_Disease': 5, 'Radiotherapy': 6, 'Stable_Disease': 7, 'Targeted_Therapy': 8}
+2024-11-14 16:59:30,823 - INFO - Maximum sentence length: 12
+2024-11-14 16:59:30,829 - INFO - Encoded X shape: (820, 12)
+2024-11-14 16:59:30,830 - INFO - Encoded y shape: (820, 12, 9)
+2024-11-14 16:59:30,830 - INFO - Training data shape: (656, 12), (656, 12, 9)
+2024-11-14 16:59:30,831 - INFO - Testing data shape: (164, 12), (164, 12, 9)
+2024-11-25 14:40:33,330 - INFO - Starting ML-based NER training
+2024-11-25 14:40:33,394 - INFO - Training Random Forest model...
+2024-11-25 14:40:34,834 - INFO - Training XGBoost model...
+2024-11-25 14:40:35,693 - INFO - ML-based NER models have been saved

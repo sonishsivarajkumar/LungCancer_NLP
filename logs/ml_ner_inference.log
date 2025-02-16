@@ -1,0 +1,10 @@
+2024-10-23 18:15:19,612 - INFO - Starting ML-based NER inference
+2024-10-23 18:15:20,022 - INFO - Processing text 1
+2024-10-23 18:15:21,477 - INFO - Results saved to results/text_1_random_forest_entities.csv
+2024-10-23 18:15:21,850 - INFO - Results saved to results/text_1_xgboost_entities.csv
+2024-10-23 18:15:21,850 - INFO - Processing text 2
+2024-10-23 18:15:22,918 - INFO - Results saved to results/text_2_random_forest_entities.csv
+2024-10-23 18:15:23,098 - INFO - Results saved to results/text_2_xgboost_entities.csv
+2024-10-23 18:15:23,114 - INFO - Processing text 3
+2024-10-23 18:15:24,545 - INFO - Results saved to results/text_3_random_forest_entities.csv
+2024-10-23 18:15:24,808 - INFO - Results saved to results/text_3_xgboost_entities.csv

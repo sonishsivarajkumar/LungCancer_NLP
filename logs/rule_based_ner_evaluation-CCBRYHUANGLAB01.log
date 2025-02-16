@@ -1,0 +1,100 @@
+2024-10-23 18:09:18,456 - INFO - Starting rule-based NER evaluation
+2024-10-23 18:09:18,835 - INFO - Evaluation completed and results saved
+2024-11-11 14:24:57,172 - INFO - Starting rule-based NER evaluation
+2024-11-11 14:24:57,763 - INFO - Evaluation completed and results saved
+2024-11-11 14:43:00,890 - INFO - Starting rule-based NER evaluation
+2024-11-11 14:51:58,470 - INFO - Starting rule-based NER evaluation
+2024-11-11 14:56:06,714 - INFO - Starting rule-based NER evaluation
+2024-11-11 14:56:59,134 - INFO - Starting rule-based NER evaluation
+2024-11-11 15:09:14,406 - INFO - Starting rule-based NER evaluation
+2024-11-11 15:09:14,845 - INFO - Performing error analysis
+2024-11-11 15:09:14,911 - INFO - Generating error analysis report
+2024-11-11 15:09:14,925 - INFO - Total instances: 820
+2024-11-11 15:09:14,925 - INFO - Number of false positives: 318
+2024-11-11 15:09:14,925 - INFO - Number of false negatives: 14
+2024-11-11 15:09:14,925 - INFO - Error analysis completed and results saved
+2024-11-11 15:09:14,927 - INFO - Evaluation completed and results saved
+2024-11-11 15:25:48,564 - INFO - Starting rule-based NER evaluation
+2024-11-11 15:25:49,006 - INFO - Performing error analysis
+2024-11-11 15:25:49,062 - INFO - Generating error analysis report
+2024-11-11 15:25:49,077 - INFO - Total instances: 820
+2024-11-11 15:25:49,077 - INFO - Number of false positives: 101
+2024-11-11 15:25:49,078 - INFO - Number of false negatives: 229
+2024-11-11 15:25:49,078 - INFO - Error analysis completed and results saved
+2024-11-11 15:25:49,078 - INFO - Evaluation completed and results saved
+2024-11-11 15:36:08,683 - INFO - Starting rule-based NER evaluation
+2024-11-11 15:36:09,127 - INFO - Performing error analysis
+2024-11-11 15:36:09,164 - INFO - Generating error analysis report
+2024-11-11 15:36:09,178 - INFO - Total instances: 820
+2024-11-11 15:36:09,178 - INFO - Number of false positives: 44
+2024-11-11 15:36:09,179 - INFO - Number of false negatives: 100
+2024-11-11 15:36:09,179 - INFO - Error analysis completed and results saved
+2024-11-11 15:36:09,179 - INFO - Evaluation completed and results saved
+2024-11-11 15:46:39,740 - INFO - Starting rule-based NER evaluation
+2024-11-11 15:46:40,188 - INFO - Performing error analysis
+2024-11-11 15:46:40,227 - INFO - Generating error analysis report
+2024-11-11 15:46:40,240 - INFO - Total instances: 820
+2024-11-11 15:46:40,240 - INFO - Number of false positives: 55
+2024-11-11 15:46:40,240 - INFO - Number of false negatives: 83
+2024-11-11 15:46:40,241 - INFO - Error analysis completed and results saved
+2024-11-11 15:46:40,241 - INFO - Evaluation completed and results saved
+2024-11-11 15:48:12,506 - INFO - Starting rule-based NER evaluation
+2024-11-11 15:48:12,947 - INFO - Performing error analysis
+2024-11-11 15:48:12,990 - INFO - Generating error analysis report
+2024-11-11 15:48:13,004 - INFO - Total instances: 820
+2024-11-11 15:48:13,004 - INFO - Number of false positives: 55
+2024-11-11 15:48:13,005 - INFO - Number of false negatives: 83
+2024-11-11 15:48:13,005 - INFO - Error analysis completed and results saved
+2024-11-11 15:48:13,005 - INFO - Evaluation completed and results saved
+2024-11-11 15:50:13,430 - INFO - Starting rule-based NER evaluation
+2024-11-11 15:50:26,411 - INFO - Starting rule-based NER evaluation
+2024-11-11 15:50:42,367 - INFO - Starting rule-based NER evaluation
+2024-11-11 15:50:42,807 - INFO - Performing error analysis
+2024-11-11 15:50:42,843 - INFO - Generating error analysis report
+2024-11-11 15:50:42,856 - INFO - Total instances: 820
+2024-11-11 15:50:42,857 - INFO - Number of false positives: 55
+2024-11-11 15:50:42,857 - INFO - Number of false negatives: 83
+2024-11-11 15:50:42,857 - INFO - Error analysis completed and results saved
+2024-11-11 15:50:42,857 - INFO - Evaluation completed and results saved
+2024-11-11 15:55:34,857 - INFO - Starting rule-based NER evaluation
+2024-11-11 15:55:35,265 - INFO - Performing error analysis
+2024-11-11 15:55:35,302 - INFO - Generating error analysis report
+2024-11-11 15:55:35,316 - INFO - Total instances: 820
+2024-11-11 15:55:35,316 - INFO - Number of false positives: 25
+2024-11-11 15:55:35,317 - INFO - Number of false negatives: 113
+2024-11-11 15:55:35,317 - INFO - Error analysis completed and results saved
+2024-11-11 15:55:35,317 - INFO - Evaluation completed and results saved
+2024-11-15 12:54:15,108 - INFO - Starting rule-based NER evaluation
+2024-11-15 12:54:50,903 - INFO - Starting rule-based NER evaluation
+2024-11-15 12:55:08,244 - INFO - Starting rule-based NER evaluation
+2024-11-15 12:55:52,606 - INFO - Starting rule-based NER evaluation
+2024-11-15 12:56:43,797 - INFO - Starting rule-based NER evaluation
+2024-11-15 12:59:05,284 - INFO - Starting rule-based NER evaluation
+2024-11-15 13:04:09,350 - INFO - Starting rule-based NER evaluation
+2024-11-15 13:04:09,940 - INFO - Performing error analysis
+2024-11-15 13:04:09,980 - INFO - Generating error analysis report
+2024-11-15 13:04:09,989 - INFO - Total instances: 820
+2024-11-15 13:04:09,989 - INFO - Number of false positives: 16
+2024-11-15 13:04:09,989 - INFO - Number of false negatives: 143
+2024-11-15 13:04:09,999 - INFO - Error analysis completed and results saved
+2024-11-15 13:04:09,999 - INFO - Evaluation completed and results saved
+2024-11-25 14:16:45,468 - INFO - Starting rule-based NER evaluation
+2024-11-25 14:16:45,998 - INFO - Performing error analysis
+2024-11-25 14:16:46,041 - INFO - Generating error analysis report
+2024-11-25 14:16:46,056 - INFO - Error analysis completed and results saved
+2024-11-25 14:16:46,056 - INFO - Evaluation completed and results saved
+2024-11-25 14:23:19,606 - INFO - Starting rule-based NER evaluation
+2024-11-25 14:23:19,995 - INFO - Performing error analysis
+2024-11-25 14:23:20,062 - INFO - Generating error analysis report
+2024-11-25 14:23:20,076 - INFO - Error analysis completed and results saved
+2024-11-25 14:23:20,076 - INFO - Evaluation completed and results saved
+2024-11-25 14:23:30,496 - INFO - Starting rule-based NER evaluation
+2024-11-25 14:23:30,884 - INFO - Performing error analysis
+2024-11-25 14:23:30,918 - INFO - Generating error analysis report
+2024-11-25 14:23:30,931 - INFO - Error analysis completed and results saved
+2024-11-25 14:23:30,932 - INFO - Evaluation completed and results saved
+2024-11-25 14:28:50,043 - INFO - Starting rule-based NER evaluation
+2024-11-25 14:28:50,421 - INFO - Performing error analysis
+2024-11-25 14:28:50,461 - INFO - Generating error analysis report
+2024-11-25 14:28:50,476 - INFO - Error analysis completed and results saved
+2024-11-25 14:28:50,476 - INFO - Evaluation completed and results saved

@@ -1,0 +1,66 @@
+2024-10-23 18:08:53,512 - INFO - Starting rule-based NER training
+2024-10-23 18:08:53,549 - INFO - Created pattern for Chemotherapy with 16 keywords
+2024-10-23 18:08:53,549 - INFO - Created pattern for Complete_Response with 23 keywords
+2024-10-23 18:08:53,550 - INFO - Created pattern for Stable_Disease with 16 keywords
+2024-10-23 18:08:53,551 - INFO - Created pattern for Partial_Response with 16 keywords
+2024-10-23 18:08:53,551 - INFO - Created pattern for Targeted_Therapy with 5 keywords
+2024-10-23 18:08:53,552 - INFO - Created pattern for Radiotherapy with 13 keywords
+2024-10-23 18:08:53,553 - INFO - Created pattern for Immunotherapy with 8 keywords
+2024-10-23 18:08:53,554 - INFO - Created pattern for Progressive_Disease with 46 keywords
+2024-10-23 18:08:53,554 - INFO - Created pattern for Cancer_Surgery with 23 keywords
+2024-10-23 18:08:53,558 - INFO - Rule-based NER patterns have been saved
+2024-11-11 14:23:57,804 - INFO - Starting rule-based NER training
+2024-11-11 14:23:58,006 - INFO - Created pattern for Radiotherapy with 27 keywords
+2024-11-11 14:23:58,006 - INFO - Created pattern for Chemotherapy with 20 keywords
+2024-11-11 14:23:58,006 - INFO - Created pattern for Immunotherapy with 8 keywords
+2024-11-11 14:23:58,006 - INFO - Created pattern for Targeted_Therapy with 15 keywords
+2024-11-11 14:23:58,006 - INFO - Created pattern for Cancer_Surgery with 26 keywords
+2024-11-11 14:23:58,006 - INFO - Created pattern for Complete_Response with 31 keywords
+2024-11-11 14:23:58,006 - INFO - Created pattern for Progressive_Disease with 74 keywords
+2024-11-11 14:23:58,021 - INFO - Created pattern for Stable_Disease with 29 keywords
+2024-11-11 14:23:58,021 - INFO - Created pattern for Partial_Response with 29 keywords
+2024-11-11 14:23:58,021 - INFO - Rule-based NER patterns have been saved
+2024-11-11 14:42:09,670 - INFO - Starting rule-based NER training
+2024-11-11 14:42:09,769 - INFO - Created pattern for Radiotherapy with 18 keywords
+2024-11-11 14:42:09,770 - INFO - Created pattern for Chemotherapy with 20 keywords
+2024-11-11 14:42:09,770 - INFO - Created pattern for Immunotherapy with 8 keywords
+2024-11-11 14:42:09,771 - INFO - Created pattern for Targeted_Therapy with 15 keywords
+2024-11-11 14:42:09,771 - INFO - Created pattern for Cancer_Surgery with 22 keywords
+2024-11-11 14:42:09,772 - INFO - Created pattern for Complete_Response with 24 keywords
+2024-11-11 14:42:09,773 - INFO - Created pattern for Progressive_Disease with 60 keywords
+2024-11-11 14:42:09,773 - INFO - Created pattern for Stable_Disease with 18 keywords
+2024-11-11 14:42:09,774 - INFO - Created pattern for Partial_Response with 22 keywords
+2024-11-11 14:42:09,777 - INFO - Rule-based NER patterns have been saved
+2024-11-11 14:52:02,547 - INFO - Starting rule-based NER training
+2024-11-11 14:52:02,621 - INFO - Created pattern for Radiotherapy with 37 keywords
+2024-11-11 14:52:02,622 - INFO - Created pattern for Chemotherapy with 21 keywords
+2024-11-11 14:52:02,623 - INFO - Created pattern for Immunotherapy with 8 keywords
+2024-11-11 14:52:02,624 - INFO - Created pattern for Targeted_Therapy with 15 keywords
+2024-11-11 14:52:02,625 - INFO - Created pattern for Cancer_Surgery with 55 keywords
+2024-11-11 14:52:02,626 - INFO - Created pattern for Complete_Response with 43 keywords
+2024-11-11 14:52:02,627 - INFO - Created pattern for Progressive_Disease with 125 keywords
+2024-11-11 14:52:02,629 - INFO - Created pattern for Stable_Disease with 34 keywords
+2024-11-11 14:52:02,630 - INFO - Created pattern for Partial_Response with 40 keywords
+2024-11-11 14:52:02,637 - INFO - Rule-based NER patterns have been saved
+2024-11-11 14:56:01,264 - INFO - Starting rule-based NER training
+2024-11-11 14:56:01,346 - INFO - Created pattern for Radiotherapy with 37 keywords
+2024-11-11 14:56:01,348 - INFO - Created pattern for Chemotherapy with 21 keywords
+2024-11-11 14:56:01,349 - INFO - Created pattern for Immunotherapy with 8 keywords
+2024-11-11 14:56:01,350 - INFO - Created pattern for Targeted_Therapy with 15 keywords
+2024-11-11 14:56:01,351 - INFO - Created pattern for Cancer_Surgery with 55 keywords
+2024-11-11 14:56:01,352 - INFO - Created pattern for Complete_Response with 43 keywords
+2024-11-11 14:56:01,353 - INFO - Created pattern for Progressive_Disease with 125 keywords
+2024-11-11 14:56:01,354 - INFO - Created pattern for Stable_Disease with 34 keywords
+2024-11-11 14:56:01,355 - INFO - Created pattern for Partial_Response with 40 keywords
+2024-11-11 14:56:01,361 - INFO - Rule-based NER patterns have been saved
+2024-11-11 14:56:51,011 - INFO - Starting rule-based NER training
+2024-11-11 14:56:51,081 - INFO - Created pattern for Radiotherapy with 37 keywords
+2024-11-11 14:56:51,083 - INFO - Created pattern for Chemotherapy with 21 keywords
+2024-11-11 14:56:51,084 - INFO - Created pattern for Immunotherapy with 8 keywords
+2024-11-11 14:56:51,084 - INFO - Created pattern for Targeted_Therapy with 15 keywords
+2024-11-11 14:56:51,085 - INFO - Created pattern for Cancer_Surgery with 55 keywords
+2024-11-11 14:56:51,086 - INFO - Created pattern for Complete_Response with 43 keywords
+2024-11-11 14:56:51,088 - INFO - Created pattern for Progressive_Disease with 125 keywords
+2024-11-11 14:56:51,089 - INFO - Created pattern for Stable_Disease with 34 keywords
+2024-11-11 14:56:51,090 - INFO - Created pattern for Partial_Response with 40 keywords
+2024-11-11 14:56:51,095 - INFO - Rule-based NER patterns have been saved

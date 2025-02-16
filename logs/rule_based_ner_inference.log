@@ -1,0 +1,7 @@
+2024-10-23 18:11:33,065 - INFO - Starting rule-based NER inference
+2024-10-23 18:11:33,078 - INFO - Processing text 1
+2024-10-23 18:11:33,084 - INFO - Results saved to results/text_1_entities.csv
+2024-10-23 18:11:33,089 - INFO - Processing text 2
+2024-10-23 18:11:33,093 - INFO - Results saved to results/text_2_entities.csv
+2024-10-23 18:11:33,096 - INFO - Processing text 3
+2024-10-23 18:11:33,098 - INFO - Results saved to results/text_3_entities.csv

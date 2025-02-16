@@ -1,0 +1,197 @@
+2024-10-23 18:12:25,205 - INFO - Starting ML-based NER training
+2024-10-23 18:12:25,260 - INFO - Training Random Forest model...
+2024-10-23 18:12:26,121 - INFO - Training XGBoost model...
+2024-10-23 18:12:26,868 - INFO - ML-based NER models have been saved
+2024-11-14 11:31:39,884 - INFO - Starting ML-based NER training
+2024-11-14 11:31:40,734 - INFO - Training Random Forest model...
+2024-11-14 11:31:42,163 - INFO - Training XGBoost model...
+2024-11-14 11:31:43,055 - INFO - ML-based NER models have been saved
+2024-11-14 11:32:50,677 - INFO - Starting ML-based NER training
+2024-11-14 11:32:51,312 - INFO - Training Random Forest model...
+2024-11-14 11:32:52,716 - INFO - Training XGBoost model...
+2024-11-14 11:32:53,514 - INFO - ML-based NER models have been saved
+2024-11-14 12:36:22,233 - INFO - Starting ML-based NER training
+2024-11-14 12:36:22,890 - INFO - Training Random Forest model...
+2024-11-14 12:36:24,238 - INFO - Training XGBoost model...
+2024-11-14 12:36:25,146 - INFO - ML-based NER models have been saved
+2024-11-14 12:36:40,397 - INFO - Starting ML-based NER training
+2024-11-14 12:36:41,036 - INFO - Training Random Forest model...
+2024-11-14 12:36:42,450 - INFO - Training XGBoost model...
+2024-11-14 12:36:43,348 - INFO - ML-based NER models have been saved
+2024-11-14 16:26:45,422 - INFO - Starting customized ML-based NER training
+2024-11-14 16:26:45,423 - WARNING - Folder does not exist: C:\path\to\your\data\Completed Partial Response
+2024-11-14 16:26:45,423 - WARNING - Folder does not exist: C:\path\to\your\data\Completed Progressive Disease
+2024-11-14 16:26:45,424 - WARNING - Folder does not exist: C:\path\to\your\data\Completed RECIST complete response
+2024-11-14 16:26:45,424 - WARNING - Folder does not exist: C:\path\to\your\data\Completed Stable Disease
+2024-11-14 16:57:02,030 - INFO - Starting customized ML-based NER training
+2024-11-14 16:57:02,030 - WARNING - Folder does not exist: C:\path\to\your\data\Completed Partial Response
+2024-11-14 16:57:02,030 - WARNING - Folder does not exist: C:\path\to\your\data\Completed Progressive Disease
+2024-11-14 16:57:02,030 - WARNING - Folder does not exist: C:\path\to\your\data\Completed RECIST complete response
+2024-11-14 16:57:02,030 - WARNING - Folder does not exist: C:\path\to\your\data\Completed Stable Disease
+2024-11-14 16:57:02,030 - INFO - Data loaded: (0, 0)
+2024-11-14 16:57:02,030 - ERROR - Loaded DataFrame is empty. Check your data sources.
+2024-11-14 16:59:02,769 - INFO - Starting customized ML-based NER training
+2024-11-14 16:59:02,954 - INFO - Data loaded: (820, 9)
+2024-11-14 16:59:02,958 - INFO - Data after dropping NA: (820, 9)
+2024-11-14 16:59:02,959 - INFO - Unique words in vocabulary: 223
+2024-11-14 16:59:02,960 - INFO - Labels: {'Cancer_Surgery': 0, 'Chemotherapy': 1, 'Complete_Response': 2, 'Immunotherapy': 3, 'Partial_Response': 4, 'Progressive_Disease': 5, 'Radiotherapy': 6, 'Stable_Disease': 7, 'Targeted_Therapy': 8}
+2024-11-14 16:59:02,960 - INFO - Maximum sentence length: 12
+2024-11-14 16:59:02,966 - INFO - Encoded X shape: (820, 12)
+2024-11-14 16:59:02,966 - INFO - Encoded y shape: (820, 12, 9)
+2024-11-14 16:59:02,969 - INFO - Training data shape: (656, 12), (656, 12, 9)
+2024-11-14 16:59:02,970 - INFO - Testing data shape: (164, 12), (164, 12, 9)
+2024-11-14 16:59:30,749 - INFO - Starting customized ML-based NER training
+2024-11-14 16:59:30,820 - INFO - Data loaded: (820, 9)
+2024-11-14 16:59:30,822 - INFO - Data after dropping NA: (820, 9)
+2024-11-14 16:59:30,823 - INFO - Unique words in vocabulary: 223
+2024-11-14 16:59:30,823 - INFO - Labels: {'Cancer_Surgery': 0, 'Chemotherapy': 1, 'Complete_Response': 2, 'Immunotherapy': 3, 'Partial_Response': 4, 'Progressive_Disease': 5, 'Radiotherapy': 6, 'Stable_Disease': 7, 'Targeted_Therapy': 8}
+2024-11-14 16:59:30,823 - INFO - Maximum sentence length: 12
+2024-11-14 16:59:30,829 - INFO - Encoded X shape: (820, 12)
+2024-11-14 16:59:30,830 - INFO - Encoded y shape: (820, 12, 9)
+2024-11-14 16:59:30,830 - INFO - Training data shape: (656, 12), (656, 12, 9)
+2024-11-14 16:59:30,831 - INFO - Testing data shape: (164, 12), (164, 12, 9)
+2024-12-11 15:31:35,664 - INFO - Starting ML-based NER training
+2024-12-11 15:31:36,129 - INFO - Training Random Forest model...
+2024-12-11 15:31:37,555 - INFO - Training XGBoost model...
+2024-12-11 15:31:38,458 - INFO - ML-based NER models have been saved
+2024-12-11 15:33:18,801 - INFO - Starting ML-based NER training (TF-IDF)
+2024-12-11 15:33:18,913 - INFO - Training Random Forest model...
+2024-12-11 15:34:50,432 - INFO - Training XGBoost model...
+2024-12-11 15:34:57,197 - INFO - ML-based NER models (TF-IDF) have been saved
+2024-12-11 15:45:21,130 - INFO - Starting ML-based NER training (TF-IDF)
+2024-12-11 15:45:21,220 - INFO - Training Random Forest model...
+2024-12-11 15:46:50,863 - INFO - Training XGBoost model...
+2024-12-11 15:46:57,642 - INFO - ML-based NER models (TF-IDF) have been saved
+2024-12-11 15:50:38,112 - INFO - Starting ML-based NER training (TF-IDF)
+2024-12-11 15:50:38,223 - INFO - Training Random Forest model...
+2024-12-11 15:52:09,196 - INFO - Training XGBoost model...
+2024-12-11 15:52:16,064 - INFO - ML-based NER models (TF-IDF) have been saved
+2024-12-11 15:56:15,132 - INFO - Starting ML-based NER training (TF-IDF with Multiple Models and Grid Search, plus Validation)
+2024-12-11 15:56:15,222 - INFO - Performing Grid Search for Random Forest...
+2024-12-11 16:07:18,918 - INFO - Starting ML-based NER training (TF-IDF with Multiple Models and Grid Search, plus Validation)
+2024-12-11 16:07:19,026 - INFO - Performing Grid Search for Random Forest...
+2024-12-11 16:24:28,911 - INFO - Random Forest best params: {'classifier__estimator__class_weight': 'balanced', 'classifier__estimator__max_depth': 10, 'classifier__estimator__min_samples_split': 2, 'classifier__estimator__n_estimators': 100}
+2024-12-11 16:24:28,911 - INFO - Random Forest best score: 0.1685
+2024-12-11 16:24:28,911 - INFO - Performing Grid Search for XGBoost...
+2024-12-11 16:24:59,406 - INFO - XGBoost best params: {'classifier__estimator__learning_rate': 0.1, 'classifier__estimator__max_depth': 3, 'classifier__estimator__n_estimators': 100, 'classifier__estimator__scale_pos_weight': 1}
+2024-12-11 16:24:59,406 - INFO - XGBoost best score: 0.1489
+2024-12-11 16:24:59,406 - INFO - Performing Grid Search for LightGBM...
+2024-12-11 16:26:08,204 - INFO - LightGBM best params: {'classifier__estimator__learning_rate': 0.1, 'classifier__estimator__max_depth': 10, 'classifier__estimator__n_estimators': 100}
+2024-12-11 16:26:08,205 - INFO - LightGBM best score: 0.1454
+2024-12-11 16:26:08,205 - INFO - Performing Grid Search for AdaBoost...
+2024-12-11 16:30:36,895 - INFO - AdaBoost best params: {'classifier__estimator__learning_rate': 0.1, 'classifier__estimator__n_estimators': 50}
+2024-12-11 16:30:36,895 - INFO - AdaBoost best score: 0.1694
+2024-12-11 16:30:36,895 - INFO - Performing Grid Search for Gradient Boosting...
+2024-12-11 16:43:30,956 - INFO - Gradient Boosting best params: {'classifier__estimator__learning_rate': 0.1, 'classifier__estimator__max_depth': 3, 'classifier__estimator__n_estimators': 100}
+2024-12-11 16:43:30,956 - INFO - Gradient Boosting best score: 0.1447
+2024-12-11 16:43:30,956 - INFO - Performing Grid Search for Logistic Regression...
+2024-12-11 16:43:40,092 - INFO - Logistic Regression best params: {'classifier__estimator__C': 0.1, 'classifier__estimator__class_weight': 'balanced', 'classifier__estimator__max_iter': 1000}
+2024-12-11 16:43:40,092 - INFO - Logistic Regression best score: 0.2145
+2024-12-11 16:43:40,248 - INFO - Validation Classification Report - random_forest:
+                     precision    recall  f1-score   support
+
+     Cancer_Surgery       0.00      0.00      0.00         4
+       Chemotherapy       0.13      0.10      0.11        20
+  Complete_Response       0.15      0.33      0.21         6
+      Immunotherapy       0.00      0.00      0.00         9
+   Partial_Response       0.00      0.00      0.00         6
+Progressive_Disease       0.00      0.00      0.00        11
+       Radiotherapy       0.12      0.14      0.13         7
+     Stable_Disease       0.00      0.00      0.00         7
+   Targeted_Therapy       0.21      0.60      0.32         5
+
+           accuracy                           0.11        75
+          macro avg       0.07      0.13      0.09        75
+       weighted avg       0.07      0.11      0.08        75
+
+2024-12-11 16:43:40,657 - INFO - Validation Classification Report - xgboost:
+                     precision    recall  f1-score   support
+
+     Cancer_Surgery       0.00      0.00      0.00         4
+       Chemotherapy       0.24      0.40      0.30        20
+  Complete_Response       0.00      0.00      0.00         6
+      Immunotherapy       0.20      0.11      0.14         9
+   Partial_Response       0.00      0.00      0.00         6
+Progressive_Disease       0.14      0.09      0.11        11
+       Radiotherapy       0.17      0.14      0.15         7
+     Stable_Disease       0.00      0.00      0.00         7
+   Targeted_Therapy       0.14      0.20      0.17         5
+
+           accuracy                           0.16        75
+          macro avg       0.10      0.10      0.10        75
+       weighted avg       0.13      0.16      0.14        75
+
+2024-12-11 16:43:41,016 - INFO - Validation Classification Report - lightgbm:
+                     precision    recall  f1-score   support
+
+     Cancer_Surgery       0.00      0.00      0.00         4
+       Chemotherapy       0.23      0.35      0.27        20
+  Complete_Response       0.00      0.00      0.00         6
+      Immunotherapy       0.14      0.11      0.12         9
+   Partial_Response       0.00      0.00      0.00         6
+Progressive_Disease       0.12      0.09      0.11        11
+       Radiotherapy       0.11      0.14      0.12         7
+     Stable_Disease       0.00      0.00      0.00         7
+   Targeted_Therapy       0.17      0.20      0.18         5
+
+           accuracy                           0.15        75
+          macro avg       0.09      0.10      0.09        75
+       weighted avg       0.12      0.15      0.13        75
+
+2024-12-11 16:43:41,443 - INFO - Validation Classification Report - adaboost:
+                     precision    recall  f1-score   support
+
+     Cancer_Surgery       0.00      0.00      0.00         4
+       Chemotherapy       0.31      0.55      0.39        20
+  Complete_Response       0.00      0.00      0.00         6
+      Immunotherapy       0.40      0.22      0.29         9
+   Partial_Response       0.00      0.00      0.00         6
+Progressive_Disease       0.00      0.00      0.00        11
+       Radiotherapy       0.25      0.29      0.27         7
+     Stable_Disease       0.00      0.00      0.00         7
+   Targeted_Therapy       0.17      0.20      0.18         5
+
+           accuracy                           0.21        75
+          macro avg       0.12      0.14      0.13        75
+       weighted avg       0.16      0.21      0.18        75
+
+2024-12-11 16:43:41,740 - INFO - Validation Classification Report - gradient_boosting:
+                     precision    recall  f1-score   support
+
+     Cancer_Surgery       0.00      0.00      0.00         4
+       Chemotherapy       0.17      0.25      0.20        20
+  Complete_Response       0.00      0.00      0.00         6
+      Immunotherapy       0.00      0.00      0.00         9
+   Partial_Response       0.00      0.00      0.00         6
+Progressive_Disease       0.00      0.00      0.00        11
+       Radiotherapy       0.17      0.14      0.15         7
+     Stable_Disease       0.00      0.00      0.00         7
+   Targeted_Therapy       0.12      0.20      0.15         5
+
+           accuracy                           0.09        75
+          macro avg       0.05      0.07      0.06        75
+       weighted avg       0.07      0.09      0.08        75
+
+2024-12-11 16:43:42,034 - INFO - Validation Classification Report - logistic_regression:
+                     precision    recall  f1-score   support
+
+     Cancer_Surgery       0.00      0.00      0.00         4
+       Chemotherapy       0.38      0.15      0.21        20
+  Complete_Response       0.20      0.33      0.25         6
+      Immunotherapy       0.00      0.00      0.00         9
+   Partial_Response       0.00      0.00      0.00         6
+Progressive_Disease       0.20      0.27      0.23        11
+       Radiotherapy       0.27      0.43      0.33         7
+     Stable_Disease       0.57      0.57      0.57         7
+   Targeted_Therapy       0.30      0.60      0.40         5
+
+           accuracy                           0.24        75
+          macro avg       0.21      0.26      0.22        75
+       weighted avg       0.24      0.24      0.22        75
+
+2024-12-11 16:43:44,304 - INFO - ML-based NER models (TF-IDF with Grid Search) have been saved
+2024-12-11 16:43:44,304 - INFO - Validation evaluation completed. You can now run the evaluation script on the test set.
+2024-12-11 16:47:47,494 - INFO - Starting ML-based NER training
+2024-12-11 16:47:47,922 - INFO - Training Random Forest model...
+2024-12-11 16:47:49,351 - INFO - Training XGBoost model...
+2024-12-11 16:47:50,247 - INFO - ML-based NER models have been saved

@@ -1,0 +1,8 @@
+2024-10-23 18:26:27,593 - INFO - Starting Relation Extraction evaluation
+2024-10-23 18:26:27,630 - ERROR - Error loading models: Incorrect path_or_model_id: './models/bert_models/re'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+2024-10-23 18:27:08,147 - INFO - Starting Relation Extraction evaluation
+2024-10-23 18:27:08,185 - ERROR - Error loading models: Incorrect path_or_model_id: './models/bert_models/re'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+2024-10-23 18:27:36,324 - INFO - Starting Relation Extraction evaluation
+2024-10-23 18:27:36,374 - INFO - Evaluating Random Forest model...
+2024-10-23 18:27:36,883 - INFO - Evaluating XGBoost model...
+2024-10-23 18:27:37,301 - INFO - Evaluation completed and results saved
