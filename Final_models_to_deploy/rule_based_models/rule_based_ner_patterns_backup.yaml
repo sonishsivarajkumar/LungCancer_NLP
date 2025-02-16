@@ -1,0 +1,9 @@
+Cancer_Surgery: \b(segmentectomy|bilobectomy|lobectomy|pneumonectomy|thoracotomy|thoracoscopy|lymph\s+node\s+dissection|vats\s+lobectomy|wedge\s+resection|surgical\s+resection|mediastinal\s+dissection|tumor\s+resection)\b
+Chemotherapy: \b(carboplatin|gemcitabine|pemetrexed|paclitaxel|cisplatin|docetaxel|vinorelbine|etoposide|abraxane|temodar|alimta|adjuvant\s+chemotherapy|neoadjuvant\s+chemotherapy|maintenance\s+chemotherapy|platinum[\-\s]based\s+chemotherapy)\b
+Immunotherapy: \b(pembrolizumab|atezolizumab|durvalumab|nivolumab|ipilimumab|avelumab|keytruda|opdivo|tecentriq|imfinzi|yervoy|bavencio|immune\s+checkpoint\s+inhibitor|pd[\-\s]1\s+inhibitor|pd[\-\s]l1\s+inhibitor)\b
+Radiotherapy: \b(radiotherapy|radiosurgery|protontherapy|brachytherapy|external\s+beam\s+radiation(\s+therapy)?|stereotactic\s+body\s+radiation(\s+therapy)?|intensity\s+modulated\s+radiation(\s+therapy)?|stereotactic\s+radiosurgery|sbrt|ebrt|imrt)\b
+Targeted_Therapy: \b(trametinib|dabrafenib|capmatinib|alectinib|crizotinib|erlotinib|osimertinib|lorlatinib|tyrosine\s+kinase\s+inhibitor|alk\s+inhibitor|egfr\s+inhibitor|braf\s+inhibitor)\b
+Complete_Response: \b(complete\s+response|complete\s+remission|no\s+evidence\s+of\s+disease|disease[\-\s]free|pathologic\s+complete\s+response|radiologic\s+complete\s+response|remission)\b
+Partial_Response: \b(partial\s+response|partial\s+remission|significant\s+improvement|tumor\s+shrinkage|decrease\s+in\s+tumor\s+size|favorable\s+response)\b
+Progressive_Disease: \b(disease\s+progression|tumor\s+progression|progressive\s+disease|new\s+metastatic\s+sites|increasing\s+tumor\s+burden|metastatic\s+disease|metastases|metastasis|progression|recurrence)\b
+Stable_Disease: \b(stable\s+disease|no\s+progression|disease\s+stability|unchanged\s+from\s+prior|remained\s+stable|no\s+significant\s+change)\b

@@ -1,0 +1,16 @@
+Cancer_Surgery: \b(lobe\ anterior\ segmentectomy|bilobectomy\ right\ middle|mediastinal\
+  lymph\ node|anterior\ segmentectomy|lymph\ node\ dissection|right\ lower\ lobectomy|left\
+  lower\ lobectomy|left\ upper\ lobectomy|lobe\ wedge\ resection|upper\ lobe\ anterior|surgical\
+  resection|right\ middle\ lobe|mediastinal\ lymph|bilobectomy\ right|right\ upper\
+  lobe|right\ lower\ lobe|upper\ lobe\ wedge|lower\ lobectomy|wedge\ resection|upper\
+  lobectomy|node\ dissection|lobe\ anterior|segmentectomy|right\ middle|middle\
+  lobe|right\ lower|bilobectomy|right\ upper|mediastinal|upper\ lobe|right\ vats|left\
+  upper|lower\ lobe|craniotomy|lobe\ wedge|dissection|lymph\ node|left\ lower|resection|lobectomy|surgical|resected|anterior|surgery|middle|right|lymph|lower|wedge|upper|vats|lobe|node|left)\b
+Chemotherapy: \b(chemotherapy|chemo|gemcitabine|carboplatin|paclitaxel|pemetrexed|cisplatin|docetaxel|abraxane|taxotere|arimidex|alimta|taxol|nab paclitaxel|adjuvant therapy|temodar)\b
+Complete_Response: \b(complete response|complete remission|no evidence of disease|ned|tumor resolved|full regression|complete disappearance|no evidence of recurrent disease|no signs of recurrent disease|excellent radiologic response|cr|no evidence of recurrence|no signs of disease)\b
+Immunotherapy: \b(immunotherapy|pembrolizumab|atezolizumab|durvalumab|nivolumab|keytruda|opdivo|pembro|immuno-oncology|immune checkpoint inhibitor|immune therapy)\b
+Partial_Response: \b(partial response|partial remission|significant decrease|reduction in size|tumor shrinkage|decreased mass|partial regression|good response|favorable response|improvement|pr|favorable interval response|decrease in size|good\s+response)\b
+Progressive_Disease: \b(disease progression|progressive disease|progressed|worsening disease|increase in size|new lesions|metastatic progression|tumor growth|advancing disease|pd|progression|residual disease|recurrence|positive for malignancy|new finding of abnormality|recurrent|bone metastases|metastatic disease involving)\b
+Radiotherapy: \b(radiotherapy|radiation therapy|radiation|external beam radiation|stereotactic body radiation therapy|sbirt|imrt|srs|gamma knife|whole brain radiation|wbrt|xrt|rt|radiation oncology|sbrt|ebrt|\d+\s*Gy\s*in\s*\d+\s*fractions)\b
+Stable_Disease: \b(stable disease|disease stability|no change in disease|disease unchanged|disease not progressing|sd|stable|disease stable|no evidence of disease progression|without progression|no new lesions|disease remains stable)\b
+Targeted_Therapy: \b(bevacizumab|osimertinib|cobimetinib|rociletinib|capmatinib|trametinib|alectinib|erlotinib|sotorasib|afatinib|avastin|tarceva|alimta|braf|mek|dabrafenib)\b
